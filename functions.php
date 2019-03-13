@@ -1,6 +1,10 @@
 <?php
+
 //Adds widget areas
 function blank_widgets_init(){
+    
+  //HEADER WIDGETS
+    
   //Header Widget
   register_sidebar( array(
     'name'          => ('Header Right'),
@@ -12,6 +16,8 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
+    
+  //HOME WIDGETS
   //Home-Hero Image Widget
   register_sidebar( array(
     'name'          => ('Hero Image'),
@@ -122,6 +128,8 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
+    
+  //FOOTER WIDGETS    
   //Left Footer Widget
   register_sidebar( array(
     'name'          => ('Left Footer'),
@@ -158,6 +166,7 @@ function blank_widgets_init(){
 
 add_action('widgets_init', 'blank_widgets_init');
 
+
 //Add custom menus
 function custom_menus(){
   register_nav_menus( array (
@@ -166,6 +175,7 @@ function custom_menus(){
   ));
 }
 add_action('init', 'custom_menus');
+
 
 //Create a custom header
 $custom_image_header = array(
