@@ -126,98 +126,12 @@ function blank_widgets_init(){
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
-
     
-  //INVEST PAGE WIDGETS
-  //Invest Hero Image Widget
-  register_sidebar( array(
-    'name'          => ('Invest Hero Image'),
-    'id'            => 'invest-hero-image',
-    'description'   => 'Hero image on invest page',
-    'before_widget' => '<div class="invest-hero-image">',
-    'after_widget'  => '</div>',
-    'before_title'  => '<h3 class="widget-title">',
-    'after_title'   => '</h3>'
-  )); 
     
-  //Invest - Vector Gen Approach Text Block Widget
-  register_sidebar( array(
-    'name'          => ('Invest Vector Gen Approach Text Block'),
-    'id'            => 'invest-vector-gen-approach',
-    'description'   => 'Widget Area for Vector Gen Approach Section on Invest Page',
-    'before_widget' => '<div class="invest-vector-gen-approach">',
-    'after_widget'  => '</div>',
-    'before_title'  => '<h3 class="widget-title">',
-    'after_title'   => '</h3>'
-  ));
+  //ABOUT WIDGETS INSERT HERE
     
-  //Invest - Left Investment Potential Widget
-  register_sidebar( array(
-    'name'          => ('Invest Left Icon'),
-    'id'            => 'invest-left-icon',
-    'description'   => 'Investment Potential Widget Area on The Left on Invest Page',
-    'before_widget' => '<div class="invest-left-icon">',
-    'after_widget'  => '</div>',
-    'before_title'  => '<h3 class="widget-title">',
-    'after_title'   => '</h3>'
-  ));
     
-  //Invest - Middle Investment Potential Widget
-  register_sidebar( array(
-    'name'          => ('Invest Middle Icon'),
-    'id'            => 'invest-middle-icon',
-    'description'   => 'Investment Potential Widget Area in The Middle on Invest Page',
-    'before_widget' => '<div class="invest-middle-icon">',
-    'after_widget'  => '</div>',
-    'before_title'  => '<h3 class="widget-title">',
-    'after_title'   => '</h3>'
-  ));
-
-  //Invest - Right Investment Potential Widget
-  register_sidebar( array(
-    'name'          => ('Invest Right Icon'),
-    'id'            => 'invest-right-icon',
-    'description'   => 'Investment Potential Widget Area on The Right on Invest Page',
-    'before_widget' => '<div class="invest-right-icon">',
-    'after_widget'  => '</div>',
-    'before_title'  => '<h3 class="widget-title">',
-    'after_title'   => '</h3>'
-  ));
-    
-  //Invest - Budget & Timeline Text Block Widget
-  register_sidebar( array(
-    'name'          => ('Invest Budget and Timeline Text Block'),
-    'id'            => 'budget-timelime',
-    'description'   => 'Widget Area for Budget and Timeline Section on Invest Page',
-    'before_widget' => '<div class="budget-timelime">',
-    'after_widget'  => '</div>',
-    'before_title'  => '<h3 class="widget-title">',
-    'after_title'   => '</h3>'
-  ));
-    
-  //Invest - Returns & Projections Text Block Widget
-  register_sidebar( array(
-    'name'          => ('Invest Returns and Projections Text Block'),
-    'id'            => 'returns-projections',
-    'description'   => 'Widget Area for Returns and Projections Section on Invest Page',
-    'before_widget' => '<div class="returns-projections">',
-    'after_widget'  => '</div>',
-    'before_title'  => '<h3 class="widget-title">',
-    'after_title'   => '</h3>'
-  ));
-    
-  //Invest - Become an Investor Widget
-  register_sidebar( array(
-    'name'          => ('Become and Investor Button'),
-    'id'            => 'become-investor',
-    'description'   => 'Widget Area for Become and Investor Button on Invest Page',
-    'before_widget' => '<div class="become-investor">',
-    'after_widget'  => '</div>',
-    'before_title'  => '<h3 class="widget-title">',
-    'after_title'   => '</h3>'
-  ));
-    
-  //RESEARCH WIDGETS
+  //RESEARCH WIDGETS - ABOUT SUBHEADER
   //Research - Hero Image Widget
   register_sidebar( array(
     'name'          => ('Research Hero Image'),
@@ -339,6 +253,112 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
     
+    
+  //INVEST PAGE WIDGETS
+  //Invest Hero Image Widget
+  register_sidebar( array(
+    'name'          => ('Invest Hero Image'),
+    'id'            => 'invest-hero-image',
+    'description'   => 'Hero image on invest page',
+    'before_widget' => '<div class="invest-hero-image">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  )); 
+    
+  //Invest - Vector Gen Approach Text Block Widget
+  register_sidebar( array(
+    'name'          => ('Invest Vector Gen Approach Text Block'),
+    'id'            => 'invest-vector-gen-approach',
+    'description'   => 'Widget Area for Vector Gen Approach Section on Invest Page',
+    'before_widget' => '<div class="invest-vector-gen-approach">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+    
+  //Invest - Left Investment Potential Widget
+  register_sidebar( array(
+    'name'          => ('Invest Left Icon'),
+    'id'            => 'invest-left-icon',
+    'description'   => 'Investment Potential Widget Area on The Left on Invest Page',
+    'before_widget' => '<div class="invest-left-icon">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+    
+  //Invest - Middle Investment Potential Widget
+  register_sidebar( array(
+    'name'          => ('Invest Middle Icon'),
+    'id'            => 'invest-middle-icon',
+    'description'   => 'Investment Potential Widget Area in The Middle on Invest Page',
+    'before_widget' => '<div class="invest-middle-icon">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Invest - Right Investment Potential Widget
+  register_sidebar( array(
+    'name'          => ('Invest Right Icon'),
+    'id'            => 'invest-right-icon',
+    'description'   => 'Investment Potential Widget Area on The Right on Invest Page',
+    'before_widget' => '<div class="invest-right-icon">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+    
+  //Invest - Budget & Timeline Text Block Widget
+  register_sidebar( array(
+    'name'          => ('Invest Budget and Timeline Text Block'),
+    'id'            => 'budget-timelime',
+    'description'   => 'Widget Area for Budget and Timeline Section on Invest Page',
+    'before_widget' => '<div class="budget-timelime">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+    
+  //Invest - Returns & Projections Text Block Widget
+  register_sidebar( array(
+    'name'          => ('Invest Returns and Projections Text Block'),
+    'id'            => 'returns-projections',
+    'description'   => 'Widget Area for Returns and Projections Section on Invest Page',
+    'before_widget' => '<div class="returns-projections">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+    
+  //Invest - Become an Investor Widget
+  register_sidebar( array(
+    'name'          => ('Become and Investor Button'),
+    'id'            => 'become-investor',
+    'description'   => 'Widget Area for Become and Investor Button on Invest Page',
+    'before_widget' => '<div class="become-investor">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+    
+
+  //PARTNER WIDGETS INSERT HERE
+    
+    
+  //PRESS WIDGETS INSERT HERE
+    
+    
+  //CONTACT WIDGETS
+    
+    
+  //RESOURCE CENTER WIDGETS INSERT HERE
+    
+    
+  //EXAMPLE BLOG POST WIDGETS INSERT HERE
+    
+  
   //FOOTER WIDGETS    
   //Left Footer Widget
   register_sidebar( array(
@@ -377,6 +397,7 @@ function blank_widgets_init(){
 add_action('widgets_init', 'blank_widgets_init');
 
 
+//CUSTOMIZATION AREAS
 //Add custom menus
 function custom_menus(){
   register_nav_menus( array (
