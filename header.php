@@ -15,7 +15,7 @@
     <div class="container">
      <div class="row">
        <div class="three columns">
-         <?php if(get_header_image() -- ''){?>
+         <?php if(get_header_image() == ''){?>
           <h1><a href="<?php $url = home_url('/'); echo $url; ?>"><?php bloginfo('name'); ?></a></h1><?php
         } ?>
 
@@ -27,7 +27,7 @@
 
 
 
-        
+
        </div>
 
        <div class="nine columns">
