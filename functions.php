@@ -217,6 +217,128 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
     
+  //RESEARCH WIDGETS
+  //Research - Hero Image Widget
+  register_sidebar( array(
+    'name'          => ('Research Hero Image'),
+    'id'            => 'research-hero-image',
+    'description'   => 'Hero image on research page',
+    'before_widget' => '<div class="research-hero-image">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));    
+    
+  //Research - Global Crisis Text Block Widget
+  register_sidebar( array(
+    'name'          => ('Research Global Crisis Text Block'),
+    'id'            => 'global-crisis',
+    'description'   => 'Widget Area for Global Crisis Section on Research Page',
+    'before_widget' => '<div class="global-crisis">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+    
+  //Research - Did You Know First Icon Widget
+  register_sidebar( array(
+    'name'          => ('Research Icon One'),
+    'id'            => 'research-icon-one',
+    'description'   => 'Did You Know First Icon on Research Page',
+    'before_widget' => '<div class="research-icon-one">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+    
+  //Research - Did You Know Second Icon Widget
+  register_sidebar( array(
+    'name'          => ('Research Icon Two'),
+    'id'            => 'research-icon-two',
+    'description'   => 'Did You Know Second Icon on Research Page',
+    'before_widget' => '<div class="research-icon-two">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+    
+  //Research - Did You Know Third Icon Widget
+  register_sidebar( array(
+    'name'          => ('Research Icon Three'),
+    'id'            => 'research-icon-three',
+    'description'   => 'Did You Know Third Icon on Research Page',
+    'before_widget' => '<div class="research-icon-three">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+    
+  //Research - Did You Know Fourth Icon Widget
+  register_sidebar( array(
+    'name'          => ('Research Icon Four'),
+    'id'            => 'research-icon-four',
+    'description'   => 'Did You Know Fourth Icon on Research Page',
+    'before_widget' => '<div class="research-icon-four">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Research - Image Content Grid Widget - Image 1
+  register_sidebar( array(
+    'name'          => ('Image 1 on Image Content Grid'),
+    'id'            => 'research-large-image-one',
+    'description'   => 'Image Content Grid Widget - Image 1 on Research Page Grid',
+    'before_widget' => '<div class="research-large-image-one">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+    
+  //Research - Image Content Grid Widget - Text Block 1 Combating HIV
+  register_sidebar( array(
+    'name'          => ('Combating HIV on Image Content Grid'),
+    'id'            => 'research-combating-hiv',
+    'description'   => 'Image Content Grid Widget - Combating HIV on Research Page Grid',
+    'before_widget' => '<div class="research-combating-hiv">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+    
+  //Research - Image Content Grid Widget - Image 2
+  register_sidebar( array(
+    'name'          => ('Image 2 on Image Content Grid'),
+    'id'            => 'research-large-image-two',
+    'description'   => 'Image Content Grid Widget - Image 2 on Research Page Grid',
+    'before_widget' => '<div class="research-large-image-two">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+    
+  //Research - Image Content Grid Widget - Text Block 2 VectorGen Approach
+  register_sidebar( array(
+    'name'          => ('VectorGen Approach on Image Content Grid'),
+    'id'            => 'research-vectorgen-approach',
+    'description'   => 'Image Content Grid Widget - VectorGen Approach on Research Page Grid',
+    'before_widget' => '<div class="research-vectorgen-approach">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+    
+  //Research - Future of Vectors and Gene Therapy Quote Carousel Widget
+  register_sidebar( array(
+    'name'          => ('Research Quote Carousel'),
+    'id'            => 'future',
+    'description'   => 'Widget Area for Quote Carousel on Research Page',
+    'before_widget' => '<div class="future">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+    
   //FOOTER WIDGETS    
   //Left Footer Widget
   register_sidebar( array(
