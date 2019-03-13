@@ -10,3 +10,10 @@ Text Domain: VectorGen
 
 @import url("stylesheets/normalize.css");
 @import url("stylesheets/skeleton.css");
+
+
+/* 404 Styling */
+
+.not-found {
+    padding: 40px 20px 300px;
+}
