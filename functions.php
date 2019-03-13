@@ -351,6 +351,62 @@ function blank_widgets_init(){
     
     
   //CONTACT WIDGETS
+  //Contact Hero Image Widget
+  register_sidebar( array(
+    'name'          => ('Contact Hero Image'),
+    'id'            => 'contact-hero-image',
+    'description'   => 'Hero image on contact page',
+    'before_widget' => '<div class="contact-hero-image">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  )); 
+    
+  //Contact Form Widget
+  register_sidebar( array(
+    'name'          => ('Contact Form Widget'),
+    'id'            => 'contact-form',
+    'description'   => 'Contact form on contact page',
+    'before_widget' => '<div class="contact-form">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  )); 
+    
+  //Contact - Left Topic Widget
+  register_sidebar( array(
+    'name'          => ('Left Topic Contact'),
+    'id'            => 'contact-left-topic',
+    'description'   => 'Widget Area In The Left Topic Contact Page',
+    'before_widget' => '<div class="contact-left-topic">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Contact - Middle Topic Widget
+  register_sidebar( array(
+    'name'          => ('Middle Topic Contact'),
+    'id'            => 'contact-middle-topic',
+    'description'   => 'Widget Area In The Middle Topic Contact Page',
+    'before_widget' => '<div class="contact-middle-topic">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Contact - Right Topic Widget
+  register_sidebar( array(
+    'name'          => ('Right Topic Contact'),
+    'id'            => 'contact-right-topic',
+    'description'   => 'Widget Area In The Right Topic Contact Page',
+    'before_widget' => '<div class="contact-right-topic">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Newsletter Sign Up Widget - same as widget on Home Page, see above
     
     
   //RESOURCE CENTER WIDGETS INSERT HERE

@@ -21,15 +21,15 @@
 <!--Additional Resources Section-->
     <div class="row interior-pages">
         <div class="twelve columns">
-            <?php dynamic_sidebar('left-topic-contact'); ?>
+            <?php dynamic_sidebar('contact-left-topic'); ?>
         </div>
 
         <div class="twelve columns">
-            <?php dynamic_sidebar('middle-topic-contact'); ?>
+            <?php dynamic_sidebar('contact-middle-topic'); ?>
         </div>
 
         <div class="twelve columns">
-            <?php dynamic_sidebar('right-topic-contact'); ?>
+            <?php dynamic_sidebar('contact-right-topic'); ?>
         </div>
     </div>
 
