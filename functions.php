@@ -67,6 +67,62 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
+  //Newsletter Sign Up Widget
+  register_sidebar( array(
+    'name'          => ('Newsletter Sign Up'),
+    'id'            => 'newsletter-sign-up',
+    'description'   => 'Widget Area For Newsletter Sign Up',
+    'before_widget' => '<div class="newsletter-sign-up">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Home-Far Left Logo Widget
+  register_sidebar( array(
+    'name'          => ('Far Left Logo'),
+    'id'            => 'far-left-logo',
+    'description'   => 'Far Left Widget Area For Logo On Home Page',
+    'before_widget' => '<div class="far-left-logo">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Home-Left Logo Widget
+  register_sidebar( array(
+    'name'          => ('Left Logo'),
+    'id'            => 'left-logo',
+    'description'   => 'Left Widget Area For Logo On Home Page',
+    'before_widget' => '<div class="left-logo">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Home-Right Logo Widget
+  register_sidebar( array(
+    'name'          => ('Right Logo'),
+    'id'            => 'right-logo',
+    'description'   => 'Right Widget Area For Logo On Home Page',
+    'before_widget' => '<div class="right-logo">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Home-Far Right Logo Widget
+  register_sidebar( array(
+    'name'          => ('Far Right Logo'),
+    'id'            => 'far-right-logo',
+    'description'   => 'Far Right Widget Area For Logo On Home Page',
+    'before_widget' => '<div class="far-right-logo">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+
 }
 
 add_action('widgets_init', 'blank_widgets_init');
