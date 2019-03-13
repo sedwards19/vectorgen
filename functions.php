@@ -14,4 +14,13 @@ function blank_widgets_init(){
 }
 
 add_action('widgets_init', 'blank_widgets_init');
+
+//Add custom menus
+function custom_menus(){
+  register_nav_menus( array (
+    'header-menu' => ('Header Menu'),
+    'footer-menu' => ('Footer Menu')
+  ));
+}
+add_action('init', 'custom_menus');
 ?>
