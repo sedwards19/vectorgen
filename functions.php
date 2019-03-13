@@ -10,4 +10,8 @@ add_action('init', 'custom_menus');
 
 //Add Custom Logo
 add_theme_support( 'custom-logo' );
+
+//Adds widget areas
+function blank_widgets_init(){
+
 ?>
