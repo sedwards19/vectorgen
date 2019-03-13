@@ -23,4 +23,13 @@ function custom_menus(){
   ));
 }
 add_action('init', 'custom_menus');
+
+//Create a custom header
+$custom_image_header = array(
+  'width'   => 125,
+  'height'  => 111,
+  'uploads' => true,
+);
+
+add_theme_support('custom-header', $custom_image_header);
 ?>
