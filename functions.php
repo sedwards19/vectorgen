@@ -12,7 +12,5 @@ add_action('init', 'custom_menus');
 add_theme_support( 'custom-logo' );
 
 //Adds widget areas
-function blank_widgets_init(){ }
-
 
 ?>
