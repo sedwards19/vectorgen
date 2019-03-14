@@ -40,11 +40,11 @@
 <!--Large Image + Content Grid Section-->
     <div class="row">
         <div class="six columns">
-            <?php dynamic_sidebar('research-large-image-one'); ?>
-        </div>
-
-        <div class="six columns">
             <?php dynamic_sidebar('research-combating-hiv'); ?>
+        </div>        
+        
+        <div class="six columns">
+            <?php dynamic_sidebar('research-large-image-one'); ?>
         </div>
     </div>
 

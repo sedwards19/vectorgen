@@ -197,17 +197,6 @@ function blank_widgets_init(){
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
-
-  //Research - Image Content Grid Widget - Image 1
-  register_sidebar( array(
-    'name'          => ('Image 1 on Image Content Grid'),
-    'id'            => 'research-large-image-one',
-    'description'   => 'Image Content Grid Widget - Image 1 on Research Page Grid',
-    'before_widget' => '<div class="research-large-image-one">',
-    'after_widget'  => '</div>',
-    'before_title'  => '<h3 class="widget-title">',
-    'after_title'   => '</h3>'
-  ));
     
   //Research - Image Content Grid Widget - Text Block 1 Combating HIV
   register_sidebar( array(
@@ -215,6 +204,17 @@ function blank_widgets_init(){
     'id'            => 'research-combating-hiv',
     'description'   => 'Image Content Grid Widget - Combating HIV on Research Page Grid',
     'before_widget' => '<div class="research-combating-hiv">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Research - Image Content Grid Widget - Image 1
+  register_sidebar( array(
+    'name'          => ('Image 1 on Image Content Grid'),
+    'id'            => 'research-large-image-one',
+    'description'   => 'Image Content Grid Widget - Image 1 on Research Page Grid',
+    'before_widget' => '<div class="research-large-image-one">',
     'after_widget'  => '</div>',
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
@@ -373,6 +373,8 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   )); 
     
+  //Newsletter Sign Up Widget - same as widget on Home Page, see above
+    
   //Contact - Left Topic Widget
   register_sidebar( array(
     'name'          => ('Left Topic Contact'),
@@ -405,8 +407,6 @@ function blank_widgets_init(){
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
-
-  //Newsletter Sign Up Widget - same as widget on Home Page, see above
     
     
   //RESOURCE CENTER WIDGETS INSERT HERE

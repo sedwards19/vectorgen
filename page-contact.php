@@ -15,6 +15,13 @@
         </div>
     </div>
 
+<!--Newsletter Sign Up Section-->
+    <div class="row">
+        <div class="twelve columns">
+            <?php dynamic_sidebar('newsletter-sign-up'); ?>
+        </div>
+    </div>
+    
 <!--Additional Resources Section-->
     <div class="row interior-pages">
         <div class="one-third column">
@@ -27,13 +34,6 @@
 
         <div class="one-third column">
             <?php dynamic_sidebar('contact-right-topic'); ?>
-        </div>
-    </div>
-
-<!--Newsletter Sign Up Section-->
-    <div class="row">
-        <div class="twelve columns">
-            <?php dynamic_sidebar('newsletter-sign-up'); ?>
         </div>
     </div>
 
