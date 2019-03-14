@@ -20,29 +20,26 @@
 
 <!--Investment Potential Section-->
     <div class="row">
-        <div class="twelve columns">
+        <div class="one-third column">
             <?php dynamic_sidebar('invest-left-icon'); ?>
         </div>
 
-        <div class="twelve columns">
+        <div class="one-third column">
             <?php dynamic_sidebar('invest-middle-icon'); ?>
         </div>
 
-        <div class="twelve columns">
+        <div class="one-third column">
             <?php dynamic_sidebar('invest-right-icon'); ?>
         </div>
     </div>
 
-<!--Budget & Timeline Section-->
+<!--Budget & Timeline Section + Returns & Projections Section-->
     <div class="row">
-        <div class="twelve columns">
+        <div class="six columns">
             <?php dynamic_sidebar('budget-timelime'); ?>
         </div>
-    </div>
 
-<!--Returns & Projections Section-->
-    <div class="row">
-        <div class="twelve columns">
+        <div class="six columns">
             <?php dynamic_sidebar('returns-projections'); ?>
         </div>
     </div>

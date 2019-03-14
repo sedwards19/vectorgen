@@ -4,31 +4,28 @@
 
 <div class="container">
     
-<!--Hero Image Section-->
+<!--Hero Image + Contact Form Section-->
     <div class="row">
-        <div class="twelve columns">
+        <div class="one-half column">
             <?php dynamic_sidebar('contact-hero-image'); ?>
         </div>
-    </div>
 
-<!--Contact Form Section-->
-    <div class="row">
-        <div class="twelve columns">
+        <div class="one-half column">
             <?php dynamic_sidebar('contact-form'); ?>
         </div>
     </div>
 
 <!--Additional Resources Section-->
     <div class="row interior-pages">
-        <div class="twelve columns">
+        <div class="one-third column">
             <?php dynamic_sidebar('contact-left-topic'); ?>
         </div>
 
-        <div class="twelve columns">
+        <div class="one-third column">
             <?php dynamic_sidebar('contact-middle-topic'); ?>
         </div>
 
-        <div class="twelve columns">
+        <div class="one-third column">
             <?php dynamic_sidebar('contact-right-topic'); ?>
         </div>
     </div>
