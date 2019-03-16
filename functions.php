@@ -28,6 +28,50 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
+  //Home-Far Left Icon Widget
+  register_sidebar( array(
+    'name'          => ('Far Left Icon'),
+    'id'            => 'far-left-icon',
+    'description'   => 'Far Left Widget Area For Icon On Home Page',
+    'before_widget' => '<div class="far-left-icon">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Home-Left Icon Widget
+  register_sidebar( array(
+    'name'          => ('Left Icon'),
+    'id'            => 'left-icon',
+    'description'   => 'Left Widget Area For Icon On Home Page',
+    'before_widget' => '<div class="left-icon">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Home-Right Icon Widget
+  register_sidebar( array(
+    'name'          => ('Right Icon'),
+    'id'            => 'right-icon',
+    'description'   => 'Right Widget Area For Icon On Home Page',
+    'before_widget' => '<div class="right-icon">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Home-Far Right Icon Widget
+  register_sidebar( array(
+    'name'          => ('Far Right Icon'),
+    'id'            => 'far-right-icon',
+    'description'   => 'Far Right Widget Area For Icon On Home Page',
+    'before_widget' => '<div class="far-right-icon">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
   //Home-The Vector Gen Approach Text Block Widget
   register_sidebar( array(
     'name'          => ('Vector Gen Approach Text Block'),
