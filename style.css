@@ -94,6 +94,10 @@ footer {
   min-height: 630px;
 }
 
+#test {
+  display: none;
+}
+
 /* Blog Page Styling */
 
 /* 404 Styling */
