@@ -21,6 +21,9 @@ Text Domain: VectorGen
     position: relative;
     height: 600px;
 }
+.logos-home {
+  padding: 20px 0 20px 0;
+}
 
 footer {
   background-color:  #1d3557;
