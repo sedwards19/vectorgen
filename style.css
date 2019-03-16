@@ -17,6 +17,14 @@ Text Domain: VectorGen
 /* About Page Styling */
 
 /* Research Page Styling */
+.research-hero-image {
+    background-image: url(http://www.harvestknight.com/VectorGen/wp-content/uploads/2019/02/AdobeStock_69360939-2.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 500px;
+}
 
 /* Invest Page Styling */
 .invest-hero-image {
