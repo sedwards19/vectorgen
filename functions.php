@@ -186,8 +186,8 @@ function blank_widgets_init(){
     'description'   => 'Hero image on research page',
     'before_widget' => '<div class="research-hero-image">',
     'after_widget'  => '</div>',
-    'before_title'  => '<h3 class="widget-title">',
-    'after_title'   => '</h3>'
+    'before_title'  => '<h1 class="widget-title">',
+    'after_title'   => '</h1>'
   ));
 
   //Research - Global Crisis Text Block Widget

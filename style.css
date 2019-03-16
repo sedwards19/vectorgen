@@ -78,6 +78,10 @@ footer {
     height: 500px;
 }
 
+.research-hero-image h1 {
+    color: #D83A34;
+}
+
 /* Invest Page Styling */
 .invest-hero-image {
     background-image: url(http://www.harvestknight.com/VectorGen/wp-content/uploads/2019/02/scott-webb-260726-unsplash.jpg);
