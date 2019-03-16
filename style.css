@@ -21,8 +21,8 @@ Text Domain: VectorGen
     position: relative;
     height: 600px;
 }
-.logos-home {
-  padding: 20px 0 20px 0;
+.row.interior-pages.logos-home {
+    padding: 20px 0 20px 0;
 }
 
 footer {
