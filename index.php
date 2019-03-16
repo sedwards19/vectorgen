@@ -41,20 +41,6 @@ get_header(); ?>
           </div>
       </div>
 
-      <div class="row interior-pages">
-          <div class="one-third column">
-              <?php dynamic_sidebar('bottom-left-topic-resource'); ?>
-          </div>
-
-          <div class="one-third column">
-              <?php dynamic_sidebar('bottom-middle-topic-resource'); ?>
-          </div>
-
-          <div class="one-third column">
-              <?php dynamic_sidebar('bottom-right-topic-resource'); ?>
-          </div>
-      </div>
-
       <div class="row featured-posts">
           <div class="one-half column">
               <?php dynamic_sidebar('featured-post'); ?>
@@ -64,8 +50,6 @@ get_header(); ?>
               <?php dynamic_sidebar('featured-post'); ?>
           </div>
       </div>
-
-
 
 </div>
 
