@@ -55,7 +55,7 @@ get_header(); ?>
           </div>
       </div>
 
-      <div class="row interior-pages">
+      <div class="row featured-posts">
           <div class="one-half column">
               <?php dynamic_sidebar('featured-post'); ?>
           </div>
