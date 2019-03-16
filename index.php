@@ -42,7 +42,7 @@ get_header(); ?>
       </div>
 
 <!-- Featured Posts -->
-
+      <div class="row featured-posts">
           <div class="one-half column">
               <?php dynamic_sidebar('featured-post'); ?>
           </div>
@@ -51,21 +51,6 @@ get_header(); ?>
               <?php dynamic_sidebar('featured-post'); ?>
           </div>
       </div>
-  <div class="row featured-posts">
-    <?php
-        if(have_posts()){
-            while(have_posts()){
-                the_post();?>
-                <div class="one-half column posts">
-                    <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
-                    <?php the_post_thumbnail('thumb'); ?>
-                   <p><?php echo "Published: " . get_the_date(); ?></p>
-                   <?php the_excerpt(); ?>
-                </div>
-<?php        }// this ends the while loop
-        }// this ends the if statement
-    ?>
-    </div>
 
 </div>
 
