@@ -2,7 +2,7 @@
 
 //Adds widget areas
 function blank_widgets_init(){
-    
+
   //HEADER WIDGETS
   //Header Widget
   register_sidebar( array(
@@ -15,7 +15,7 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
-    
+
   //HOME WIDGETS
   //Home-Hero Image Widget
   register_sidebar( array(
@@ -126,11 +126,11 @@ function blank_widgets_init(){
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
-    
-    
+
+
   //ABOUT WIDGETS INSERT HERE
-    
-    
+
+
   //RESEARCH WIDGETS - ABOUT SUBHEADER
   //Research - Hero Image Widget
   register_sidebar( array(
@@ -141,8 +141,8 @@ function blank_widgets_init(){
     'after_widget'  => '</div>',
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
-  ));    
-    
+  ));
+
   //Research - Global Crisis Text Block Widget
   register_sidebar( array(
     'name'          => ('Research Global Crisis Text Block'),
@@ -153,7 +153,7 @@ function blank_widgets_init(){
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
-    
+
   //Research - Did You Know First Icon Widget
   register_sidebar( array(
     'name'          => ('Research Icon One'),
@@ -164,7 +164,7 @@ function blank_widgets_init(){
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
-    
+
   //Research - Did You Know Second Icon Widget
   register_sidebar( array(
     'name'          => ('Research Icon Two'),
@@ -175,7 +175,7 @@ function blank_widgets_init(){
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
-    
+
   //Research - Did You Know Third Icon Widget
   register_sidebar( array(
     'name'          => ('Research Icon Three'),
@@ -186,7 +186,7 @@ function blank_widgets_init(){
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
-    
+
   //Research - Did You Know Fourth Icon Widget
   register_sidebar( array(
     'name'          => ('Research Icon Four'),
@@ -197,7 +197,7 @@ function blank_widgets_init(){
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
-    
+
   //Research - Image Content Grid Widget - Text Block 1 Combating HIV
   register_sidebar( array(
     'name'          => ('Combating HIV on Image Content Grid'),
@@ -219,7 +219,7 @@ function blank_widgets_init(){
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
-    
+
   //Research - Image Content Grid Widget - Image 2
   register_sidebar( array(
     'name'          => ('Image 2 on Image Content Grid'),
@@ -230,7 +230,7 @@ function blank_widgets_init(){
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
-    
+
   //Research - Image Content Grid Widget - Text Block 2 VectorGen Approach
   register_sidebar( array(
     'name'          => ('VectorGen Approach on Image Content Grid'),
@@ -241,7 +241,7 @@ function blank_widgets_init(){
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
-    
+
   //Research - Future of Vectors and Gene Therapy Quote Carousel Widget
   register_sidebar( array(
     'name'          => ('Research Quote Carousel'),
@@ -252,8 +252,8 @@ function blank_widgets_init(){
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
-    
-    
+
+
   //INVEST PAGE WIDGETS
   //Invest Hero Image Widget
   register_sidebar( array(
@@ -264,8 +264,8 @@ function blank_widgets_init(){
     'after_widget'  => '</div>',
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
-  )); 
-    
+  ));
+
   //Invest - Vector Gen Approach Text Block Widget
   register_sidebar( array(
     'name'          => ('Invest Vector Gen Approach Text Block'),
@@ -276,7 +276,7 @@ function blank_widgets_init(){
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
-    
+
   //Invest - Left Investment Potential Widget
   register_sidebar( array(
     'name'          => ('Invest Left Icon'),
@@ -287,7 +287,7 @@ function blank_widgets_init(){
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
-    
+
   //Invest - Middle Investment Potential Widget
   register_sidebar( array(
     'name'          => ('Invest Middle Icon'),
@@ -309,7 +309,7 @@ function blank_widgets_init(){
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
-    
+
   //Invest - Budget & Timeline Text Block Widget
   register_sidebar( array(
     'name'          => ('Invest Budget and Timeline Text Block'),
@@ -320,7 +320,7 @@ function blank_widgets_init(){
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
-    
+
   //Invest - Returns & Projections Text Block Widget
   register_sidebar( array(
     'name'          => ('Invest Returns and Projections Text Block'),
@@ -331,7 +331,7 @@ function blank_widgets_init(){
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
-    
+
   //Invest - Become an Investor Widget
   register_sidebar( array(
     'name'          => ('Become and Investor Button'),
@@ -342,14 +342,14 @@ function blank_widgets_init(){
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
-    
+
 
   //PARTNER WIDGETS INSERT HERE
-    
-    
+
+
   //PRESS WIDGETS INSERT HERE
-    
-    
+
+
   //CONTACT WIDGETS
   //Contact Hero Image Widget
   register_sidebar( array(
@@ -360,8 +360,8 @@ function blank_widgets_init(){
     'after_widget'  => '</div>',
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
-  )); 
-    
+  ));
+
   //Contact Form Widget
   register_sidebar( array(
     'name'          => ('Contact Form Widget'),
@@ -371,10 +371,10 @@ function blank_widgets_init(){
     'after_widget'  => '</div>',
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
-  )); 
-    
+  ));
+
   //Newsletter Sign Up Widget - same as widget on Home Page, see above
-    
+
   //Contact - Left Topic Widget
   register_sidebar( array(
     'name'          => ('Left Topic Contact'),
@@ -407,15 +407,24 @@ function blank_widgets_init(){
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
-    
-    
+
+
   //RESOURCE CENTER WIDGETS INSERT HERE
-    
-    
+  //Resource Center- Hero Image Widget
+  register_sidebar( array(
+    'name'          => ('Resource Hero Image'),
+    'id'            => 'resource-hero-image',
+    'description'   => 'Hero image on resource page',
+    'before_widget' => '<div class="resource-hero-image">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
   //EXAMPLE BLOG POST WIDGETS INSERT HERE
-    
-  
-  //FOOTER WIDGETS    
+
+
+  //FOOTER WIDGETS
   //Left Footer Widget
   register_sidebar( array(
     'name'          => ('Left Footer'),
