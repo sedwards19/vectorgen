@@ -88,6 +88,10 @@ footer {
     height: 500px;
 }
 
+.invest-hero-image h1 {
+    color: #D83A34;
+}
+
 .become-investor {
   background-image: url(http://www.harvestknight.com/VectorGen/wp-content/uploads/2019/03/red-tile_with-overlay.jpg);
   background-position: center;

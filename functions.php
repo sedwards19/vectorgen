@@ -309,8 +309,8 @@ function blank_widgets_init(){
     'description'   => 'Hero image on invest page',
     'before_widget' => '<div class="invest-hero-image">',
     'after_widget'  => '</div>',
-    'before_title'  => '<h3 class="widget-title">',
-    'after_title'   => '</h3>'
+    'before_title'  => '<h1 class="widget-title">',
+    'after_title'   => '</h1>'
   ));
 
   //Invest - Vector Gen Approach Text Block Widget
