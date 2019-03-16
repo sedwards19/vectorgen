@@ -96,6 +96,30 @@ footer {
     color: #D83A34;
 }
 
+.invest-vector-gen-approach {
+  background-color: #FFFFFF;
+}
+
+.invest-vector-gen-approach h3 {
+  color: #307FE2;
+}
+
+.invest-h3 {
+  color: #D83A34;
+}
+
+.budget-timelime {
+    background-color: #1D3557;
+}
+
+.budget-timelime h3, .budget-timelime p, .returns-projections h3, .returns-projections p, .become-investor h3 {
+    color: #FFFFFF;
+}
+
+.returns-projections {
+  background-color: #B9E0F7;
+}
+
 .become-investor {
   background-image: url(http://www.harvestknight.com/VectorGen/wp-content/uploads/2019/03/red-tile_with-overlay.jpg);
   background-position: center;
