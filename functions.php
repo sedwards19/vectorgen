@@ -488,9 +488,6 @@ function blank_widgets_init(){
   ));
 
   //EXAMPLE BLOG POST WIDGETS INSERT HERE
-  //adds featured images to posts
-    add_theme_support('post-thumbnails');
-
     register_sidebar( array(
       'name'          => ('featured-post'),
       'id'            => 'featured-post',
