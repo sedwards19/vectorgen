@@ -10,6 +10,24 @@
   </div>
 
 <!--Icon Section-->
+  <div class="row interior-pages">
+    <div class="three columns">
+      <?php dynamic_sidebar('far-left-icon'); ?>
+    </div>
+
+    <div class="three columns">
+      <?php dynamic_sidebar('left-icon'); ?>
+    </div>
+
+    <div class="three columns">
+      <?php dynamic_sidebar('right-icon'); ?>
+    </div>
+
+    <div class="three columns">
+      <?php dynamic_sidebar('far-right-icon'); ?>
+    </div>
+  </div>
+
 
 <!--Vector Gen Approach Section-->
   <div class="row">
@@ -17,6 +35,7 @@
       <?php dynamic_sidebar('vector-gen-approach'); ?>
     </div>
   </div>
+
 
 <!--Topics Section-->
   <div class="row interior-pages">
