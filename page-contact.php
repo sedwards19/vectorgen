@@ -21,8 +21,14 @@
             <?php dynamic_sidebar('newsletter-sign-up'); ?>
         </div>
     </div>
-    
+
 <!--Additional Resources Section-->
+    <div class="row">
+        <div class="twelve columns">
+            <h3>ADDITIONAL RESOURCES</h3>
+        </div>
+    </div>
+
     <div class="row interior-pages">
         <div class="one-third column">
             <?php dynamic_sidebar('contact-left-topic'); ?>
