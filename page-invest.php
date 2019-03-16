@@ -20,7 +20,12 @@
 
 <!--Investment Potential Section-->
     <div class="row">
-      <h3>Investment Potential</h3>
+      <div class="twelve columns">
+          <h3>Investment Potential</h3>
+      </div>
+    </div>
+
+    <div class="row">
         <div class="one-third column">
             <?php dynamic_sidebar('invest-left-icon'); ?>
         </div>
