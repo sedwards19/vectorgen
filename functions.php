@@ -488,6 +488,21 @@ function blank_widgets_init(){
   ));
 
   //EXAMPLE BLOG POST WIDGETS INSERT HERE
+  //adds featured images to posts
+    add_theme_support('post-thumbnails');
+
+
+
+  //SIDEBAR
+  register_sidebar( array(
+    'name'          => ('Sidebar'),
+    'id'            => 'sidebar',
+    'description'   => 'Sidebar widget area in the blog post page',
+    'before_widget' => '<div class="widget-sidebar">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
 
 
   //FOOTER WIDGETS
