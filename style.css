@@ -13,6 +13,14 @@ Text Domain: VectorGen
 
 
 /* Home Page Styling */
+.hero-image-widget {
+    background-image: url(http://www.harvestknight.com/VectorGen/wp-content/uploads/2019/03/homepage-heroimage.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 600px;
+}
 
 /* About Page Styling */
 
