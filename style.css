@@ -112,12 +112,16 @@ footer {
     background-color: #1D3557;
 }
 
-.budget-timelime h3, .budget-timelime p, .returns-projections h3, .returns-projections p, .become-investor h3 {
+.budget-timelime h3, .budget-timelime p, .become-investor h3 {
     color: #FFFFFF;
 }
 
 .returns-projections {
   background-color: #B9E0F7;
+}
+
+.returns-projections h3, .returns-projections p {
+  color: #1D3557;
 }
 
 .become-investor {
