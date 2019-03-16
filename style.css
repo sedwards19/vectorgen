@@ -12,10 +12,29 @@ Text Domain: VectorGen
 @import url("stylesheets/skeleton.css");
 
 
+/* Home Page Styling */
 
+/* About Page Styling */
+
+/* Research Page Styling */
+
+/* Invest Page Styling */
 .invest-hero-image {
-  background-image: url(http://www.harvestknight.com/VectorGen/wp-content/uploads/2019/02/scott-webb-260726-unsplash.jpg);
+    background-image: url(http://www.harvestknight.com/VectorGen/wp-content/uploads/2019/02/scott-webb-260726-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 500px;
 }
+
+/* Partner Page Styling */
+
+/* Press Page Styling */
+
+/* Contact Page Styling */
+
+/* Blog Page Styling */
 
 /* 404 Styling */
 
