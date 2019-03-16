@@ -3,7 +3,7 @@
 <?php get_header(); ?>
 
 <div class="container">
-    
+
 <!--Hero Image Section-->
     <div class="row">
         <div class="twelve columns">
@@ -20,6 +20,7 @@
 
 <!--Investment Potential Section-->
     <div class="row">
+      <h3>Investment Potential</h3>
         <div class="one-third column">
             <?php dynamic_sidebar('invest-left-icon'); ?>
         </div>
@@ -43,7 +44,7 @@
             <?php dynamic_sidebar('returns-projections'); ?>
         </div>
     </div>
-    
+
 <!--Become an Investor Section-->
     <div class="row">
         <div class="twelve columns">
