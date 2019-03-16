@@ -10,7 +10,7 @@
   </div>
 
 <!--Icon Section-->
-  <div class="row interior-pages">
+  <div class="row interior-pages icons-home">
     <div class="three columns">
       <?php dynamic_sidebar('far-left-icon'); ?>
     </div>
