@@ -28,6 +28,15 @@ Text Domain: VectorGen
     height: 500px;
 }
 
+.become-investor {
+  background-image: url(http://www.harvestknight.com/VectorGen/wp-content/uploads/2019/03/red-tile.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 200px;
+}
+
 /* Partner Page Styling */
 
 /* Press Page Styling */
