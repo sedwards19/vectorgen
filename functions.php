@@ -491,7 +491,15 @@ function blank_widgets_init(){
   //adds featured images to posts
     add_theme_support('post-thumbnails');
 
-
+    register_sidebar( array(
+      'name'          => ('featured-post'),
+      'id'            => 'featured-post',
+      'description'   => 'Featured post widget area in the blog page',
+      'before_widget' => '<div class="featured-post">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3 class="widget-title">',
+      'after_title'   => '</h3>'
+    ));
 
   //SIDEBAR
   register_sidebar( array(
