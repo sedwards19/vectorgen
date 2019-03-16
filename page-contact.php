@@ -3,7 +3,7 @@
 <?php get_header(); ?>
 
 <div class="container">
-    
+
 <!--Hero Image + Contact Form Section-->
     <div class="row">
         <div class="one-half column">
