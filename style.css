@@ -8,6 +8,23 @@ License: Open
 Text Domain: VectorGen
 */
 
+
+/* Website Colors
+HERO COLORS
+#307FE2 - sky blue
+#1D3557 - navy blue
+#D83A34 - red
+
+NEUTRAL COLORS
+#FFFFFF - white
+#677485 - light gray
+#2D333A - dark gray
+
+ACCENTS
+#B9E0F7 - baby blue
+*/
+
+
 @import url("stylesheets/normalize.css");
 @import url("stylesheets/skeleton.css");
 
