@@ -21,7 +21,7 @@
 <!--Investment Potential Section-->
     <div class="row">
       <div class="twelve columns">
-          <h3>Investment Potential</h3>
+          <h3>INVESTMENT POTENTIAL</h3>
       </div>
     </div>
 
