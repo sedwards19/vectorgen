@@ -61,7 +61,7 @@
     </div>
 
   <!--Logos-->
-  <div class="row interior-pages">
+  <div class="row interior-pages logos-home">
     <div class="three columns">
       <?php dynamic_sidebar('far-left-logo'); ?>
     </div>
