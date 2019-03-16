@@ -3,7 +3,7 @@
 <?php get_header(); ?>
 
 <div class="container">
-    
+
 <!--Hero Image Section-->
     <div class="row">
         <div class="twelve columns">
@@ -20,6 +20,12 @@
 
 <!--Icon Section-->
     <div class="row">
+        <div class="twelve columns">
+            <h3>Did You Know?</h3>
+        </div>
+    </div>
+
+    <div class="row">
         <div class="three columns">
             <?php dynamic_sidebar('research-icon-one'); ?>
         </div>
@@ -31,18 +37,18 @@
         <div class="three columns">
             <?php dynamic_sidebar('research-icon-three'); ?>
         </div>
-        
+
         <div class="three columns">
             <?php dynamic_sidebar('research-icon-four'); ?>
         </div>
     </div>
-    
+
 <!--Large Image + Content Grid Section-->
     <div class="row">
         <div class="six columns">
             <?php dynamic_sidebar('research-combating-hiv'); ?>
-        </div>        
-        
+        </div>
+
         <div class="six columns">
             <?php dynamic_sidebar('research-large-image-one'); ?>
         </div>
@@ -52,7 +58,7 @@
         <div class="six columns">
             <?php dynamic_sidebar('research-large-image-two'); ?>
         </div>
-        
+
         <div class="six columns">
             <?php dynamic_sidebar('research-vectorgen-approach'); ?>
         </div>
