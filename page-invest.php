@@ -7,7 +7,6 @@
 <!--Hero Image Section-->
     <div class="row">
         <div class="twelve columns">
-            <?php the_post_thumbnail ('large'); ?>
             <?php dynamic_sidebar('invest-hero-image'); ?>
         </div>
     </div>

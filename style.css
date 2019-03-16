@@ -12,6 +12,11 @@ Text Domain: VectorGen
 @import url("stylesheets/skeleton.css");
 
 
+
+.invest-hero-image {
+  background-image: url(http://www.harvestknight.com/VectorGen/wp-content/uploads/2019/02/scott-webb-260726-unsplash.jpg);
+}
+
 /* 404 Styling */
 
 .not-found {
