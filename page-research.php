@@ -21,7 +21,7 @@
 <!--Icon Section-->
     <div class="row">
         <div class="twelve columns">
-            <h3>Did You Know?</h3>
+            <h3>Did You Know?</h3> 
         </div>
     </div>
 
