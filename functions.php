@@ -421,6 +421,72 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
+  //Resource Page-Top Left Topic Widget
+  register_sidebar( array(
+    'name'          => ('Top Left Topic Resource'),
+    'id'            => 'top-left-topic-resource',
+    'description'   => 'Widget Area In The Top Left Topic Resource Page',
+    'before_widget' => '<div class="top-left-topic-resource">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Resource Page-Top Middle Topic Widget
+  register_sidebar( array(
+    'name'          => ('Top Middle Topic Resource'),
+    'id'            => 'top-middle-topic-resource',
+    'description'   => 'Widget Area In The Top Middle Topic Resource Page',
+    'before_widget' => '<div class="top-middle-topic-resource">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Resource Page-Top Right Topic Widget
+  register_sidebar( array(
+    'name'          => ('Top Right Topic Resource'),
+    'id'            => 'top-right-topic-resource',
+    'description'   => 'Widget Area In The Top Right Topic Resource Page',
+    'before_widget' => '<div class="top-right-topic-resource">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Resource Page-Bottom Left Topic Widget
+  register_sidebar( array(
+    'name'          => ('Bottom Left Topic Resource'),
+    'id'            => 'bottom-left-topic-resource',
+    'description'   => 'Widget Area In The Bottom Left Topic Resource Page',
+    'before_widget' => '<div class="bottom-left-topic-resource">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Resource Page-Bottom Middle Topic Widget
+  register_sidebar( array(
+    'name'          => ('Bottom Middle Topic Resource'),
+    'id'            => 'bottom-middle-topic-resource',
+    'description'   => 'Widget Area In The Bottom Middle Topic Resource Page',
+    'before_widget' => '<div class="bottom-middle-topic-resource">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Resource Page-Bottom Right Topic Widget
+  register_sidebar( array(
+    'name'          => ('Bottom Right Topic Resource'),
+    'id'            => 'bottom-right-topic-resource',
+    'description'   => 'Widget Area In The Bottom Right Topic Resource Page',
+    'before_widget' => '<div class="bottom-right-topic-resource">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
   //EXAMPLE BLOG POST WIDGETS INSERT HERE
 
 
