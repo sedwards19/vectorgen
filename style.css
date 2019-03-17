@@ -370,6 +370,17 @@ h3.additional-resources {
 }
 
 /*Resource Page Styling*/
+.resource-hero-image{
+    text-align: center;
+    background-image: url(http://www.harvestknight.com/VectorGen/wp-content/uploads/2019/02/background-binoculars-black-267596.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 250px;
+    color: #1D3557;
+}
+
 
 /* Blog Page Styling */
 
