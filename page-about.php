@@ -10,7 +10,7 @@
             <?php dynamic_sidebar('about-image'); ?>
         </div>
 
-        <div class="one-half column">
+        <div class="one-half column about-text">
             <?php dynamic_sidebar('about-discover'); ?>
         </div>
     </div>
