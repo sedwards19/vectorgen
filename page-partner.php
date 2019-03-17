@@ -42,7 +42,7 @@
       </div>
 
 <!--Our Partner Bios Section-->
-    <div class="row interior-pages">
+    <div class="row interior-pages partner-bios">
 
       <div class="one-half column">
         <?php dynamic_sidebar('left-partner-bio'); ?>
