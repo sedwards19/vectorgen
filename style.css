@@ -250,6 +250,9 @@ h5.testimonial_rotator_slide_title, .testimonial_rotator_quote {
     padding: 30px;
     color: #2D333A;
 }
+.twelve.columns.research-text {
+    text-align: center;
+}
 
 /* Press Page Styling */
 
