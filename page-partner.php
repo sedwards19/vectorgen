@@ -44,11 +44,11 @@
 <!--Our Partner Bios Section-->
     <div class="row interior-pages">
 
-      <div class="one-third column">
+      <div class="one-half column">
         <?php dynamic_sidebar('left-partner-bio'); ?>
       </div>
 
-      <div class="one-third column">
+      <div class="one-half column">
         <?php dynamic_sidebar('right-partner-bio'); ?>
       </div>
     </div>
