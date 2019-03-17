@@ -645,7 +645,7 @@ function blank_widgets_init(){
     'name'          => ('Resource Hero Image'),
     'id'            => 'resource-hero-image',
     'description'   => 'Hero image on resource page',
-    'before_widget' => '<div class="resource-hero-image-widget">',
+    'before_widget' => '<div class="resource-hero-image">',
     'after_widget'  => '</div>',
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
