@@ -97,43 +97,29 @@ footer {
 }
 
 .invest-vector-gen-approach {
-  background-color: #FFFFFF;
+    background-color: #FFFFFF;
 }
 
 .invest-vector-gen-approach h3 {
   color: #307FE2;
   text-align: center;
-  padding-top: 35px;
-  font-size: 30px;
 }
 
 .invest-vector-gen-approach h4 {
   text-align: center;
-  font-size: 20px;
 }
 
 .invest-vector-gen-approach p {
     text-align: center;
-    font-size: 14px;
 }
 
 .invest-h3 {
     color: #D83A34;
     text-align: center;
-    padding-top: 35px;
-    font-size: 30px;
-}
-
-.invest-left-icon img, .invest-middle-icon img, .invest-right-icon img {
-    height: 90px;
-    width: 90px;
-    margin: auto;
-    display: flex;
 }
 
 .invest-left-icon p, .invest-middle-icon p, .invest-right-icon p {
     text-align: center;
-    font-size: 14px;
 }
 
 .budget-timelime {
@@ -144,20 +130,8 @@ footer {
     color: #FFFFFF;
 }
 
-.budget-timelime h3, .returns-projections h3 {
+.budget-timelime h3, .returns-projections h3, .budget-timelime p, .returns-projections p {
     text-align: left;
-    padding-left: 35px;
-    padding-bottom: 15px;
-    padding-top: 35px;
-    font-size: 25px;
-}
-
-.budget-timelime p, .returns-projections p {
-    text-align: left;
-    padding-left: 35px;
-    padding-bottom: 35px;
-    padding-right: 35px;
-    font-size: 14px;
 }
 
 .returns-projections {
@@ -179,8 +153,6 @@ footer {
 
 .become-investor h3 {
     text-align: center;
-    padding: 20px;
-    font-size: 30px;
 }
 
 /* Partner Page Styling */
