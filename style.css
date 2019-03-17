@@ -162,7 +162,7 @@ footer {
 
 .maxbutton-1.maxbutton.maxbutton-contact-now {
     margin: auto;
-    display: flex;
+    display: flex; 
 }
 
 .maxbutton-1.maxbutton.maxbutton-contact-now .mb-text {
