@@ -92,6 +92,11 @@ footer p {
     line-height: 1;
 }
 /* About Page Styling */
+.one-half.column.about-text {
+  background-color: #b9e0e7;
+  padding: 30px;
+  color: #2D333A;
+}
 
 /* Research Page Styling */
 .research-hero-image {
