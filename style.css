@@ -238,6 +238,66 @@ h5.testimonial_rotator_slide_title, .testimonial_rotator_quote {
   display: none;
 }
 
+.contact-form h3, h4 {
+    color: #1D3557;
+}
+
+#wpforms-154-field_1, #wpforms-154-field_1-last, #wpforms-154-field_2, #wpforms-154-field_3, #wpforms-154-field_4 {
+    background-color: #B9E0F7;
+}
+
+button#wpforms-submit-154 {
+    color: #FFFFFF;
+    font-size: 15px;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    padding-top: 13px;
+    padding-right: 13px;
+    padding-bottom: 13px;
+    padding-left: 13px;
+    line-height: 1em;
+    box-sizing: border-box;
+    display: block;
+    background-color: #D83A34;
+}
+
+button#wpforms-submit-154:hover {
+    color: #D83A34;
+    font-size: 15px;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    padding-top: 13px;
+    padding-right: 13px;
+    padding-bottom: 13px;
+    padding-left: 13px;
+    line-height: 1em;
+    box-sizing: border-box;
+    display: block;
+    background-color: #FFFFFF;
+    border: #D83A34 solid 2px;
+}
+
+.newsletter-sign-up {
+    background-image: url(http://www.harvestknight.com/VectorGen/wp-content/uploads/2019/02/AdobeStock_100657967.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 300px;
+}
+
+.newsletter-sign-up h3, .newsletter-sign-up p {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+button#wpforms-submit-157 {
+    background-color: #D83A34;
+    color: #FFFFFF;
+}
+
 /* Blog Page Styling */
 
 /* 404 Styling */
