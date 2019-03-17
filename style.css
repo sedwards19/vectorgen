@@ -47,6 +47,12 @@ ACCENTS
 }
 .vector-gen-approach {
     text-align: center;
+    background-image: url(http://www.harvestknight.com/VectorGen/wp-content/uploads/2019/03/red-tile_with-overlay.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 300px;
 }
 
 /*Header Styling*/
