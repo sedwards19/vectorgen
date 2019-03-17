@@ -55,7 +55,7 @@
 
 <!--Ready To Join Section-->
       <div class="row">
-        <div class="twelve columns">
+        <div class="twelve columns ready-to-join">
           <?php dynamic_sidebar('ready-to-join'); ?>
         </div>
       </div>
