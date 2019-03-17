@@ -412,6 +412,20 @@ h3.additional-resources {
   color: #white;
 }
 
+.top-left-topic-resource, .top-middle-topic-resource, .top-right-topic-resource, .bottom-left-topic-resource, .bottom-middle-topic-resource, .bottom-right-topic-resource {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.top-left-topic-resource, .top-right-topic-resource, .bottom-middle-topic-resource {
+    background-color: #2D333A;
+}
+
+.top-middle-topic-resource, .bottom-left-topic-resource, .bottom-right-topic-resource {
+    background-color: #1D3557;
+}
+
+
 
 /* Blog Page Styling */
 
