@@ -112,7 +112,9 @@ footer p {
   position: relative;
   padding: 30px;
 }
-
+.left-bio,.middle-bio,.right-bio {
+    padding: 0px 30px;
+}
 
 
 
