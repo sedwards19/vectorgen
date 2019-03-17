@@ -82,6 +82,66 @@ footer {
     color: #D83A34;
 }
 
+.global-crisis {
+    background-color: #FFFFFF;
+}
+
+.global-crisis h3 {
+    color: #307FE2;
+    text-align: center;
+}
+
+.global-crisis h4 {
+    text-align: center;
+}
+
+.global-crisis p {
+    text-align: center;
+}
+
+.did-you-know {
+    color: #D83A34;
+    text-align: center;
+}
+
+.research-icon-one p, .research-icon-two p, .research-icon-three p, .research-icon-four p {
+    text-align: center;
+}
+
+.research-icon-one img, .research-icon-two img, .research-icon-three img, .research-icon-four img {
+    margin: auto;
+    display: flex;
+}
+
+.research-combating-hiv {
+    background-color: #1D3557;
+}
+
+.research-combating-hiv h3, .research-combating-hiv p {
+    color: #FFFFFF;
+}
+
+.research-combating-hiv h3, .research-vectorgen-approach h3, .research-combating-hiv p, .research-vectorgen-approach p {
+    text-align: left;
+}
+
+.research-vectorgen-approach {
+    background-color: #B9E0F7;
+}
+
+.research-vectorgen-approach h3, .research-vectorgen-approach p {
+    color: #1D3557;
+}
+
+.future h3 {
+    text-align: center;
+    color: #D83A34;
+}
+
+.future p {
+  text-align: center;
+}
+
 /* Invest Page Styling */
 .invest-hero-image {
     background-image: url(http://www.harvestknight.com/VectorGen/wp-content/uploads/2019/02/scott-webb-260726-unsplash.jpg);
