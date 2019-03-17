@@ -36,7 +36,7 @@
 
 <!--Our Research Section-->
       <div class="row">
-        <div class="twelve columns">
+        <div class="twelve columns research-text">
           <?php dynamic_sidebar('our-research'); ?>
         </div>
       </div>
