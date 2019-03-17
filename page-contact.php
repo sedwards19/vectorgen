@@ -25,7 +25,7 @@
 <!--Additional Resources Section-->
     <div class="row">
         <div class="twelve columns">
-            <h3>ADDITIONAL RESOURCES</h3>
+            <h3 class="additional-resources">ADDITIONAL RESOURCES</h3>
         </div>
     </div>
 
