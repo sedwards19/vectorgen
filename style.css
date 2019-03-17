@@ -298,6 +298,12 @@ button#wpforms-submit-157 {
     color: #FFFFFF;
 }
 
+button#wpforms-submit-157:hover {
+    background-color: #FFFFFF;
+    color: #D83A34;
+    border: #D83A34 solid 2px;
+}
+
 /* Blog Page Styling */
 
 /* 404 Styling */
