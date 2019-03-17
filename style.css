@@ -246,6 +246,9 @@ h5.testimonial_rotator_slide_title, .testimonial_rotator_quote {
 }
 
 /* Partner Page Styling */
+.row.interior-pages.partner-logos {
+    padding: 10px 0;
+}
 .one-half.column.partner-right {
     background-color: #b9e0e7;
     padding: 30px;
