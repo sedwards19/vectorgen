@@ -309,7 +309,7 @@ h3.additional-resources {
     color: #1D3557;
 }
 
-h3.additional-resources, .contact-left-topic, .contact-middle-topic, .contact-right-topic {
+.contact-left-topic, .contact-middle-topic, .contact-right-topic {
     text-align: center;
     color: #FFFFFF;
 }
