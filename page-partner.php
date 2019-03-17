@@ -4,14 +4,14 @@
 
 <div class="container">
 
-<!-- Image + About Info Section-->
+<!-- Image + Partner Info Section-->
     <div class="row">
         <div class="one-half column">
-            <?php dynamic_sidebar('about-image'); ?>
+            <?php dynamic_sidebar('partner-image'); ?>
         </div>
 
         <div class="one-half column">
-            <?php dynamic_sidebar('about-discover'); ?>
+            <?php dynamic_sidebar('partner-text'); ?>
         </div>
     </div>
 
@@ -37,7 +37,7 @@
 <!--Our Research Section-->
       <div class="row">
         <div class="twelve columns">
-          <?php dynamic_sidebar('vector-gen-approach'); ?>
+          <?php dynamic_sidebar('our-research'); ?>
         </div>
       </div>
 
