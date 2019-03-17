@@ -1,6 +1,6 @@
-<?php /*Template Name: Main Blog Page - Resource Center*/
+<?php /*Template Name: Main Blog Page - Resource Center*/ ?>
 
-get_header(); ?>
+<?php get_header(); ?>
 
 <div class="container">
 

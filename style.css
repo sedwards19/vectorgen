@@ -92,37 +92,6 @@ footer p {
     line-height: 1;
 }
 /* About Page Styling */
-.one-half.column.about-text {
-  background-color: #b9e0e7;
-  padding: 30px;
-  color: #2D333A;
-}
-.our-mission {
-  background-color: #b9e0e7;
-  padding: 30px;
-  text-align: center;
-}
-.our-values {
-  color: white;
-  text-align: center;
-  background-image: url(http://www.harvestknight.com/VectorGen/wp-content/uploads/2019/03/blue-overlay.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  padding: 30px;
-}
-.left-bio,.middle-bio,.right-bio {
-    padding: 0px 30px;
-    text-align: center;
-}
-
-
-
-
-
-
-
 
 /* Research Page Styling */
 .research-hero-image {
@@ -406,13 +375,12 @@ h3.additional-resources {
 
 /*Resource Page Styling*/
 .resource-hero-image {
-    text-align: center;
     background-image: url(http://www.harvestknight.com/VectorGen/wp-content/uploads/2019/03/binoculars.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    height: 250px;
+    max-height: 250px;
     color: #1D3557;
 }
 
