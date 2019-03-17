@@ -16,7 +16,7 @@
     </div>
 
 <!--Partner Logos-->
-    <div class="row interior-pages">
+    <div class="row interior-pages partner-logos">
       <div class="three columns">
         <?php dynamic_sidebar('far-left-logo'); ?>
       </div>
