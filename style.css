@@ -109,8 +109,7 @@ footer {
 
 .invest-vector-gen-approach h4 {
   text-align: center;
-  padding-top: 35px;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .invest-vector-gen-approach p {
@@ -147,7 +146,9 @@ footer {
 
 .budget-timelime h3, .returns-projections h3 {
     text-align: left;
-    padding: 35px;
+    padding-left: 35px;
+    padding-bottom: 35px;
+    padding-top: 35px;
     font-size: 25px;
 }
 
@@ -155,6 +156,7 @@ footer {
     text-align: left;
     padding-left: 35px;
     padding-bottom: 35px;
+    padding-right: 35px;
     font-size: 14px;
 }
 
