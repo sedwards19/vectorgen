@@ -246,6 +246,9 @@ h5.testimonial_rotator_slide_title, .testimonial_rotator_quote {
 }
 
 /* Partner Page Styling */
+.row.interior-pages.partner-logos {
+    padding: 10px 0;
+}
 .one-half.column.partner-right {
     background-color: #b9e0e7;
     padding: 30px;
@@ -253,7 +256,8 @@ h5.testimonial_rotator_slide_title, .testimonial_rotator_quote {
 }
 .twelve.columns.research-text {
     text-align: center;
-    padding: 0 50px;
+    padding: 50px 50px;
+    background-color: #f4f5f5;
 }
 .twelve.columns.ready-to-join {
     text-align: center;
