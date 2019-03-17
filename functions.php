@@ -197,6 +197,52 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
+  //Mission Section Widget
+  register_sidebar( array(
+    'name'          => ('Our Mission Widget'),
+    'id'            => 'our-mission',
+    'description'   => 'Our mission section on about page',
+    'before_widget' => '<div class="our-mission">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Left Bio Widget
+  register_sidebar( array(
+    'name'          => ('Left Bio About'),
+    'id'            => 'left-bio',
+    'description'   => 'Left Bio widget area on about page',
+    'before_widget' => '<div class="left-bio">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Middle Bio Widget
+  register_sidebar( array(
+    'name'          => ('Middle Bio About'),
+    'id'            => 'middle-bio',
+    'description'   => 'Middle Bio widget area on about page',
+    'before_widget' => '<div class="middle-bio">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Right Bio Widget
+  register_sidebar( array(
+    'name'          => ('Right Bio About'),
+    'id'            => 'right-bio',
+    'description'   => 'Right Bio widget area on about page',
+    'before_widget' => '<div class="right-bio">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+
+
 
   //RESEARCH WIDGETS - ABOUT SUBHEADER
   //Research - Hero Image Widget
