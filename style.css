@@ -45,6 +45,8 @@ ACCENTS
 .row.interior-pages.icons-home {
   padding: 30px 0 30px 0;
 }
+
+/*Header Styling*/
 .menu-header-menu-container {
   text-align: center;
 }
@@ -61,10 +63,15 @@ ul#menu-header-menu a {
   justify-content: center;
 }
 
+/*Footer Styling*/
 footer {
   background-color:  #1d3557;
   color: white;
   padding: 50px 0 50px 0;
+}
+.widget-footer.widget-middle {
+    display: inline-block;
+    padding: 0 10px 0 10px;
 }
 /* About Page Styling */
 
