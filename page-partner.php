@@ -10,7 +10,7 @@
             <?php dynamic_sidebar('partner-image'); ?>
         </div>
 
-        <div class="one-half column">
+        <div class="one-half column partner-right">
             <?php dynamic_sidebar('partner-text'); ?>
         </div>
     </div>
