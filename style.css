@@ -304,7 +304,7 @@ button#wpforms-submit-157:hover {
     border: #D83A34 solid 2px;
 }
 
-.additional-resources h3, .contact-left-topic, .contact-middle-topic, .contact-right-topic {
+h3.additional-resources, .contact-left-topic, .contact-middle-topic, .contact-right-topic {
     text-align: center;
     color: #FFFFFF;
 }
