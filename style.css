@@ -138,8 +138,8 @@ footer {
     color: #D83A34;
 }
 
-.future p {
-  text-align: center;
+h5.testimonial_rotator_slide_title, .testimonial_rotator_quote {
+    text-align: center;
 }
 
 /* Invest Page Styling */
