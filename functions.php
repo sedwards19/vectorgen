@@ -532,6 +532,50 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
+  //Partner-Far Left Logo Widget
+  register_sidebar( array(
+    'name'          => ('Far Left Logo'),
+    'id'            => 'far-left-logo',
+    'description'   => 'Far Left Widget Area For Logo On Partner Page',
+    'before_widget' => '<div class="far-left-logo">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Partner-Left Logo Widget
+  register_sidebar( array(
+    'name'          => ('Left Logo'),
+    'id'            => 'left-logo',
+    'description'   => 'Left Widget Area For Logo On Partner Page',
+    'before_widget' => '<div class="left-logo">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Partner-Right Logo Widget
+  register_sidebar( array(
+    'name'          => ('Right Logo'),
+    'id'            => 'right-logo',
+    'description'   => 'Right Widget Area For Logo On Partner Page',
+    'before_widget' => '<div class="right-logo">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Partner-Far Right Logo Widget
+  register_sidebar( array(
+    'name'          => ('Far Right Logo'),
+    'id'            => 'far-right-logo',
+    'description'   => 'Far Right Widget Area For Logo On Partner Page',
+    'before_widget' => '<div class="far-right-logo">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
 
   //PRESS WIDGETS INSERT HERE
 
