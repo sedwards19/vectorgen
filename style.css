@@ -252,11 +252,12 @@ h5.testimonial_rotator_slide_title, .testimonial_rotator_quote {
 }
 .twelve.columns.research-text {
     text-align: center;
+    padding: 0 50px;
 }
 .twelve.columns.ready-to-join {
     text-align: center;
     padding: 50px;
-    background-color:#d83a34; 
+    background-color:#d83a34;
 }
 
 /* Press Page Styling */
