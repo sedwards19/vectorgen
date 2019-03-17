@@ -404,7 +404,7 @@ h3.additional-resources {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    max-height: 250px;
+    height: 250px;
     color: #1D3557;
 }
 
