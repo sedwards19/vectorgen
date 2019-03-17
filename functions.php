@@ -241,8 +241,16 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
-
-
+  //Core Values Section Widget
+  register_sidebar( array(
+    'name'          => ('Our Core Values Widget'),
+    'id'            => 'our-values',
+    'description'   => 'Our core values section on about page',
+    'before_widget' => '<div class="our-values">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
 
   //RESEARCH WIDGETS - ABOUT SUBHEADER
   //Research - Hero Image Widget
