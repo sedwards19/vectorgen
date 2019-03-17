@@ -176,6 +176,26 @@ function blank_widgets_init(){
 
 
   //ABOUT WIDGETS INSERT HERE
+  register_sidebar( array(
+    'name'          => ('About Image Widget'),
+    'id'            => 'about-image',
+    'description'   => 'Left image on about page',
+    'before_widget' => '<div class="about-image">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Discover Section Widget
+  register_sidebar( array(
+    'name'          => ('Discover Section Widget'),
+    'id'            => 'about-discover',
+    'description'   => 'Discover section on about page',
+    'before_widget' => '<div class="about-discover">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
 
 
   //RESEARCH WIDGETS - ABOUT SUBHEADER
