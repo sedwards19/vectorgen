@@ -415,6 +415,8 @@ h3.additional-resources {
 .top-left-topic-resource, .top-middle-topic-resource, .top-right-topic-resource, .bottom-left-topic-resource, .bottom-middle-topic-resource, .bottom-right-topic-resource {
     text-align: center;
     color: #FFFFFF;
+    width: 40px;
+    height: 40px;
 }
 
 .top-left-topic-resource, .top-right-topic-resource, .bottom-middle-topic-resource {
