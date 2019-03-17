@@ -466,6 +466,71 @@ function blank_widgets_init(){
 
 
   //PARTNER WIDGETS INSERT HERE
+  //Partner Image Widget
+  register_sidebar( array(
+    'name'          => ('Partner Image Widget'),
+    'id'            => 'partner-image',
+    'description'   => 'Left image on partner page',
+    'before_widget' => '<div class="partner-image">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Partner Text Widget
+  register_sidebar( array(
+    'name'          => ('Partner Text Section Widget'),
+    'id'            => 'partner-text',
+    'description'   => 'Partner text on partner page',
+    'before_widget' => '<div class="partner-text">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Our Research Facilities Section Widget
+  register_sidebar( array(
+    'name'          => ('Our Research Facilities Widget'),
+    'id'            => 'our-research',
+    'description'   => 'Our research facilities on partner page',
+    'before_widget' => '<div class="our-research">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Left Bio Widget
+  register_sidebar( array(
+    'name'          => ('Left Bio Partner'),
+    'id'            => 'left-partner-bio',
+    'description'   => 'Left Bio widget area on partner page',
+    'before_widget' => '<div class="left-partner-bio">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Right Bio Widget
+  register_sidebar( array(
+    'name'          => ('Right Bio Parter'),
+    'id'            => 'right-partner-bio',
+    'description'   => 'Right Bio widget area on partner page',
+    'before_widget' => '<div class="right-partner-bio">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Ready To Join Section Widget
+  register_sidebar( array(
+    'name'          => ('Ready To Join Widget'),
+    'id'            => 'ready-to-join',
+    'description'   => 'Ready to join on partner page',
+    'before_widget' => '<div class="ready-to-join">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
 
 
   //PRESS WIDGETS INSERT HERE
