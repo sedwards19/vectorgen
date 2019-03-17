@@ -97,6 +97,10 @@ background-color: #b9e0e7;
 padding: 30px;
 color: #2D333A;
 }
+.our-mission {
+  text-align: center;
+  background-color: #d83a34; 
+}
 
 /* Research Page Styling */
 .research-hero-image {
