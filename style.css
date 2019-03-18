@@ -651,7 +651,8 @@ h3.additional-resources-two {
     margin-top: 60px;
 }
 
-.top-left-topic-resource, .top-middle-topic-resource, .top-right-topic-resource, .bottom-left-topic-resource, .bottom-middle-topic-resource, .bottom-right-topic-resource {
+/*.top-left-topic-resource, .top-middle-topic-resource, .top-right-topic-resource, .bottom-left-topic-resource, .bottom-middle-topic-resource, .bottom-right-topic-resource */
+.interior-pages {
     text-align: center;
     color: #FFFFFF;
     margin-top: 20px;
