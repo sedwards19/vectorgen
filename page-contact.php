@@ -10,7 +10,7 @@
             <?php dynamic_sidebar('contact-hero-image'); ?>
         </div>
 
-        <div class="one-half column">
+        <div class="one-half column contact">
             <?php dynamic_sidebar('contact-form'); ?>
         </div>
     </div>
