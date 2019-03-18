@@ -673,6 +673,11 @@ h3.additional-resources-two {
     color: #FFFFFF;
 }
 
+.featured-posts {
+  text-align: center;
+  align-content: center;
+}
+
 /*#top-left-topic-resource, #top-middle-topic-resource, #top-right-topic-resource, #bottom-left-topic-resource, #bottom-middle-topic-resource, #bottom-right-topic-resource {
 
 }*/
