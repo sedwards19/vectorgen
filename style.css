@@ -676,6 +676,8 @@ h3.additional-resources-two {
 .featured-posts {
   text-align: center;
   align-content: center;
+  margin-left: 60px;
+  margin-right: 60px;
 }
 
 /*#top-left-topic-resource, #top-middle-topic-resource, #top-right-topic-resource, #bottom-left-topic-resource, #bottom-middle-topic-resource, #bottom-right-topic-resource {
