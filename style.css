@@ -638,8 +638,8 @@ h3.additional-resources {
 .top-left-topic-resource, .top-middle-topic-resource, .top-right-topic-resource, .bottom-left-topic-resource, .bottom-middle-topic-resource, .bottom-right-topic-resource {
     text-align: center;
     color: #FFFFFF;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .top-left-topic-resource, .top-right-topic-resource, .bottom-middle-topic-resource {
