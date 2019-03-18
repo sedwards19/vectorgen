@@ -224,7 +224,8 @@ h5.testimonial_rotator_slide_title, .testimonial_rotator_quote {
 }
 
 .investment-potential {
-  padding: 30px;
+  padding: 0px 30px;
+  background-color: #f4f5f5;
 }
 
 .invest-h3 {
@@ -239,6 +240,10 @@ h5.testimonial_rotator_slide_title, .testimonial_rotator_quote {
 .invest-left-icon img, .invest-middle-icon img, .invest-right-icon img {
     margin: auto;
     display: flex;
+}
+
+div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
+    padding: 20px;
 }
 
 .budget-timelime {
