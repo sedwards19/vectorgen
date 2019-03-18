@@ -224,13 +224,17 @@ h5.testimonial_rotator_slide_title, .testimonial_rotator_quote {
 }
 
 .investment-potential {
-  padding: 0px 30px;
   background-color: #f4f5f5;
+}
+
+.row.investment-potential {
+    background-color: #f4f5f5;
 }
 
 .invest-h3 {
     color: #D83A34;
     text-align: center;
+    padding-top: 40px;
 }
 
 .invest-left-icon p, .invest-middle-icon p, .invest-right-icon p {
@@ -246,7 +250,7 @@ div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
     padding: 20px;
 }
 
-.budget-timelime {
+.six.columns.budget {
     background-color: #1D3557;
 }
 
@@ -258,8 +262,8 @@ div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
     text-align: left;
 }
 
-.returns-projections {
-  background-color: #B9E0F7;
+.six.columns.returns {
+    background-color: #B9E0F7;
 }
 
 .returns-projections h3, .returns-projections p {

@@ -45,7 +45,7 @@
             <?php dynamic_sidebar('budget-timelime'); ?>
         </div>
 
-        <div class="six columns">
+        <div class="six columns returns">
             <?php dynamic_sidebar('returns-projections'); ?>
         </div>
     </div>
