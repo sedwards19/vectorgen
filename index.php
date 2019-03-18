@@ -17,7 +17,7 @@
       </div>
   </div>
   <!--Topics Section-->
-      <div class="row interior-pages">
+      <div class="row interior-pages"> 
           <div class="one-third column">
               <?php dynamic_sidebar('top-left-topic-resource'); ?>
           </div>
