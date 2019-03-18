@@ -631,11 +631,11 @@ h3.additional-resources {
 }
 
 .contact-left-topic, .contact-middle-topic, .contact-right-topic {
+    margin: auto;
     text-align: center;
     color: #FFFFFF;
     width: 250px;
     height: 250px;
-    margin: auto;
 }
 
 .contact-left-topic {
