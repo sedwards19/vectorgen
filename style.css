@@ -633,8 +633,9 @@ h3.additional-resources {
 
 }
 
-.resource-hero-image-text {
+.resource-hero-image-text h1 {
   color: white;
+  padding: 60px;
 }
 
 .top-left-topic-resource, .top-middle-topic-resource, .top-right-topic-resource, .bottom-left-topic-resource, .bottom-middle-topic-resource, .bottom-right-topic-resource {
