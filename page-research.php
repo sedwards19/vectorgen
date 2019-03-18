@@ -19,7 +19,7 @@
     </div>
 
 <!--Icon Section-->
-    <div class="row">
+    <div class="row research-icons">
         <div class="twelve columns">
             <h3 class="did-you-know">DID YOU KNOW?</h3>
         </div>

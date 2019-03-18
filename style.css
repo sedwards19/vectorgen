@@ -133,6 +133,7 @@ footer p {
 
 .global-crisis {
     background-color: #FFFFFF;
+    padding: 60px;
 }
 
 .global-crisis h3 {
@@ -151,6 +152,10 @@ footer p {
 .did-you-know {
     color: #D83A34;
     text-align: center;
+}
+
+.row.research-icons {
+    padding: 30px;
 }
 
 .research-icon-one p, .research-icon-two p, .research-icon-three p, .research-icon-four p {
