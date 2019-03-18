@@ -651,6 +651,11 @@ h3.additional-resources-two {
     margin-top: 60px;
 }
 
+.resource-topics {
+  display: flex;
+  justify-content: center;
+}
+
 .top-left-topic-resource, .top-middle-topic-resource, .top-right-topic-resource, .bottom-left-topic-resource, .bottom-middle-topic-resource, .bottom-right-topic-resource {
     text-align: center;
     color: #FFFFFF;
