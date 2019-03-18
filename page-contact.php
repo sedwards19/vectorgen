@@ -29,7 +29,7 @@
         </div>
     </div>
 
-    <div class="row interior-pages">
+    <div class="row interior-pages contact">
         <div class="one-third column">
             <?php dynamic_sidebar('contact-left-topic'); ?>
         </div>

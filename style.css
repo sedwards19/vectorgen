@@ -556,6 +556,11 @@ div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
     color: #1D3557;
 }
 
+.one-half.column.contact {
+    padding: 30px 60px 0px 60px;
+    background-color: #f4f5f5;
+}
+
 #wpforms-154-field_1, #wpforms-154-field_1-last, #wpforms-154-field_2, #wpforms-154-field_3, #wpforms-154-field_4 {
     background-color: #B9E0F7;
 }
@@ -600,6 +605,7 @@ button#wpforms-submit-154:hover {
     background-size: cover;
     position: relative;
     height: 300px;
+    padding: 60px 60px 10px 60px;
 }
 
 .newsletter-sign-up h3, .newsletter-sign-up p {
@@ -621,6 +627,7 @@ button#wpforms-submit-157:hover {
 h3.additional-resources {
     text-align: center;
     color: #1D3557;
+    padding: 60px;
 }
 
 .contact-left-topic, .contact-middle-topic, .contact-right-topic {
