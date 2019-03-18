@@ -638,22 +638,20 @@ h3.additional-resources {
 .top-left-topic-resource, .top-middle-topic-resource, .top-right-topic-resource, .bottom-left-topic-resource, .bottom-middle-topic-resource, .bottom-right-topic-resource {
     text-align: center;
     color: #FFFFFF;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .top-left-topic-resource, .top-right-topic-resource, .bottom-middle-topic-resource {
     background-color: #677485;
     width: 250px;
     height: 250px;
-    padding-top: 50px;
-    padding-bottom: 50px;
 }
 
 .top-middle-topic-resource, .bottom-left-topic-resource, .bottom-right-topic-resource {
     background-color: #1D3557;
     width: 250px;
     height: 250px;
-    padding-top: 50px;
-    padding-bottom: 50px;
 }
 
 /*#top-left-topic-resource, #top-middle-topic-resource, #top-right-topic-resource, #bottom-left-topic-resource, #bottom-middle-topic-resource, #bottom-right-topic-resource {
