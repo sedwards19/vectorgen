@@ -726,6 +726,7 @@ h3.additional-resources-two {
 
 /* 404 Styling */
 
-.not-found {
-    padding: 40px 20px 300px;
+.twelve.columns.not-found {
+    padding: 80px;
+    background-color: #f4f5f5;
 }
