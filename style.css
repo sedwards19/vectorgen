@@ -198,7 +198,7 @@ h5.testimonial_rotator_slide_title, .testimonial_rotator_quote {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    height: 500px;
+    height: 600px;
 }
 
 .invest-hero-image h1 {
@@ -207,6 +207,7 @@ h5.testimonial_rotator_slide_title, .testimonial_rotator_quote {
 
 .invest-vector-gen-approach {
     background-color: #FFFFFF;
+    padding: 60px;
 }
 
 .invest-vector-gen-approach h3 {
@@ -220,6 +221,10 @@ h5.testimonial_rotator_slide_title, .testimonial_rotator_quote {
 
 .invest-vector-gen-approach p {
     text-align: center;
+}
+
+.investment-potential {
+  padding: 30px;
 }
 
 .invest-h3 {
