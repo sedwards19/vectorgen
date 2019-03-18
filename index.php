@@ -48,11 +48,11 @@
 <!-- Featured Posts -->
       <div class="row featured-posts">
           <div class="one-half column">
-              <?php dynamic_sidebar('featured-post'); ?>
+              <?php dynamic_sidebar('featured-post-one'); ?>
           </div>
 
           <div class="one-half column">
-              <?php dynamic_sidebar('featured-post'); ?>
+              <?php dynamic_sidebar('featured-post-two'); ?>
           </div>
       </div>
 
