@@ -25,7 +25,7 @@
         </div>
     </div>
 
-    <div class="row">
+    <div class="row research-icons">
         <div class="three columns">
             <?php dynamic_sidebar('research-icon-one'); ?>
         </div>
