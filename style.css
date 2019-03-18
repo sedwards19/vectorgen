@@ -190,7 +190,7 @@ font-style: italic;
 
 /* Global Styling */
 
-h1 {
+/* h1 {
   font-size: 2em;
   line-height: 1.25em;
 }
@@ -211,7 +211,7 @@ h4 {
   font-size: 1.125em;
   line-height: 1.111em;
 }
-
+*/
 p {
   font-family: proxima-nova, sans-serif;
   font-weight: 300;
@@ -606,6 +606,8 @@ h3.additional-resources {
 .contact-left-topic, .contact-middle-topic, .contact-right-topic {
     text-align: center;
     color: #FFFFFF;
+    width: 250px;
+    height: 250px;
 }
 
 .contact-left-topic {
