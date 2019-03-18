@@ -234,7 +234,7 @@ h5.testimonial_rotator_slide_title, .testimonial_rotator_quote {
 .invest-h3 {
     color: #D83A34;
     text-align: center;
-    padding-top: 40px;
+    padding-top: 60px;
 }
 
 .invest-left-icon p, .invest-middle-icon p, .invest-right-icon p {
@@ -246,12 +246,19 @@ h5.testimonial_rotator_slide_title, .testimonial_rotator_quote {
     display: flex;
 }
 
+img.image.wp-image-187.attachment-thumbnail.size-thumbnail, img.image.wp-image-202.attachment-thumbnail.size-thumbnail, img.image.wp-image-188.attachment-thumbnai.size-thumbnail {
+    height: 60px;
+    width: 60px;
+}
+
 div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
     padding: 20px;
+    margin: 20px;
 }
 
 .six.columns.budget {
     background-color: #1D3557;
+    padding: 30px;
 }
 
 .budget-timelime h3, .budget-timelime p, .become-investor h3 {
@@ -264,6 +271,7 @@ div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
 
 .six.columns.returns {
     background-color: #B9E0F7;
+    padding: 30px;
 }
 
 .returns-projections h3, .returns-projections p {
@@ -281,6 +289,7 @@ div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
 
 .become-investor h3 {
     text-align: center;
+    padding: 30px;
 }
 
 /* Partner Page Styling */
