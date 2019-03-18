@@ -44,7 +44,7 @@
     </div>
 
 <!--Large Image + Content Grid Section-->
-    <div class="row">
+    <div class="row combating-hiv">
         <div class="six columns combating-hiv">
             <?php dynamic_sidebar('research-combating-hiv'); ?>
         </div>
