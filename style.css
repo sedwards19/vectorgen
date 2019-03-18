@@ -188,6 +188,14 @@ font-style: italic;
 @import url("stylesheets/normalize.css");
 @import url("stylesheets/skeleton.css");
 
+/* Global Styling */
+
+p {
+  font-family: proxima-nova, sans-serif;
+  font-weight: 400;
+  line-height: 1.25;
+  font-style: normal;
+}
 
 /* Home Page Styling */
 .hero-image-widget {
@@ -615,6 +623,10 @@ h3.additional-resources {
 
 .top-middle-topic-resource, .bottom-left-topic-resource, .bottom-right-topic-resource {
     background-color: #1D3557;
+}
+
+.featured-posts p {
+
 }
 
 
