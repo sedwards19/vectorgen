@@ -13,7 +13,7 @@
 
   <div class="row">
       <div class="twelve columns">
-          <h3 class="additional-resources-two">Data & Information</h3>
+          <h3 class="additional-resources-two">DATA & INFORMATION</h3>
       </div>
   </div>
   <!--Topics Section-->
