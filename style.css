@@ -86,7 +86,6 @@ font-weight: 400;
 font-style: italic;
 
 PROXIMA NOVA FONTS
-
 PROXIMA BLACK
 font-family: proxima-nova, sans-serif;
 font-weight: 900;
@@ -465,7 +464,7 @@ div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
 
 .six.columns.budget {
     background-color: #1D3557;
-    padding: 50px;
+    padding: 60px;
 }
 
 .budget-timelime h3, .budget-timelime p, .become-investor h3 {
@@ -478,7 +477,7 @@ div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
 
 .six.columns.returns {
     background-color: #B9E0F7;
-    padding: 50px;
+    padding: 60px;
 }
 
 .returns-projections h3, .returns-projections p {
