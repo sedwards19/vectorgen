@@ -220,6 +220,12 @@ p {
   font-style: normal;
 }
 
+h3 {
+  font-family: proxima-nova, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
 /* Home Page Styling */
 .hero-image-widget {
     background-image: url(http://www.harvestknight.com/VectorGen/wp-content/uploads/2019/03/homepage-heroimage.jpg);
@@ -641,6 +647,7 @@ h3.additional-resources {
 h3.additional-resources-two {
     text-align: center;
     color: #D83A34;
+    margin-top: 40px;
 }
 
 .top-left-topic-resource, .top-middle-topic-resource, .top-right-topic-resource, .bottom-left-topic-resource, .bottom-middle-topic-resource, .bottom-right-topic-resource {
