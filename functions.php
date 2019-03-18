@@ -717,12 +717,22 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
-  //EXAMPLE BLOG POST WIDGETS INSERT HERE
+  //RESOURCE PAGE EXAMPLE BLOG POST WIDGETS INSERT HERE
     register_sidebar( array(
-      'name'          => ('featured-post'),
-      'id'            => 'featured-post',
+      'name'          => ('featured-post-one'),
+      'id'            => 'featured-post-one',
       'description'   => 'Featured post widget area in the blog page',
-      'before_widget' => '<div class="featured-post">',
+      'before_widget' => '<div class="featured-post-one">',
+      'after_widget'  => '</div>',
+      'before_title'  => '<h3 class="widget-title">',
+      'after_title'   => '</h3>'
+    ));
+
+    register_sidebar( array(
+      'name'          => ('featured-post-two'),
+      'id'            => 'featured-post-two',
+      'description'   => 'Featured post widget area in the blog page',
+      'before_widget' => '<div class="featured-post-two">',
       'after_widget'  => '</div>',
       'before_title'  => '<h3 class="widget-title">',
       'after_title'   => '</h3>'
