@@ -320,7 +320,7 @@ footer p {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    height: 500px;
+    height: 600px;
 }
 
 .research-hero-image h1 {
@@ -348,6 +348,7 @@ footer p {
 .did-you-know {
     color: #D83A34;
     text-align: center;
+    padding-top: 60px;
 }
 
 .three.columns.icon {
@@ -357,6 +358,12 @@ footer p {
 .row.research-icons {
     padding: 30px;
     background-color: #f4f5f5;
+}
+
+img.image.wp-image-175.attachment-thumbnail.size-thumbnail, img.image.wp-image-176.attachment-thumbnail.size-thumbnail, img.image.wp-image-177.attachment-thumbnail.size-thumbnail, img.image.wp-image-178.attachment-thumbnail.size-thumbnail {
+    height: 70px;
+    width: 70px;
+    padding-bottom: 30px;
 }
 
 .research-icon-one p, .research-icon-two p, .research-icon-three p, .research-icon-four p {
