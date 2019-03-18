@@ -44,7 +44,7 @@
     </div>
 
 <!--Large Image + Content Grid Section-->
-    <div class="row combating-hiv">
+    <div class="row">
         <div class="six columns combating-hiv">
             <?php dynamic_sidebar('research-combating-hiv'); ?>
         </div>
@@ -66,11 +66,11 @@
 
 <!--Future of Vectors and Gene Therapy Section-->
     <div class="row">
-        <div class="twelve columns">
+        <div class="twelve columns carousel">
             <?php dynamic_sidebar('future'); ?>
         </div>
     </div>
-
+    
 </div>
 
 <?php get_footer(); ?>
