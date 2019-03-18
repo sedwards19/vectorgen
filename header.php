@@ -6,6 +6,10 @@
 
     <!-- Link to our style.css file here-->
     <link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_url'); ?>" />
+    <!-- Skolar Latin Font -->
+    <link rel="stylesheet" href="https://use.typekit.net/qxv7heo.css">
+    <!-- Proxima Nova Font -->
+    <link rel="stylesheet" href="https://use.typekit.net/qxv7heo.css">
 
     <?php wp_head(); ?>
 </head>
