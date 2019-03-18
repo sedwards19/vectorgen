@@ -651,9 +651,31 @@ h3.additional-resources-two {
     margin-top: 60px;
 }
 
-.resource-topics {
+.resource-topics-container {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
+}
+
+.square {
+  position: relative;
+  flex-basis: calc(33.333% - 10px);
+  margin: 5px;
+  border: 1px solid;
+  box-sizing: border-box;
+}
+
+.square::before {
+  content: '';
+  display: block;
+  padding-top: 100%;
+}
+
+.square .content {
+  position: absolute;
+  top: 0; left: 0;
+  height: 100%;
+  width: 100%;
 }
 
 .top-left-topic-resource, .top-middle-topic-resource, .top-right-topic-resource, .bottom-left-topic-resource, .bottom-middle-topic-resource, .bottom-right-topic-resource {
@@ -667,15 +689,11 @@ h3.additional-resources-two {
 
 .top-left-topic-resource, .top-right-topic-resource, .bottom-middle-topic-resource {
     background-color: #677485;
-    width: 25%;
-    height: 25%;
     color: #FFFFFF;
 }
 
 .top-middle-topic-resource, .bottom-left-topic-resource, .bottom-right-topic-resource {
     background-color: #1D3557;
-    width: 25%;
-    height: 25%;
     color: #FFFFFF;
 }
 
