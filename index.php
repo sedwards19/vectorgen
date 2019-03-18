@@ -11,7 +11,11 @@
     </div>
   </div>
 
-
+  <div class="row">
+      <div class="twelve columns">
+          <h3 class="additional-resources-two">ADDITIONAL RESOURCES</h3>
+      </div>
+  </div>
   <!--Topics Section-->
       <div class="row interior-pages">
           <div class="one-third column">
