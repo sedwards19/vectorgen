@@ -649,6 +649,10 @@ h3.additional-resources {
     background-color: #677485;
 }
 
+.row.interior-pages.contact {
+    padding-bottom: 75px;
+}
+
 /*Resource Page Styling*/
 .resource-hero-image {
     background-image: url(http://www.harvestknight.com/VectorGen/wp-content/uploads/2019/03/binoculars-blue.jpg);
