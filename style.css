@@ -224,6 +224,7 @@ h3 {
   font-family: proxima-nova, sans-serif;
   font-weight: 600;
   font-style: normal;
+  letter-spacing: 3px;
 }
 
 /* Home Page Styling */
@@ -647,7 +648,7 @@ h3.additional-resources {
 h3.additional-resources-two {
     text-align: center;
     color: #D83A34;
-    margin-top: 40px;
+    margin-top: 60px;
 }
 
 .top-left-topic-resource, .top-middle-topic-resource, .top-right-topic-resource, .bottom-left-topic-resource, .bottom-middle-topic-resource, .bottom-right-topic-resource {
