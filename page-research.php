@@ -45,7 +45,7 @@
 
 <!--Large Image + Content Grid Section-->
     <div class="row">
-        <div class="six columns">
+        <div class="six columns combating-hiv">
             <?php dynamic_sidebar('research-combating-hiv'); ?>
         </div>
 
@@ -59,7 +59,7 @@
             <?php dynamic_sidebar('research-large-image-two'); ?>
         </div>
 
-        <div class="six columns">
+        <div class="six columns research-approach">
             <?php dynamic_sidebar('research-vectorgen-approach'); ?>
         </div>
     </div>
