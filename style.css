@@ -154,6 +154,10 @@ footer p {
     text-align: center;
 }
 
+.three.columns.icon {
+    padding: 30px;
+}
+
 .row.research-icons {
     padding: 30px;
     background-color: #f4f5f5;
