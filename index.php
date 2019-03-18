@@ -17,7 +17,7 @@
       </div>
   </div>
   <!--Topics Section-->
-      <div class="row interior-pages"> 
+      <div class="row resource-topics">
           <div class="one-third column">
               <?php dynamic_sidebar('top-left-topic-resource'); ?>
           </div>
@@ -31,7 +31,7 @@
           </div>
       </div>
 
-      <div class="row interior-pages">
+      <div class="row resource-topics">
           <div class="one-third column">
               <?php dynamic_sidebar('bottom-left-topic-resource'); ?>
           </div>
