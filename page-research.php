@@ -26,19 +26,19 @@
     </div>
 
     <div class="row research-icons">
-        <div class="three columns">
+        <div class="three columns icon">
             <?php dynamic_sidebar('research-icon-one'); ?>
         </div>
 
-        <div class="three columns">
+        <div class="three columns icon">
             <?php dynamic_sidebar('research-icon-two'); ?>
         </div>
 
-        <div class="three columns">
+        <div class="three columns icon">
             <?php dynamic_sidebar('research-icon-three'); ?>
         </div>
 
-        <div class="three columns">
+        <div class="three columns icon">
             <?php dynamic_sidebar('research-icon-four'); ?>
         </div>
     </div>
