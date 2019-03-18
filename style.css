@@ -674,8 +674,8 @@ h3.additional-resources-two {
 .square .content {
   position: absolute;
   top: 0; left: 0;
-  height: 100%;
-  width: 100%;
+  height: 50%;
+  width: 50%;
 }
 
 .top-left-topic-resource, .top-middle-topic-resource, .top-right-topic-resource, .bottom-left-topic-resource, .bottom-middle-topic-resource, .bottom-right-topic-resource {
