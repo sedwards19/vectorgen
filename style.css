@@ -659,7 +659,7 @@ h3.additional-resources-two {
 
 .square {
   position: relative;
-  flex-basis: calc(11.111% - 10px);
+  flex-basis: calc(22.222% - 10px);
   margin: 20px;
   box-sizing: border-box;
 }
