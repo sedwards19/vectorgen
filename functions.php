@@ -647,8 +647,8 @@ function blank_widgets_init(){
     'description'   => 'Hero image on resource page',
     'before_widget' => '<div class="resource-hero-image">',
     'after_widget'  => '</div>',
-    'before_title'  => '<h3 class="widget-title">',
-    'after_title'   => '</h3>'
+    'before_title'  => '<h1 class="widget-title">',
+    'after_title'   => '</h1>'
   ));
 
   //Resource Page-Top Left Topic Widget
