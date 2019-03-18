@@ -651,7 +651,7 @@ h3.additional-resources-two {
     margin-top: 60px;
 }
 
-.resource-topics-container {
+.resource-topics-container, .resource-topics-container-two {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
