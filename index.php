@@ -35,7 +35,9 @@
               <?php dynamic_sidebar('top-right-topic-resource'); ?>
             </div>
           </div>
-
+      </div>
+      
+      <div class="resource-topics-container-two">
           <div class="square">
             <div class="content">
               <?php dynamic_sidebar('bottom-left-topic-resource'); ?>
