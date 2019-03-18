@@ -375,7 +375,8 @@ img.image.wp-image-175.attachment-thumbnail.size-thumbnail, img.image.wp-image-1
     display: flex;
 }
 
-.research-combating-hiv {
+.six.columns.combating-hiv {
+    padding: 60px;
     background-color: #1D3557;
 }
 
@@ -387,7 +388,8 @@ img.image.wp-image-175.attachment-thumbnail.size-thumbnail, img.image.wp-image-1
     text-align: left;
 }
 
-.research-vectorgen-approach {
+.six.columns.research-approach {
+    padding: 60px;
     background-color: #B9E0F7;
 }
 
@@ -398,6 +400,11 @@ img.image.wp-image-175.attachment-thumbnail.size-thumbnail, img.image.wp-image-1
 .future h3 {
     text-align: center;
     color: #D83A34;
+}
+
+.twelve.columns.carousel {
+    padding: 60px;
+    background-color: #f4f5f5;
 }
 
 h5.testimonial_rotator_slide_title, .testimonial_rotator_quote {
