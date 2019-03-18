@@ -679,7 +679,7 @@ h3.additional-resources-two {
     color: #FFFFFF;
 }
 
-.featured-posts {
+.featured-post-one, .featured-post-two {
   text-align: center;
   align-content: center;
   margin-top: 100px;
