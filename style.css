@@ -724,12 +724,15 @@ h3.additional-resources-two {
 } */
 
 .featured-posts {
-  margin: 60px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  margin-right: 60px;
+  margin-left: 100px;
 }
 
-.featured-posts p {
+/*.featured-posts p {
   margin-right: 75px;
-}
+} */
 
 .featured-post-one {
   text-align: left;
