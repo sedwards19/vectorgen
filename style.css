@@ -733,9 +733,12 @@ h3.additional-resources-two {
   margin-right: 75px;
 } */
 
-.featured-post-one p {
+.featured-post-one {
   text-align: left;
   align-content: left;
+}
+
+.text-widget p {
   padding-right: 40px;
 }
 
