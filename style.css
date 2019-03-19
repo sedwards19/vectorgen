@@ -339,12 +339,13 @@ footer p {
 
 .global-crisis h4 {
     text-align: center;
+    padding-bottom: 20px;
 }
 
 .global-crisis p {
     text-align: center;
-    padding-right: 125px;
-    padding-left: 125px;
+    padding-right: 35px;
+    padding-left: 35px;
 }
 
 .did-you-know {
@@ -359,6 +360,8 @@ footer p {
 
 .row.research-icons {
     background-color: #f4f5f5;
+    padding-right: 40px;
+    padding-left: 40px;
 }
 
 img.image.wp-image-175.attachment-thumbnail.size-thumbnail, img.image.wp-image-176.attachment-thumbnail.size-thumbnail, img.image.wp-image-177.attachment-thumbnail.size-thumbnail, img.image.wp-image-178.attachment-thumbnail.size-thumbnail {
@@ -404,7 +407,7 @@ img.image.wp-image-175.attachment-thumbnail.size-thumbnail, img.image.wp-image-1
 }
 
 .twelve.columns.carousel {
-    padding: 60px;
+    padding: 90px;
     background-color: #f4f5f5;
 }
 
@@ -444,8 +447,8 @@ h5.testimonial_rotator_slide_title, .testimonial_rotator_quote {
 
 .invest-vector-gen-approach p {
     text-align: center;
-    padding-left: 125px;
-    padding-right: 125px;
+    padding-left: 35px;
+    padding-right: 35px;
 }
 
 .investment-potential {
