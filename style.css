@@ -733,9 +733,9 @@ h3.additional-resources-two {
   align-content: left;
 }
 
-/* .featured-post-one, .featured-post-two p {
-    text-align: left;
-} */
+.featured-post-one, .featured-post-two p {
+    padding-right: 30px;
+}
 
 /*#top-left-topic-resource, #top-middle-topic-resource, #top-right-topic-resource, #bottom-left-topic-resource, #bottom-middle-topic-resource, #bottom-right-topic-resource {
 
