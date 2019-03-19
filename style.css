@@ -739,14 +739,13 @@ h3.additional-resources-two {
 }
 
 .text-widget p {
-  padding-right: 40px;
+  padding-right: 60px;
 }
 
 .featured-post-two {
   text-align: left;
   align-content: left;
   margin-left: 60px;
-  padding-right: 40px;
 }
 
 /*.featured-post-one, .featured-post-two p {
