@@ -788,4 +788,17 @@ h3.additional-resources-two {
     padding-bottom: 0px;
     }
 
+    div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
+    padding: 10px;
+    margin: 4px;
+    }
+
+    .row.investment-potential {
+    padding-bottom: 15px;
+    }
+
+    .budget-timelime h3, .returns-projections h3, .budget-timelime p, .returns-projections p {
+    text-align: center;
+    }
+
 }
