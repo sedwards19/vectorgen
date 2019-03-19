@@ -684,8 +684,8 @@ h3.additional-resources-two {
 
 .square {
   position: relative;
-  flex-basis: calc(25% - 10px);
-  margin: 20px;
+  flex-basis: calc(20% - 10px);
+  margin: 10px;
   box-sizing: border-box;
 }
 
@@ -727,12 +727,14 @@ h3.additional-resources-two {
   text-align: center;
   align-content: center;
   margin: 60px;
+  text-align: left;
 }
 
 .featured-post-two {
   text-align: center;
   align-content: center;
   margin: 60px;
+  text-align: left;
 }
 
 /*#top-left-topic-resource, #top-middle-topic-resource, #top-right-topic-resource, #bottom-left-topic-resource, #bottom-middle-topic-resource, #bottom-right-topic-resource {
