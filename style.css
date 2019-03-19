@@ -723,6 +723,10 @@ h3.additional-resources-two {
     color: #FFFFFF;
 } */
 
+.featured-posts {
+  margin: 60px; 
+}
+
 .featured-post-one {
   text-align: left;
   align-content: left;
