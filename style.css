@@ -724,20 +724,20 @@ h3.additional-resources-two {
 } */
 
 .featured-post-one {
-  text-align: center;
-  align-content: center;
+  text-align: left;
+  align-content: left;
   margin: 60px;
 }
 
 .featured-post-two {
-  text-align: center;
-  align-content: center;
+  text-align: left;
+  align-content: left;
   margin: 60px;
 }
 
-.featured-post-one, .featured-post-two p {
+/* .featured-post-one, .featured-post-two p {
     text-align: left;
-}
+} */
 
 /*#top-left-topic-resource, #top-middle-topic-resource, #top-right-topic-resource, #bottom-left-topic-resource, #bottom-middle-topic-resource, #bottom-right-topic-resource {
 
