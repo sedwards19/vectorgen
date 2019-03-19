@@ -726,15 +726,19 @@ h3.additional-resources-two {
 .featured-post-one {
   text-align: center;
   align-content: center;
-  margin: 60px;
-  text-align: left;
+  margin-top: 60px;
+  margin-bottom: 60px;
 }
 
 .featured-post-two {
   text-align: center;
   align-content: center;
-  margin: 60px;
-  text-align: left;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.featured-post-one, .featured-post-two p {
+    text-align: left;
 }
 
 /*#top-left-topic-resource, #top-middle-topic-resource, #top-right-topic-resource, #bottom-left-topic-resource, #bottom-middle-topic-resource, #bottom-right-topic-resource {
