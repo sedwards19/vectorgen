@@ -456,7 +456,7 @@ h5.testimonial_rotator_slide_title, .testimonial_rotator_quote {
 .invest-h3 {
     color: #D83A34;
     text-align: center;
-    padding-top: 60px;
+    padding-top: 50px;
 }
 
 .invest-left-icon p, .invest-middle-icon p, .invest-right-icon p {
@@ -474,7 +474,7 @@ img.image.wp-image-187.attachment-thumbnail.size-thumbnail, img.image.wp-image-2
 }
 
 div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
-    padding: 20px;
+    padding: 10px;
     margin: 20px;
 }
 
@@ -740,10 +740,11 @@ h3.additional-resources-two {
   align-content: left;
 }
 
+/* Rachel, I had to comment this out because it's creating some site-wide errors
 .textwidget p {
   padding-right: 125px;
 }
-
+*/
 
 
 
