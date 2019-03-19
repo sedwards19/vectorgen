@@ -782,23 +782,23 @@ h3.additional-resources-two {
 
     /* Invest Page */
     .invest-vector-gen-approach p {
-    text-align: center;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-bottom: 0px;
+        text-align: center;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 0px;
     }
 
     div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
-    padding: 10px;
-    margin: 4px;
+        padding: 10px;
+        margin: 4px;
     }
 
     .row.investment-potential {
-    padding-bottom: 15px;
+        padding-bottom: 15px;
     }
 
-    .budget-timelime h3, .returns-projections h3, .budget-timelime p, .returns-projections p {
-    text-align: center;
+    .six.columns.returns, .six.columns.budget {
+        width: 100%;
     }
 
 }
