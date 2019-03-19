@@ -726,6 +726,7 @@ h3.additional-resources-two {
 .featured-posts {
   margin-top: 60px;
   margin-bottom: 60px;
+  margin-left: 100px; 
 }
 
 /*.featured-posts p {
@@ -738,7 +739,7 @@ h3.additional-resources-two {
 }
 
 .textwidget p {
-  padding-right: 100px;
+  padding-right: 125px;
 }
 
 .featured-post-two {
