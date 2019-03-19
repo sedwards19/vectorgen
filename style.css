@@ -726,14 +726,15 @@ h3.additional-resources-two {
 .featured-posts {
   margin-top: 60px;
   margin-bottom: 60px;
-  margin-left: 100px; 
+  margin-left: 100px;
 }
 
-/*.featured-posts p {
-  margin-right: 75px;
-} */
-
 .featured-post-one {
+  text-align: left;
+  align-content: left;
+}
+
+.featured-post-two {
   text-align: left;
   align-content: left;
 }
@@ -742,18 +743,6 @@ h3.additional-resources-two {
   padding-right: 125px;
 }
 
-.featured-post-two {
-  text-align: left;
-  align-content: left;
-}
-
-/*.featured-post-one, .featured-post-two p {
-    padding-right: 30px;
-} */
-
-/*#top-left-topic-resource, #top-middle-topic-resource, #top-right-topic-resource, #bottom-left-topic-resource, #bottom-middle-topic-resource, #bottom-right-topic-resource {
-
-}*/
 
 
 
