@@ -725,7 +725,10 @@ h3.additional-resources-two {
 
 .featured-posts {
   margin: 60px;
-  padding-right: 30px; 
+}
+
+.featured-posts p {
+  padding-right: 30px;
 }
 
 .featured-post-one {
