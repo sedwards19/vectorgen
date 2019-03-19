@@ -451,6 +451,8 @@ h5.testimonial_rotator_slide_title, .testimonial_rotator_quote {
 
 .row.investment-potential {
     background-color: #f4f5f5;
+    padding-right: 40px;
+    padding-left: 40px;
 }
 
 .invest-h3 {
@@ -475,7 +477,7 @@ img.image.wp-image-187.attachment-thumbnail.size-thumbnail, img.image.wp-image-2
 
 div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
     padding: 10px;
-    margin: 20px;
+    margin: 30px;
 }
 
 .six.columns.budget {
@@ -511,7 +513,7 @@ div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
 
 .become-investor h3 {
     text-align: center;
-    padding: 30px;
+    padding-top: 30px;
 }
 
 /* Partner Page Styling */
