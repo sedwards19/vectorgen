@@ -726,7 +726,6 @@ h3.additional-resources-two {
 .featured-posts {
   margin-top: 60px;
   margin-bottom: 60px;
-  margin-right: 60px;
   margin-left: 100px;
 }
 
@@ -742,6 +741,7 @@ h3.additional-resources-two {
 .featured-post-two {
   text-align: left;
   align-content: left;
+  margin-left: 60px; 
 }
 
 /*.featured-post-one, .featured-post-two p {
