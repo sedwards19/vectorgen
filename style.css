@@ -726,11 +726,13 @@ h3.additional-resources-two {
 .featured-post-one {
   text-align: center;
   align-content: center;
+  margin: 30px;
 }
 
 .featured-post-two {
   text-align: center;
   align-content: center;
+  margin: 30px; 
 }
 
 .featured-post-one, .featured-post-two p {
