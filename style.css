@@ -772,8 +772,8 @@ h3.additional-resources-two {
 
     /* Invest Page */
     div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
-    padding: 10px;
-    margin: 10px;
+        padding: 10px;
+        margin: 10px;
     }
 
 }
@@ -799,6 +799,17 @@ h3.additional-resources-two {
 
     .six.columns.returns, .six.columns.budget {
         width: 100%;
+    }
+
+}
+
+@media (max-width: 1000px) {
+
+    /* Invest Page */
+    .invest-vector-gen-approach p {
+        text-align: center;
+        padding-left: 25px;
+        padding-right: 25px;
     }
 
 }
