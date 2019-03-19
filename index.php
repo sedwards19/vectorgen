@@ -36,7 +36,7 @@
             </div>
           </div>
       </div>
-      
+
       <div class="resource-topics-container-two">
           <div class="square">
             <div class="content">
@@ -53,6 +53,7 @@
           <div class="square">
             <div class="content">
               <?php dynamic_sidebar('bottom-right-topic-resource'); ?>
+            </div>
           </div>
       </div>
 
