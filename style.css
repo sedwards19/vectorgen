@@ -343,6 +343,8 @@ footer p {
 
 .global-crisis p {
     text-align: center;
+    padding-right: 125px;
+    padding-left: 125px;
 }
 
 .did-you-know {
@@ -356,7 +358,6 @@ footer p {
 }
 
 .row.research-icons {
-    padding: 30px;
     background-color: #f4f5f5;
 }
 
