@@ -735,7 +735,7 @@ h3.additional-resources-two {
     margin-right: 10px;
 }
 
-.featured-posts {
+.featured-posts-container {
   display: flex;
   flex-wrap: wrap;
 }
