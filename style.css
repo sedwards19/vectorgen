@@ -774,6 +774,16 @@ h3.additional-resources-two {
 /* MEDIA QUERIES */
 @media (max-width: 550px) {
 
+  /* Research Page */
+  .three.columns.icon {
+      padding: 10px;
+      margin: 10px;
+  }
+
+  .twelve.columns.carousel {
+      padding: 40px;
+  }
+
     /* Invest Page */
     div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
         padding: 10px;
@@ -783,6 +793,13 @@ h3.additional-resources-two {
 }
 
 @media (max-width: 750px) {
+
+    /* Research Page */
+    .global-crisis p {
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 0px;
+    }
 
     /* Invest Page */
     .invest-vector-gen-approach p {
