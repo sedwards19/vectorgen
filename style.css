@@ -575,6 +575,10 @@ div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
     background-color: #f4f5f5;
 }
 
+.row.contact.form {
+    background-color: #f4f5f5;
+}
+
 #wpforms-154-field_1, #wpforms-154-field_1-last, #wpforms-154-field_2, #wpforms-154-field_3, #wpforms-154-field_4 {
     background-color: #B9E0F7;
 }

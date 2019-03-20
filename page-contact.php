@@ -6,7 +6,7 @@
 
 <!--Hero Image + Contact Form Section-->
     <div class="row contact form">
-        <div class="one-half column">
+        <div class="one-half column image">
             <?php dynamic_sidebar('contact-hero-image'); ?>
         </div>
 
