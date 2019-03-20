@@ -685,7 +685,6 @@ h3.additional-resources {
     background-size: cover;
     position: relative;
     height: 250px;
-
 }
 
 .resource-hero-image-text {
@@ -736,36 +735,16 @@ h3.additional-resources-two {
     margin-right: 10px;
 }
 
-/*.top-left-topic-resource, .top-right-topic-resource, .bottom-middle-topic-resource {
-    background-color: #677485;
-    color: #FFFFFF;
-}
-
-.top-middle-topic-resource, .bottom-left-topic-resource, .bottom-right-topic-resource {
-    background-color: #1D3557;
-    color: #FFFFFF;
-} */
-
 .featured-posts {
-  margin-top: 100px;
-  margin-left: 25%;
+  display: flex;
+  flex-wrap: wrap;
 }
 
-.featured-post-one {
+.featured-post-one, .featured-post-two {
   text-align: left;
   align-content: left;
 }
 
-.featured-post-two {
-  text-align: left;
-  align-content: left;
-}
-
-/* Rachel, I had to comment this out because it's creating some site-wide errors
-.textwidget p {
-  padding-right: 125px;
-}
-*/
 
 
 
