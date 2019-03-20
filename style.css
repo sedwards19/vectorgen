@@ -801,9 +801,21 @@ h3.additional-resources-two {
         padding-bottom: 0px;
     }
 
+    .global-crisis {
+        padding-bottom: 30px;
+    }
+
     .three.columns.icon {
         width: 50%;
         padding: 30px;
+    }
+
+    .six.columns.combating-hiv, .six.columns.large-image-one, .research-large-image-one, .six.columns.research-approach {
+        width: 100%;
+    }
+
+    .twelve.columns.carousel {
+        padding: 50px;
     }
 
     /* Invest Page */
