@@ -49,13 +49,13 @@
             <?php dynamic_sidebar('research-combating-hiv'); ?>
         </div>
 
-        <div class="six columns">
+        <div class="six columns large-image-one">
             <?php dynamic_sidebar('research-large-image-one'); ?>
         </div>
     </div>
 
     <div class="row">
-        <div class="six columns">
+        <div class="six columns large-image-two">
             <?php dynamic_sidebar('research-large-image-two'); ?>
         </div>
 
@@ -70,7 +70,7 @@
             <?php dynamic_sidebar('future'); ?>
         </div>
     </div>
-    
+
 </div>
 
 <?php get_footer(); ?>

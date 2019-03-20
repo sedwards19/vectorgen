@@ -801,6 +801,11 @@ h3.additional-resources-two {
         padding-bottom: 0px;
     }
 
+    .three.columns.icon {
+        width: 50%;
+        padding: 30px;
+    }
+
     /* Invest Page */
     .invest-vector-gen-approach p {
         text-align: center;
