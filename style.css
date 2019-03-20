@@ -189,28 +189,38 @@ font-style: italic;
 
 /* Global Styling */
 
-/* h1 {
+h1 {
+  font-family: proxima-nova, sans-serif;
+  font-weight: 700;
+  font-style: normal;
   font-size: 2em;
   line-height: 1.25em;
 }
 
 h2 {
   font-family: proxima-nova, sans-serif;
-  font-weight: 400;
+  font-weight: 700;
   font-style: normal;
   font-size: 1.625em;
 }
 
 h3 {
+  font-family: proxima-nova, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  letter-spacing: 0.5px;
   font-size: 1.375em;
   line-height: 1.136em;
 }
 
 h4 {
+  font-family: proxima-nova, sans-serif;
+  font-weight: 400;
+  font-style: normal;
   font-size: 1.125em;
   line-height: 1.111em;
 }
-*/
+
 p {
   font-family: proxima-nova, sans-serif;
   font-weight: 300;
@@ -219,12 +229,6 @@ p {
   font-style: normal;
 }
 
-h3 {
-  font-family: proxima-nova, sans-serif;
-  font-weight: 600;
-  font-style: normal;
-  letter-spacing: 1px;
-}
 
 /* Home Page Styling */
 .hero-image-widget {
