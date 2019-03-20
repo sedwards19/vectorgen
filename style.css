@@ -802,7 +802,7 @@ h3.additional-resources-two {
 
     .three.columns.icon {
         width: 50%;
-        padding: 30px;
+        padding: 20px;
     }
 
     .six.columns.combating-hiv, .six.columns.large-image-one, .six.columns.large-image-two, .six.columns.research-approach {
@@ -838,9 +838,15 @@ h3.additional-resources-two {
 
 @media (max-width: 1000px) {
 
+    /* Research Page */
+  .global-crisis p {
+      text-align: center;
+      padding-right: 25px;
+      padding-left: 25px;
+  }
+
     /* Invest Page */
     .invest-vector-gen-approach p {
-        text-align: center;
         padding-left: 25px;
         padding-right: 25px;
     }
