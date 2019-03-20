@@ -776,9 +776,9 @@ h3.additional-resources-two {
 
   /* Research Page */
   .three.columns.icon {
+      width: 100%;
       padding: 10px;
       margin: 10px;
-      width: 100%;
   }
 
   .twelve.columns.carousel {
