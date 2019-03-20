@@ -775,7 +775,7 @@ h3.additional-resources-two {
 }
 
 
-/* MEDIA QUERIES */
+/* MEDIA QUERIES - MAX WIDTH */
 @media (max-width: 550px) {
 
   /* Research Page */
@@ -835,6 +835,11 @@ h3.additional-resources-two {
     }
 
     .six.columns.returns, .six.columns.budget {
+        width: 100%;
+    }
+
+    /* Contact Page */
+    .one-half.column.contact, .one-half.column.image {
         width: 100%;
     }
 
