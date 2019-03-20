@@ -58,7 +58,7 @@
       </div>
 
 <!-- Featured Posts -->
-      <div class="row featured-posts">
+      <div class="row featured-posts-container">
           <div class="one-half column">
               <?php dynamic_sidebar('featured-post-one'); ?>
           </div>
