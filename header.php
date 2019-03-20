@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8" />
-    <tite><?php bloginfo('name'); ?></tite>
+    <title><?php bloginfo('name'); ?></title>
 
     <!-- Link to our style.css file here-->
     <link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_url'); ?>" />
