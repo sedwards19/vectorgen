@@ -742,7 +742,7 @@ h3.additional-resources-two {
 
 .featured-post-one, .featured-post-two {
   text-align: left;
-  align-content: left;
+  justify-content: space-between;
 }
 
 
