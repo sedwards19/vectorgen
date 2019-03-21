@@ -913,6 +913,13 @@ h3.blog-title {
 
 }
 
+@media (max-width: 820px) {
+
+  /* Contact Page */
+  .row.interior-pages.contact {
+      display: flex;
+  }
+
 @media (max-width: 1000px) {
 
     /* Research Page */
