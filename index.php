@@ -59,11 +59,13 @@
 
 <!-- Featured Posts -->
       <div class="row featured-posts-container">
-          <div class="one-half column">
+        <div class="post-square">
+          <div class="content">
               <?php dynamic_sidebar('featured-post-one'); ?>
           </div>
 
-          <div class="one-half column">
+          <div class="post-square">
+            <div class="content">
               <?php dynamic_sidebar('featured-post-two'); ?>
           </div>
       </div>
