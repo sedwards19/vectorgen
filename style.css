@@ -775,7 +775,7 @@ h3.blog-title {
   justify-content: center;
   margin-left: 10%;
 }
-
+/*
 .blog-square {
   position: relative;
   flex-basis: calc(20% - 10px);
