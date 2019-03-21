@@ -3,7 +3,7 @@
 </div>
 
 <!-- Featured Posts -->
-      <div class="row featured-posts-container">
+      <div class="column sidebar-container">
           <div class="one-half column">
               <?php dynamic_sidebar('sidebar-post-one'); ?>
           </div>
