@@ -664,6 +664,7 @@ h3.additional-resources {
     color: #FFFFFF;
     width: 250px;
     height: 250px;
+    margin-bottom: 40px;
 }
 
 .contact-left-topic {
@@ -680,6 +681,7 @@ h3.additional-resources {
 
 .row.interior-pages.contact {
     padding-bottom: 75px;
+    display: block;
 }
 
 /*Resource Page Styling*/
