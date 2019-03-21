@@ -894,23 +894,6 @@ h3.blog-title {
         width: 100%;
     }
 
-    /* Contact Page */
-    .one-half.column.contact, .one-half.column.image {
-        width: 100%;
-    }
-
-    .one-third.column.contact {
-        width: 100%;
-    }
-
-    .row.interior-pages.contact {
-        display: block;
-    }
-
-    .contact-left-topic, .contact-middle-topic, .contact-right-topic {
-        margin-bottom: 40px;
-    }
-
 }
 
 @media (max-width: 1000px) {
@@ -926,6 +909,23 @@ h3.blog-title {
     .invest-vector-gen-approach p {
         padding-left: 25px;
         padding-right: 25px;
+    }
+
+    /* Contact Page */
+    .one-half.column.contact, .one-half.column.image {
+        width: 100%;
+    }
+
+    .one-third.column.contact {
+        width: 100%;
+    }
+
+    .row.interior-pages.contact {
+        display: block;
+    }
+
+    .contact-left-topic, .contact-middle-topic, .contact-right-topic {
+        margin-bottom: 40px;
     }
 
 }
