@@ -702,12 +702,11 @@ h3.additional-resources-two {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin-left: 20%;
 }
 
 .square {
   position: relative;
-  flex-basis: calc(20% - 10px);
+  flex-basis: calc(22% - 10px);
   margin: 10px;
   box-sizing: border-box;
 }
@@ -735,6 +734,12 @@ h3.additional-resources-two {
     margin-left: 10px;
     margin-right: 10px;
 }
+.featured-posts-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 
 
 
