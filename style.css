@@ -776,7 +776,7 @@ h3.blog-title {
   margin-left: 15%;
 }
 
-/*.blog-square {
+.blog-square {
   position: relative;
   flex-basis: calc(20% - 10px);
   margin: 10px;
@@ -789,6 +789,7 @@ h3.blog-title {
   padding-top: 100%;
 }
 
+/*
 .blog-square .blog-content {
   background-color: #677485;
   position: absolute;
