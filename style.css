@@ -666,6 +666,14 @@ h3.additional-resources {
     height: 250px;
 }
 
+.contact-left-topic h3, .contact-middle-topic h3, .contact-right-topic h3 {
+    padding: 30px 25px 0px 25px;
+}
+
+.contact-left-topic p, .contact-middle-topic p, .contact-right-topic p {
+    padding: 10px 25px 0px 25px;
+}
+
 .contact-left-topic {
     background-color: #D83A34;
 }
