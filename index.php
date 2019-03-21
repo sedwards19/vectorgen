@@ -60,12 +60,12 @@
 <!-- Featured Posts -->
       <div class="row blog-topics-container">
         <div class="one-half column">
-          <div class="blog-square">
+        <!--  <div class="blog-square"> -->
               <?php dynamic_sidebar('featured-post-one'); ?>
           </div>
 
           <div class="one-half column">
-            <div class="blog-square">
+      <!--      <div class="post-content"> -->
               <?php dynamic_sidebar('featured-post-two'); ?>
           </div>
       </div>
