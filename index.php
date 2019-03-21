@@ -58,14 +58,14 @@
       </div>
 
 <!-- Featured Posts -->
-      <div class="row">
+      <div class="row blog-topics-container">
         <div class="one-half column">
         <!--  <div class="post-content"> -->
               <?php dynamic_sidebar('featured-post-one'); ?>
           </div>
 
-          <div class="post-square">
-            <div class="post-content">
+          <div class="one-half column">
+      <!--      <div class="post-content"> -->
               <?php dynamic_sidebar('featured-post-two'); ?>
           </div>
       </div>
