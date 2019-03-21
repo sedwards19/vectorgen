@@ -7,7 +7,6 @@ get_header(); ?>
 <div class="row">
     <div class="twelve columns">
         <h3 class="blog-title">TITLE</h3>
-        <h3 class="blog-topic">TITLE</h3>
     </div>
 </div>
 
