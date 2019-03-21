@@ -773,8 +773,7 @@ h3.blog-title {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 15%;
 }
 
 /*.blog-square {
