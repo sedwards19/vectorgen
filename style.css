@@ -573,6 +573,7 @@ div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
 
 .contact-form h3, h4 {
     color: #1D3557;
+    margin-bottom: 9px;
 }
 
 .one-half.column.contact {
@@ -582,6 +583,10 @@ div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
 
 .row.contact.form {
     background-color: #f4f5f5;
+}
+
+div.wpforms-container-full {
+    margin-bottom: 34px;
 }
 
 #wpforms-154-field_1, #wpforms-154-field_1-last, #wpforms-154-field_2, #wpforms-154-field_3, #wpforms-154-field_4 {
