@@ -577,7 +577,7 @@ div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
 }
 
 .one-half.column.contact {
-    padding: 30px 60px 0px 60px;
+    padding: 40px 60px 15px 60px;
     background-color: #f4f5f5;
 }
 
@@ -850,10 +850,6 @@ h3.blog-title {
         margin-bottom: 40px;
     }
 
-    .row.interior-pages.contact {
-        display: block;
-    }
-
 }
 
 @media (max-width: 750px) {
@@ -906,6 +902,10 @@ h3.blog-title {
     /* Contact Page */
     .one-half.column.contact, .one-half.column.image {
         width: 100%;
+    }
+
+    .row.interior-pages.contact {
+        display: block;
     }
 
 }
