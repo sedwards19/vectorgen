@@ -735,8 +735,12 @@ h3.additional-resources-two {
     margin-right: 10px;
 }
 
-.featured-post-one, .featured-post-two {
+.featured-post-one {
   text-align: left;
+}
+
+.featured-post-two {
+  
 }
 
 
