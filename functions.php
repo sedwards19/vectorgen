@@ -738,6 +738,40 @@ function blank_widgets_init(){
       'after_title'   => '</h3>'
     ));
 
+  //EXAMPLE BLOG POST PAGE WIDGETS
+
+  register_sidebar( array(
+    'name'          => ('Blog Left Topic'),
+    'id'            => 'blog-left-topic',
+    'description'   => 'Left Topic Widget Area On The Example Blog Page',
+    'before_widget' => '<div class="blog-left-topic">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Resource Page-Bottom Middle Topic Widget
+  register_sidebar( array(
+    'name'          => ('Blog Middle Topic'),
+    'id'            => 'blog-middle-topic',
+    'description'   => 'Middle Topic Widget Area On The Example Blog Page',
+    'before_widget' => '<div class="blog-middle-topic">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  //Resource Page-Bottom Right Topic Widget
+  register_sidebar( array(
+    'name'          => ('Blog Right Topic'),
+    'id'            => 'blog-right-topic',
+    'description'   => 'Right Topic Widget Area On The Example Blog Page',
+    'before_widget' => '<div class="blog-right-topic">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
   //SIDEBAR
   register_sidebar( array(
     'name'          => ('Sidebar'),
