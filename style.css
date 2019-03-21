@@ -894,6 +894,9 @@ h3.blog-title {
         width: 100%;
     }
 
+}
+
+@media (max-width: 770px) {
     /* Contact Page */
     .one-half.column.contact, .one-half.column.image {
         width: 100%;
