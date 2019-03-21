@@ -18,7 +18,6 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
-
   //HOME WIDGETS
   //Home-Hero Image Widget
   register_sidebar( array(
@@ -175,7 +174,7 @@ function blank_widgets_init(){
   ));
 
 
-  //ABOUT WIDGETS INSERT HERE
+  //ABOUT WIDGETS
   register_sidebar( array(
     'name'          => ('About Image Widget'),
     'id'            => 'about-image',
@@ -465,7 +464,7 @@ function blank_widgets_init(){
   ));
 
 
-  //PARTNER WIDGETS INSERT HERE
+  //PARTNER WIDGETS
   //Partner Image Widget
   register_sidebar( array(
     'name'          => ('Partner Image Widget'),
@@ -639,7 +638,7 @@ function blank_widgets_init(){
   ));
 
 
-  //RESOURCE CENTER WIDGETS INSERT HERE
+  //RESOURCE CENTER WIDGETS
   //Resource Center- Hero Image Widget
   register_sidebar( array(
     'name'          => ('Resource Hero Image'),
@@ -717,7 +716,7 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
-  //RESOURCE PAGE EXAMPLE BLOG POST WIDGETS INSERT HERE
+  //RESOURCE PAGE EXAMPLE BLOG POST WIDGETS
     register_sidebar( array(
       'name'          => ('featured-post-one'),
       'id'            => 'featured-post-one',
@@ -739,7 +738,6 @@ function blank_widgets_init(){
     ));
 
   //EXAMPLE BLOG POST PAGE WIDGETS
-
   register_sidebar( array(
     'name'          => ('Blog Left Topic'),
     'id'            => 'blog-left-topic',
@@ -830,6 +828,7 @@ function custom_menus(){
     'footer-menu' => ('Footer Menu')
   ));
 }
+
 add_action('init', 'custom_menus');
 
 
@@ -841,4 +840,5 @@ $custom_image_header = array(
 );
 
 add_theme_support('custom-header', $custom_image_header);
+
 ?>
