@@ -773,11 +773,11 @@ h3.blog-title {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin-left: 15%;
-  margin-right: 15%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
-.blog-square {
+/*.blog-square {
   position: relative;
   flex-basis: calc(20% - 10px);
   margin: 10px;
@@ -796,7 +796,7 @@ h3.blog-title {
   top: 0; left: 0;
   height: 100%;
   width: 100%;
-}
+} */
 
 .blog-left-topic, .blog-middle-topic, .blog-right-topic {
     text-align: center;
