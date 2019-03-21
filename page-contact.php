@@ -30,15 +30,15 @@
     </div>
 
     <div class="row interior-pages contact">
-        <div class="one-third column">
+        <div class="one-third column contact">
             <?php dynamic_sidebar('contact-left-topic'); ?>
         </div>
 
-        <div class="one-third column">
+        <div class="one-third column contact">
             <?php dynamic_sidebar('contact-middle-topic'); ?>
         </div>
 
-        <div class="one-third column">
+        <div class="one-third column contact">
             <?php dynamic_sidebar('contact-right-topic'); ?>
         </div>
     </div>
