@@ -740,7 +740,26 @@ h3.additional-resources-two {
   justify-content: center;
 }
 
+.post-square {
+  position: relative;
+  flex-basis: calc(22% - 10px);
+  margin: 10px;
+  box-sizing: border-box;
+}
 
+.post-square::before {
+  content: '';
+  display: block;
+  padding-top: 100%;
+}
+
+.post-square .post-content {
+  background-color: #677485;
+  position: absolute;
+  top: 0; left: 0;
+  height: 100%;
+  width: 100%;
+}
 
 
 /* Blog Page Styling */
