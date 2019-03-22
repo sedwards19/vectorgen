@@ -531,6 +531,11 @@ div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
     padding-top: 30px;
 }
 
+.maxbutton-1.maxbutton.maxbutton-contact-now {
+    display: block;
+    margin: auto;
+}
+
 /* Partner Page Styling */
 .row.interior-pages.partner-logos {
     padding: 10px 0;
