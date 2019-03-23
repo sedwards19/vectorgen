@@ -858,7 +858,7 @@ h3.blog-title {
 
   /* Research Page */
   .research-hero-image .textwidget, .research-hero-image h1 {
-      padding-right: 40px !important;
+      padding-right: 40px;
       padding-left: 55px;
   }
 
@@ -911,7 +911,7 @@ h3.blog-title {
 
     /* Invest Page */
     .invest-hero-image h1, .invest-hero-image .textwidget {
-        padding-right: 200px;
+        padding-right: 100px;
     }
 
     .invest-vector-gen-approach p {
