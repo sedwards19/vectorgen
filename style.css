@@ -535,12 +535,12 @@ div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  height: 165px;
+  height: 250px;
 }
 
 .become-investor h3 {
     text-align: center;
-    padding-top: 40px;
+    padding-top: 80px;
 }
 
 .maxbutton-1.maxbutton.maxbutton-contact-now {
