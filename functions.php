@@ -738,15 +738,6 @@ function blank_widgets_init(){
     ));
 
   //EXAMPLE BLOG POST PAGE WIDGETS
-  register_sidebar( array(
-    'name'          => ('Blog Left Topic'),
-    'id'            => 'blog-left-topic',
-    'description'   => 'Left Topic Widget Area On The Example Blog Page',
-    'before_widget' => '<div class="blog-left-topic">',
-    'after_widget'  => '</div>',
-    'before_title'  => '<h3 class="widget-title">',
-    'after_title'   => '</h3>'
-  ));
 
   register_sidebar( array(
     'name'          => ('Blog Text'),
