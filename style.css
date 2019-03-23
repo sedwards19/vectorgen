@@ -595,16 +595,14 @@ div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
 
 /* Contact Page Styling */
 .contact-hero-image {
-  background-image: url(http://www.harvestknight.com/VectorGen/wp-content/uploads/2019/03/laboratory-crop.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  min-height: 630px;
+    max-height: 615px;
+    height: 100%;
 }
 
-#test {
-  display: none;
+.contact-hero-image img {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
 }
 
 .contact-form h3, h4 {
@@ -619,6 +617,7 @@ div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
 
 .row.contact.form {
     background-color: #f4f5f5;
+    display: flex;
 }
 
 div.wpforms-container-full {
