@@ -918,6 +918,10 @@ h3.blog-title {
         width: 100%;
     }
 
+    .row.research-grid-one, .row.research-grid-two {
+        display: block;
+    }
+
     .twelve.columns.carousel {
         padding: 50px;
     }
