@@ -439,6 +439,11 @@ h5.testimonial_rotator_slide_title, .testimonial_rotator_quote {
 .invest-hero-image h1 {
     color: #D83A34;
     padding-top: 120px;
+    padding-left: 100px;
+}
+
+.invest-hero-image .textwidget {
+    padding-left: 100px;
 }
 
 .invest-vector-gen-approach {
