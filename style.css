@@ -866,6 +866,10 @@ h3.blog-title {
 @media (max-width: 750px) {
 
     /* Research Page */
+    .research-hero-image .textwidget {
+        padding-right: 300px;
+    }
+
     .global-crisis p {
         padding-left: 10px;
         padding-right: 10px;
