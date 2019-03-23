@@ -954,6 +954,11 @@ h3.blog-title {
         width: 100%;
     }
 
+    /* Contact Page  */
+    .row.contact.form {
+        display: block;
+    }
+
 }
 
 @media (max-width: 850px) {
