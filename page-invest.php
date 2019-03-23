@@ -6,7 +6,7 @@
 
 <!--Hero Image Section-->
     <div class="row">
-        <div class="twelve columns">
+        <div class="twelve columns hero-overlay">
             <?php dynamic_sidebar('invest-hero-image'); ?>
         </div>
     </div>
