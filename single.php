@@ -11,10 +11,15 @@ get_header(); ?>
 </div>
 
 
-<!-- SIDEBAR -->
-
-    <div class="blog-topics-container">
-        <?php dynamic_sidebar('sidebar'); ?>
+<!-- Blog Text Block Section -->
+    <div class="row">
+        <div class="two-thirds column single">
+            <?php dynamic_sidebar('blog-text'); ?>
+        </div>
+        <div class="one-third column sidebar single">
+          <!-- sidebar -->
+            <?php get_sidebar(); ?>
+        </div>
     </div>
 
 
