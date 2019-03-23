@@ -3,14 +3,6 @@ get_header(); ?>
 
 <div class="container">
 
-<Title-->
-<div class="row">
-    <div class="twelve columns">
-        <h3 class="blog-title">TITLE</h3>
-    </div>
-</div>
-
-
 <!-- Blog Text Block Section -->
     <div class="row">
         <div class="two-thirds column single">
