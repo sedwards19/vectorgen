@@ -390,6 +390,21 @@ img.image.wp-image-175.attachment-thumbnail.size-thumbnail, img.image.wp-image-1
     display: flex;
 }
 
+.row.research-grid-one {
+    display: flex;
+}
+
+.research-large-image-one, .research-large-image-two {
+    height: 100%;
+}
+
+.research-large-image-one img, .research-large-image-two img {
+    /* height: 100% !important; */
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+}
+
 .six.columns.combating-hiv {
     padding: 60px;
     background-color: #1D3557;
