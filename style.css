@@ -910,6 +910,10 @@ h3.blog-title {
     }
 
     /* Invest Page */
+    .invest-hero-image h1, .invest-hero-image .textwidget {
+        padding-right: 200px;
+    }
+
     .invest-vector-gen-approach p {
         text-align: center;
         padding-left: 10px;
