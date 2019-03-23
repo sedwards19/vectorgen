@@ -716,7 +716,7 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
-  //RESOURCE PAGE EXAMPLE BLOG POST WIDGETS
+  //RESOURCE PAGE FEATURED POST WIDGETS
     register_sidebar( array(
       'name'          => ('featured-post-one'),
       'id'            => 'featured-post-one',
@@ -747,6 +747,16 @@ function blank_widgets_init(){
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
+
+  register_sidebar( array(
+    'name'          => ('Blog Text'),
+    'id'            => 'blog-text',
+    'description'   => 'Widget area for about us section',
+    'before_widget' => '<div class="blog-text">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+    ));
 
   //Resource Page-Bottom Middle Topic Widget
   register_sidebar( array(
