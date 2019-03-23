@@ -858,7 +858,7 @@ h3.blog-title {
 
   /* Research Page */
   .research-hero-image .textwidget, .research-hero-image h1 {
-      padding-right: 40px;
+      padding-right: 40px !important;
       padding-left: 55px;
   }
 
