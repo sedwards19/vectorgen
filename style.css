@@ -851,6 +851,14 @@ h3.blog-title {
 @media (max-width: 550px) {
 
   /* Research Page */
+  .research-hero-image .textwidget {
+      padding-right: 40px;
+  }
+
+  .research-hero-image .textwidget, .research-hero-image h1 {
+    padding-left: 55px;
+  }
+
   .twelve.columns.carousel {
       padding: 40px;
   }
@@ -867,7 +875,7 @@ h3.blog-title {
 
     /* Research Page */
     .research-hero-image .textwidget {
-        padding-right: 300px;
+        padding-right: 250px;
     }
 
     .global-crisis p {
