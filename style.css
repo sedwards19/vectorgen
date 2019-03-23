@@ -390,7 +390,7 @@ img.image.wp-image-175.attachment-thumbnail.size-thumbnail, img.image.wp-image-1
     display: flex;
 }
 
-.row.research-grid-one {
+.row.research-grid-one, .row.research-grid-two {
     display: flex;
 }
 
