@@ -544,7 +544,7 @@ div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
 }
 
 .maxbutton-1.maxbutton.maxbutton-contact-now {
-    display: !important block;
+    display: block !important;
     margin: auto;
 }
 
