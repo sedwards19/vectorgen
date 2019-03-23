@@ -851,12 +851,9 @@ h3.blog-title {
 @media (max-width: 550px) {
 
   /* Research Page */
-  .research-hero-image .textwidget {
-      padding-right: 40px;
-  }
-
   .research-hero-image .textwidget, .research-hero-image h1 {
-    padding-left: 55px;
+      padding-right: 40px;
+      padding-left: 55px;
   }
 
   .twelve.columns.carousel {
