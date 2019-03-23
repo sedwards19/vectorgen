@@ -856,7 +856,7 @@ h3.blog-title {
 /* MEDIA QUERIES - MAX WIDTH */
 @media (max-width: 550px) {
 
-  /* Research Page */
+  /* Research Page  */
   .research-hero-image .textwidget, .research-hero-image h1 {
       padding-right: 40px;
   }
