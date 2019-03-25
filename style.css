@@ -748,12 +748,10 @@ h3.additional-resources {
 
 .resource-hero-image p {
     color: #FFFFFF;
-    padding-left: 100px;
 }
 
 .resource-hero-image .textwidget {
-    padding-left: 100px;
-    padding-right: 100px;
+    padding: 100px 100px 50px 50px;
 }
 
 
@@ -761,6 +759,7 @@ h3.additional-resources-two  {
     text-align: center;
     color: #D83A34;
     margin-top: 60px;
+    margin-bottom: 60px;
 }
 
 .resource-left-topic, .resource-middle-topic, .resource-right-topic, .resource-left-topic-two, .resource-middle-topic-two, .resource-right-topic-two {
