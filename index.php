@@ -17,7 +17,7 @@
       </div>
   </div>
 
-  <div class="row interior-pages resource">
+  <div class="row interior-pages contact">
       <div class="one-third column">
           <?php dynamic_sidebar('resource-left-topic'); ?>
       </div>
@@ -31,16 +31,16 @@
       </div>
   </div>
 
-  <div class="row interior-pages resource">
-      <div class="one-third column">
+  <div class="row interior-pages contact">
+      <div class="one-third column contact">
           <?php dynamic_sidebar('resource-left-topic-two'); ?>
       </div>
 
-      <div class="one-third column">
+      <div class="one-third column contact">
           <?php dynamic_sidebar('resource-middle-topic-two'); ?>
       </div>
 
-      <div class="one-third column">
+      <div class="one-third column contact">
           <?php dynamic_sidebar('resource-right-topic-two'); ?>
       </div>
   </div>
