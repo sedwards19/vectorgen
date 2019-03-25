@@ -751,7 +751,7 @@ h3.additional-resources-two  {
     margin-top: 60px;
 }
 
-.row.resource-topics {
+/*.row.resource-topics {
   padding-bottom: 75px;
   display: flex;
   flex-wrap: wrap;
@@ -780,7 +780,7 @@ h3.additional-resources-two  {
     padding: 10px 25px 0px 25px;
 } */
 
-.top-left-topic-resource, .top-right-topic-resource, .bottom-middle-topic-resource {
+/*.top-left-topic-resource, .top-right-topic-resource, .bottom-middle-topic-resource {
     background-color: #677485;
 }
 
@@ -801,7 +801,6 @@ h3.additional-resources-two  {
 .featured-post-two {
   padding-right: 25px;
 }
-
 /* Single Blog Page Styling */
 
 .blog-title h3 {
