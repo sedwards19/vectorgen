@@ -807,8 +807,8 @@ h3.additional-resources-two  {
 
 .container-topics {
     display: flex;
-    margin-left: 40px;
-    margin-right: 40px; 
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 /* Single Blog Page Styling */
