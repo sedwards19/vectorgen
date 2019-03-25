@@ -756,6 +756,11 @@ h3.additional-resources-two  {
   margin: auto;
 }
 
+.row.resource-topics-two {
+  padding-bottom: 75px;
+  margin: auto;
+}
+
 .top-left-topic-resource, .top-middle-topic-resource, .top-right-topic-resource, .bottom-left-topic-resource, .bottom-middle-topic-resource, .bottom-right-topic-resource {
   text-align: center;
   color: #FFFFFF;
