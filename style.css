@@ -864,7 +864,7 @@ h3.additional-resources-two  {
 
     /*Resource page*/
     .row.topics {
-        justify-content: center;
+        maring-left: 20%;
     }
 
 }
