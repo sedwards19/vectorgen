@@ -797,7 +797,7 @@ h3.additional-resources-two  {
     background-color: #1D3557;
 }
 
-.one-half.column.one {
+.one-half.column.one, .one-half.column.two {
     text-align: left;
     display: flex;
 }
