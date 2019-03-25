@@ -948,7 +948,15 @@ h3.additional-resources-two  {
         width: 100%;
     }
 
+    .one-third.column.resource-two {
+        width: 100%;
+    }
+
     .row.interior-pages.resource {
+        display: block;
+    }
+
+    .row.interior-pages.resource-two {
         display: block;
     }
 
