@@ -862,6 +862,11 @@ h3.additional-resources-two  {
         margin: 10px;
     }
 
+    /*Resource page*/
+    .row.topics {
+        justify-content: center;
+    }
+
 }
 
 @media (max-width: 750px) {
