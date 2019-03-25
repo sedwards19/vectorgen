@@ -801,12 +801,14 @@ h3.additional-resources-two  {
     margin: auto;
     text-align: left;
     justify-content: center;
+    display: flex;
 }
 
 .one-half.column.two {
     margin: auto;
     text-align: left;
     justify-content: center;
+    display: flex;
 }
 
 /*.row-topics {
