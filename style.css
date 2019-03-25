@@ -781,7 +781,6 @@ h3.additional-resources-two {
 .top-left-topic-resource, .top-middle-topic-resource, .top-right-topic-resource, .bottom-left-topic-resource, .bottom-middle-topic-resource, .bottom-right-topic-resource {
   margin: auto;
   text-align: center;
-  color: #FFFFFF;
   width: 250px;
   height: 250px;
 }
