@@ -745,7 +745,7 @@ h3.additional-resources {
   padding: 60px;
 }
 
-.additional-resources-two h3 {
+h3.additional-resources-two  {
     text-align: center;
     color: #D83A34;
     margin-top: 60px;
