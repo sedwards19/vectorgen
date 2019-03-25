@@ -17,44 +17,32 @@
       </div>
   </div>
   <!--Topics Section-->
-      <div class="resource-topics-container">
-          <div class="square">
-            <div class="content">
+      <div class="row resource-topics">
+            <div class="one-third column">
               <?php dynamic_sidebar('top-left-topic-resource'); ?>
             </div>
-          </div>
 
-          <div class="square">
-            <div class="content">
+            <div class="one-third column">
               <?php dynamic_sidebar('top-middle-topic-resource'); ?>
             </div>
-          </div>
 
-          <div class="square">
-            <div class="content">
+            <div class="one-third column">
               <?php dynamic_sidebar('top-right-topic-resource'); ?>
             </div>
-          </div>
       </div>
 
-      <div class="resource-topics-container-two">
-          <div class="square">
-            <div class="content">
+      <div class="row resource-topics">
+            <div class="one-third column">
               <?php dynamic_sidebar('bottom-left-topic-resource'); ?>
             </div>
-          </div>
 
-          <div class="square">
-            <div class="content">
+            <div class="one-third column">
               <?php dynamic_sidebar('bottom-middle-topic-resource'); ?>
             </div>
-          </div>
 
-          <div class="square">
-            <div class="content">
+            <div class="one-third column">
               <?php dynamic_sidebar('bottom-right-topic-resource'); ?>
             </div>
-          </div>
       </div>
 
 <!-- Featured Posts -->
