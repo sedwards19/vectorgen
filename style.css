@@ -762,6 +762,10 @@ h3.additional-resources-two  {
     padding: 60px;
 }
 
+.row.interior-pages.resource {
+    padding-bottom: 75px;
+}
+
 .row.interior-pages.resource-two {
     padding-bottom: 75px;
 }
@@ -950,10 +954,12 @@ h3.additional-resources-two  {
 
     .row.interior-pages.resource {
         display: block;
+        padding-bottom: 0px;
     }
 
     .row.interior-pages.resource-two {
         display: block;
+        padding-bottom: 75px;
     }
 
 .resource-left-topic, .resource-middle-topic, .resource-right-topic {
