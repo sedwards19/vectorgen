@@ -683,7 +683,7 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
-  //Resource Center - Left Topic Widget TWo
+  //Resource Center - Left Topic Widget Two
   register_sidebar( array(
     'name'          => ('Left Topic Resource Two'),
     'id'            => 'resource-left-topic-two',
