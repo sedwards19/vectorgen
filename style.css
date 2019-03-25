@@ -781,15 +781,16 @@ h3.additional-resources-two {
 .top-left-topic-resource, .top-middle-topic-resource, .top-right-topic-resource, .bottom-left-topic-resource, .bottom-middle-topic-resource, .bottom-right-topic-resource {
   margin: auto;
   text-align: center;
+  color: #FFFFFF;
   width: 250px;
   height: 250px;
 }
 
-.contact-left-topic h3, .contact-middle-topic h3, .contact-right-topic h3 {
+.top-left-topic-resource h3, .top-middle-topic-resource h3, .top-right-topic-resource h3, .bottom-left-topic-resource h3, .bottom-middle-topic-resource h3, .bottom-right-topic-resource h3 {
     padding: 30px 25px 0px 25px;
 }
 
-.contact-left-topic p, .contact-middle-topic p, .contact-right-topic p {
+.top-left-topic-resource h3, .top-middle-topic-resource h3, .top-right-topic-resource h3, .bottom-left-topic-resource h3, .bottom-middle-topic-resource h3, .bottom-right-topic-resource h3 {
     padding: 10px 25px 0px 25px;
 }
 
@@ -799,10 +800,6 @@ h3.additional-resources-two {
 
 .top-middle-topic-resource, .bottom-left-topic-resource, .bottom-right-topic-resource {
     background-color: #1D3557;
-}
-
-.contact-right-topic {
-    background-color: #677485;
 }
 
 .row.resource-topics{
