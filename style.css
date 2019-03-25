@@ -740,10 +740,10 @@ h3.additional-resources {
     height: 250px;
 }
 
-.resource-hero-image h1 {
+.resource-hero-image h1 p {
     color: #FFFFFF;
     padding-left: 100px;
-    padding-top: 120px;
+    padding-top: 80px;
 }
 
 .resource-hero-image .textwidget {
