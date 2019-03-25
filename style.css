@@ -749,12 +749,11 @@ h3.additional-resources {
 .resource-hero-image p {
     color: #FFFFFF;
     padding-left: 100px;
-    padding-right: 100px;
-    padding-bottom: 80px;
 }
 
 .resource-hero-image .textwidget {
     padding-left: 100px;
+    padding-right: 100px;
 }
 
 
