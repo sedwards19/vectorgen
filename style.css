@@ -781,6 +781,8 @@ h3.additional-resources-two {
 
 .row.resource-topics, .row.resource-topics-two {
     padding-bottom: 75px;
+    width: 250px;
+    height: 250px;
 }
 
 .top-left-topic-resource, .top-middle-topic-resource, .top-right-topic-resource, .bottom-left-topic-resource, .bottom-middle-topic-resource, .bottom-right-topic-resource {
@@ -815,7 +817,7 @@ h3.additional-resources-two {
   justify-content: center;
 }
 
-/* Blog Page Styling */
+/* Single Blog Page Styling */
 
 h3.blog-title {
     text-align: left;
