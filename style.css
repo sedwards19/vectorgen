@@ -798,10 +798,10 @@ h3.additional-resources-two  {
 }
 
 .one-half.column {
-  padding: 55px 60px 15px 60px;
+  margin-left: 40px; 
 }
 
-.container-topics {
+.row-topics {
     display: flex;
 }
 
