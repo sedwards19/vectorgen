@@ -801,9 +801,9 @@ h3.additional-resources-two  {
     text-align: left;
 }
 
-.row-topics {
+.row.topics {
     padding-left: 100px;
-} 
+}
 
 /* Single Blog Page Styling */
 
