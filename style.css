@@ -987,4 +987,14 @@ h3.additional-resources-two  {
         padding-right: 25px;
     }
 
+    .row.interior-pages.resource {
+        display: block;
+        padding-bottom: 75px;
+    }
+
+    .row.interior-pages.resource-two {
+        display: block;
+        padding-bottom: 75px;
+    }
+
 }
