@@ -762,6 +762,14 @@ h3.additional-resources-two  {
     padding: 60px;
 }
 
+.row.interior-pages.resource {
+    padding-bottom: 75px;
+}
+
+.row.interior-pages.resource-two {
+    padding-bottom: 75px;
+}
+
 .resource-left-topic, .resource-middle-topic, .resource-right-topic, .resource-left-topic-two, .resource-middle-topic-two, .resource-right-topic-two {
     margin: auto;
     text-align: center;
