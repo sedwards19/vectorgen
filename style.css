@@ -797,14 +797,14 @@ h3.additional-resources-two  {
     background-color: #1D3557;
 }
 
-.one-half.column.one {
+.one-third.column.one {
     margin: auto;
     text-align: left;
     justify-content: center;
     display: flex;
 }
 
-.one-half.column.two {
+.one-third.column.two {
     margin: auto;
     text-align: left;
     justify-content: center;
