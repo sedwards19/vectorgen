@@ -31,16 +31,16 @@
       </div>
   </div>
 
-  <div class="row interior-pages resource">
-      <div class="one-third column resource">
+  <div class="row interior-pages resource-two">
+      <div class="one-third column resource-two">
           <?php dynamic_sidebar('resource-left-topic-two'); ?>
       </div>
 
-      <div class="one-third column resource">
+      <div class="one-third column resource-two">
           <?php dynamic_sidebar('resource-middle-topic-two'); ?>
       </div>
 
-      <div class="one-third column resource">
+      <div class="one-third column resource-two">
           <?php dynamic_sidebar('resource-right-topic-two'); ?>
       </div>
   </div>
