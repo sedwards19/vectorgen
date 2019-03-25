@@ -751,34 +751,6 @@ h3.additional-resources-two {
     margin-top: 60px;
 }
 
-/*.resource-topics-container, .resource-topics-container-two {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-.square {
-  position: relative;
-  flex-basis: calc(22% - 10px);
-  margin: 10px;
-  box-sizing: border-box;
-}
-
-.square::before {
-  content: '';
-  display: block;
-  padding-top: 100%;
-}
-
-.square .content {
-  background-color: #677485;
-  position: absolute;
-  top: 0; left: 0;
-  height: 100%;
-  width: 100%;
-} */
-
-
 .row.resource-topics {
   padding-bottom: 75px;
 }
@@ -850,8 +822,6 @@ h3.additional-resources-two {
 .top-middle-topic-resource, .bottom-left-topic-resource, .bottom-right-topic-resource {
     background-color: #1D3557;
 }
-
-
 
 .featured-posts-container {
   display: flex;
