@@ -770,7 +770,7 @@ h3.additional-resources-two  {
 }
 
 .row.interior-pages.resource-two {
-    padding-bottom: 75px;
+    padding-bottom: 50px;
 }
 
 .resource-left-topic, .resource-middle-topic, .resource-right-topic, .resource-left-topic-two, .resource-middle-topic-two, .resource-right-topic-two {
@@ -803,7 +803,7 @@ h3.additional-resources-two  {
 
 .row.topics {
     padding-left: 20%;
-    padding-bottom: 10%; 
+    padding-bottom: 10%;
 }
 
 /* Single Blog Page Styling */
