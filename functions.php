@@ -650,67 +650,67 @@ function blank_widgets_init(){
     'after_title'   => '</h1>'
   ));
 
-  //Resource Page-Top Left Topic Widget
+  //Resource Center - Left Topic Widget
   register_sidebar( array(
-    'name'          => ('Top Left Topic Resource'),
-    'id'            => 'top-left-topic-resource',
-    'description'   => 'Widget Area In The Top Left Topic Resource Page',
-    'before_widget' => '<div class="top-left-topic-resource">',
+    'name'          => ('Left Topic Resource'),
+    'id'            => 'resource-left-topic',
+    'description'   => 'Widget Area In The Left Topic Resource Page',
+    'before_widget' => '<div class="resource-left-topic">',
     'after_widget'  => '</div>',
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
 
-  //Resource Page-Top Middle Topic Widget
+  //Resource Center - Middle Topic Widget
   register_sidebar( array(
-    'name'          => ('Top Middle Topic Resource'),
-    'id'            => 'top-middle-topic-resource',
-    'description'   => 'Widget Area In The Top Middle Topic Resource Page',
-    'before_widget' => '<div class="top-middle-topic-resource">',
+    'name'          => ('Middle Topic Resource'),
+    'id'            => 'resource-middle-topic',
+    'description'   => 'Widget Area In The Middle Topic Resource Page',
+    'before_widget' => '<div class="resource-middle-topic">',
     'after_widget'  => '</div>',
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
 
-  //Resource Page-Top Right Topic Widget
+  //Resource Center - Right Topic Widget
   register_sidebar( array(
-    'name'          => ('Top Right Topic Resource'),
-    'id'            => 'top-right-topic-resource',
-    'description'   => 'Widget Area In The Top Right Topic Resource Page',
-    'before_widget' => '<div class="top-right-topic-resource">',
+    'name'          => ('Right Topic Resource'),
+    'id'            => 'resource-right-topic',
+    'description'   => 'Widget Area In The Right Topic Resource Page',
+    'before_widget' => '<div class="resource-right-topic">',
     'after_widget'  => '</div>',
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
 
-  //Resource Page-Bottom Left Topic Widget
+  //Resource Center - Left Topic Widget TWo
   register_sidebar( array(
-    'name'          => ('Bottom Left Topic Resource'),
-    'id'            => 'bottom-left-topic-resource',
-    'description'   => 'Widget Area In The Bottom Left Topic Resource Page',
-    'before_widget' => '<div class="bottom-left-topic-resource">',
+    'name'          => ('Left Topic Resource Two'),
+    'id'            => 'resource-left-topic-two',
+    'description'   => 'Second Widget Area In The Left Topic Resource Page',
+    'before_widget' => '<div class="resource-left-topic-two">',
     'after_widget'  => '</div>',
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
 
-  //Resource Page-Bottom Middle Topic Widget
+  //Resource Center - Middle Topic Widget Two
   register_sidebar( array(
-    'name'          => ('Bottom Middle Topic Resource'),
-    'id'            => 'bottom-middle-topic-resource',
-    'description'   => 'Widget Area In The Bottom Middle Topic Resource Page',
-    'before_widget' => '<div class="bottom-middle-topic-resource">',
+    'name'          => ('Middle Topic Resource Two'),
+    'id'            => 'resource-middle-topic-two',
+    'description'   => 'Second Widget Area In The Middle Topic Resource Page',
+    'before_widget' => '<div class="resource-middle-topic-two">',
     'after_widget'  => '</div>',
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
   ));
 
-  //Resource Page-Bottom Right Topic Widget
+  //Resource Center - Right Topic Widget Two
   register_sidebar( array(
-    'name'          => ('Bottom Right Topic Resource'),
-    'id'            => 'bottom-right-topic-resource',
-    'description'   => 'Widget Area In The Bottom Right Topic Resource Page',
-    'before_widget' => '<div class="bottom-right-topic-resource">',
+    'name'          => ('Right Topic Resource Two'),
+    'id'            => 'resource-right-topic-two',
+    'description'   => 'Second Widget Area In The Right Topic Resource Page',
+    'before_widget' => '<div class="resource-right-topic-two">',
     'after_widget'  => '</div>',
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
