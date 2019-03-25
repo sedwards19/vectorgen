@@ -805,9 +805,10 @@ h3.additional-resources-two  {
     padding: 55px 60px 15px 60px;
 }
 
-.row-topics {
+.container-topics {
     display: flex;
     margin-left: 40px;
+    margin-right: 40px; 
 }
 
 /* Single Blog Page Styling */
