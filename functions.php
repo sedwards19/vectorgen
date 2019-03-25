@@ -716,7 +716,7 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
-  //RESOURCE PAGE FEATURED POST WIDGETS
+  //RESOURCE PAGE FEATURED POST WIDGET ONE
     register_sidebar( array(
       'name'          => ('featured-post-one'),
       'id'            => 'featured-post-one',
@@ -727,6 +727,7 @@ function blank_widgets_init(){
       'after_title'   => '</h3>'
     ));
 
+//RESOURCE PAGE FEATURED POST WIDGET TWO
     register_sidebar( array(
       'name'          => ('featured-post-two'),
       'id'            => 'featured-post-two',
@@ -737,7 +738,7 @@ function blank_widgets_init(){
       'after_title'   => '</h3>'
     ));
 
-  //EXAMPLE BLOG POST PAGE WIDGETS
+  //RESOURCE EXAMPLE BLOG POST WIDGETS
   register_sidebar( array(
     'name'          => ('Blog Left Topic'),
     'id'            => 'blog-left-topic',
@@ -758,7 +759,7 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
     ));
 
-  //Resource Page-Bottom Middle Topic Widget
+  //Single Post Blog Page-Bottom Middle Topic Widget
   register_sidebar( array(
     'name'          => ('Blog Middle Topic'),
     'id'            => 'blog-middle-topic',
@@ -769,7 +770,7 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
-  //Resource Page-Bottom Right Topic Widget
+  //Single Post Blog Page-Bottom Right Topic Widget
   register_sidebar( array(
     'name'          => ('Blog Right Topic'),
     'id'            => 'blog-right-topic',
