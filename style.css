@@ -797,7 +797,7 @@ h3.additional-resources-two  {
     background-color: #1D3557;
 }
 
-/*.one-half.column.one {
+.one-half.column.one {
   margin-left: 40px;
 }
 
@@ -805,7 +805,7 @@ h3.additional-resources-two  {
   margin-left: 40px;
 }
 
-.row-topics {
+/*.row-topics {
     display: flex;
 } */
 
