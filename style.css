@@ -800,11 +800,13 @@ h3.additional-resources-two  {
 .one-half.column.one {
     margin: auto;
     text-align: left;
+    justify-content: center;
 }
 
 .one-half.column.two {
     margin: auto;
     text-align: left;
+    justify-content: center;
 }
 
 /*.row-topics {
