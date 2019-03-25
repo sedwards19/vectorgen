@@ -864,7 +864,11 @@ h3.additional-resources-two  {
 
     /*Resource page*/
     .row.topics {
-        maring-left: 20%;
+        padding-left: 20%;
+    }
+
+    .one-half.column.two {
+        text-align: left;
     }
 
 }
