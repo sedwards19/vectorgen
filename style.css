@@ -765,7 +765,7 @@ h3.additional-resources-two  {
 .resource-left-topic, .resource-middle-topic, .resource-right-topic, .resource-left-topic-two, .resource-middle-topic-two, .resource-right-topic-two {
     margin: auto;
     text-align: center;
-    position: relative; 
+    position: relative;
     color: #FFFFFF;
     width: 250px;
     height: 250px;
@@ -785,10 +785,6 @@ h3.additional-resources-two  {
 
 .resource-middle-topic, .resource-left-topic-two, .resource-right-topic-two {
     background-color: #1D3557;
-}
-
-.row.interior-pages.resource {
-    padding-bottom: 75px;
 }
 
 .featured-post-one {
