@@ -730,7 +730,7 @@ h3.additional-resources {
     padding-bottom: 75px;
 }
 
-/*Resource Page Styling*/
+/*RESOURCE PAGE STYLING*/
 .resource-hero-image {
     background-image: url(http://www.harvestknight.com/VectorGen/wp-content/uploads/2019/03/binoculars-blue.jpg);
     background-position: center;
@@ -740,59 +740,22 @@ h3.additional-resources {
     height: 250px;
 }
 
-.resource-hero-image-text {
-  color: white;
-  padding: 60px;
+.resource-hero-image h1 {
+    color: #FFFFFF;
+    padding-left: 100px;
+    padding-top: 120px;
 }
+
+.resource-hero-image .textwidget {
+    padding-left: 100px;
+}
+
 
 h3.additional-resources-two  {
     text-align: center;
     color: #D83A34;
     margin-top: 60px;
 }
-
-/*.row.resource-topics {
-  padding-bottom: 75px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-.row.resource-topics-two {
-  padding-bottom: 75px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-.top-left-topic-resource, .top-middle-topic-resource, .top-right-topic-resource, .bottom-left-topic-resource, .bottom-middle-topic-resource, .bottom-right-topic-resource {
-  text-align: center;
-  color: #FFFFFF;
-  width: 250px;
-  height: 250px;
-}
-
-.top-left-topic-resource h3, .top-middle-topic-resource h3, .top-right-topic-resource h3, .bottom-left-topic-resource h3, .bottom-middle-topic-resource h3, .bottom-right-topic-resource h3 {
-    padding: 30px 25px 0px 25px;
-}
-
-/*.top-left-topic-resource p, .top-middle-topic-resource p, .top-right-topic-resource p, .bottom-left-topic-resource p, .bottom-middle-topic-resource p, .bottom-right-topic-resource p {
-    padding: 10px 25px 0px 25px;
-} */
-
-/*.top-left-topic-resource, .top-right-topic-resource, .bottom-middle-topic-resource {
-    background-color: #677485;
-}
-
-.top-middle-topic-resource, .bottom-left-topic-resource, .bottom-right-topic-resource {
-    background-color: #1D3557;
-}
-
-/*.row.blog-topics-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-} */
 
 .featured-post-one {
   padding-right: 25px;
