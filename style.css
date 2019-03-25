@@ -753,6 +753,7 @@ h3.additional-resources-two  {
 
 .row.resource-topics {
   padding-bottom: 75px;
+  margin: auto;
 }
 
 .top-left-topic-resource, .top-middle-topic-resource, .top-right-topic-resource, .bottom-left-topic-resource, .bottom-middle-topic-resource, .bottom-right-topic-resource {
@@ -773,21 +774,17 @@ h3.additional-resources-two  {
 
 .top-left-topic-resource, .top-right-topic-resource, .bottom-middle-topic-resource {
     background-color: #677485;
-    margin-left: 25px;
-    margin-right: 25px;
 }
 
 .top-middle-topic-resource, .bottom-left-topic-resource, .bottom-right-topic-resource {
     background-color: #1D3557;
-    margin-left: 25px;
-    margin-right: 25px;
 }
 
 /*.row.blog-topics-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-} /*
+} */
 
 .featured-post-one {
   padding-right: 25px;
