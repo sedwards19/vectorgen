@@ -960,14 +960,13 @@ h3.additional-resources-two  {
         display: block;
     }
 
-  /*  .resource-left-topic, .resource-middle-topic, .resource-right-topic {
-        margin-bottom: 20px;
-    } */
+.resource-left-topic, .resource-middle-topic, .resource-right-topic {
+        margin-bottom: 40px;
+    }
 
     .resource-left-topic-two, .resource-middle-topic-two, .resource-right-topic-two {
         margin-bottom: 40px;
     }
-
 
 }
 
