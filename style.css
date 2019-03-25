@@ -810,7 +810,7 @@ h3.additional-resources-two  {
 .blog-title h3 {
     text-align: left;
     color: #D83A34;
-    margin-top: 60px;
+    padding: 50px;
 }
 
 .two-thirds.column.single, .one-third.column.sidebar.single {
