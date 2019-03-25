@@ -753,12 +753,16 @@ h3.additional-resources-two  {
 
 .row.resource-topics {
   padding-bottom: 75px;
-  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .row.resource-topics-two {
   padding-bottom: 75px;
-  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .top-left-topic-resource, .top-middle-topic-resource, .top-right-topic-resource, .bottom-left-topic-resource, .bottom-middle-topic-resource, .bottom-right-topic-resource {
