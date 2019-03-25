@@ -790,7 +790,7 @@ h3.additional-resources-two {
     padding: 30px 25px 0px 25px;
 }
 
-.top-left-topic-resource h3, .top-middle-topic-resource h3, .top-right-topic-resource h3, .bottom-left-topic-resource h3, .bottom-middle-topic-resource h3, .bottom-right-topic-resource h3 {
+.top-left-topic-resource p, .top-middle-topic-resource p, .top-right-topic-resource p, .bottom-left-topic-resource p, .bottom-middle-topic-resource p, .bottom-right-topic-resource p {
     padding: 10px 25px 0px 25px;
 }
 
