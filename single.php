@@ -24,24 +24,22 @@ get_header(); ?>
     </div>
 </div>
   <!--Blog Topics Section-->
-      <div class="blog-topics-container">
-          <div class="blog-square">
-            <div class="blog-content">
+      <div class="row blog-topics">
+            <div class="one-third column blog">
               <?php dynamic_sidebar('blog-left-topic'); ?>
             </div>
-          </div>
 
-          <div class="blog-square">
-            <div class="blog-content">
+
+            <div class="one-third column blog">
               <?php dynamic_sidebar('blog-middle-topic'); ?>
             </div>
-          </div>
 
-          <div class="blog-square">
-            <div class="blog-content">
+
+
+            <div class="one-third column blog">
               <?php dynamic_sidebar('blog-right-topic'); ?>
             </div>
-          </div>
+
       </div>
 
 
