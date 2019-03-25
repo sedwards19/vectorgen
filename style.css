@@ -797,15 +797,7 @@ h3.additional-resources-two  {
     background-color: #1D3557;
 }
 
-.one-half.column.one {
-    margin: auto;
-    text-align: left;
-    justify-content: center;
-    display: flex;
-}
-
-.one-half.column.two {
-    margin: auto;
+.featured-post-one, .featured-post-two {
     text-align: left;
     justify-content: center;
     display: flex;
