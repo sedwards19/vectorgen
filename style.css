@@ -813,25 +813,6 @@ h3.additional-resources-two  {
     margin-top: 60px;
 }
 
-.row.blog-topics {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin-left: 10%;
-}
-
-.blog-left-topic, .blog-middle-topic, .blog-right-topic {
-    text-align: center;
-    background-color: #677485;
-    color: #FFFFFF;
-    margin-top: 20px;
-    margin-bottom: 60px;
-    margin-left: 10px;
-    margin-right: 10px;
-}
-
-
-
 /* 404 Styling */
 
 .twelve.columns.not-found {
