@@ -2,6 +2,8 @@
 
 <?php get_header(); ?>
 
+<div class="container">
+
 <!--Hero Image Section-->
   <div class="row">
     <div class="twelve columns">
@@ -44,14 +46,14 @@
       </div>
 
 <!-- Featured Posts -->
-      <div class="row blog-topics-container">
-        <div class="one-half column resource">
+  <!--    <div class="row blog-topics-container"> -->
+          <div class="one-half column resource">
               <?php dynamic_sidebar('featured-post-one'); ?>
           </div>
 
           <div class="one-half column resource">
               <?php dynamic_sidebar('featured-post-two'); ?>
           </div>
-      </div>
+</div>
 
 <?php get_footer(); ?>
