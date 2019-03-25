@@ -744,10 +744,12 @@ h3.additional-resources {
     color: #FFFFFF;
     padding-left: 100px;
     padding-top: 40px;
+    text-align: center;
 }
 
 .resource-hero-image p {
     color: #FFFFFF;
+    text-align: center;
 }
 
 .resource-hero-image .textwidget {
