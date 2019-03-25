@@ -936,6 +936,19 @@ h3.additional-resources-two  {
         margin-bottom: 40px;
     }
 
+    .one-third.column.resource {
+        width: 100%;
+    }
+
+    .row.interior-pages.resource {
+        display: block;
+    }
+
+    .resource-left-topic, .resource-middle-topic, .resource-right-topic, .resource-left-topic-two, .resource-middle-topic-two, .resource-right-topic-two {
+        margin-bottom: 40px;
+    }
+
+
 }
 
 @media (max-width: 1000px) {
