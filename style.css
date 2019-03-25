@@ -797,7 +797,11 @@ h3.additional-resources-two  {
     background-color: #1D3557;
 }
 
-.one-half.column {
+.one-half.column.one {
+  margin-left: 40px;
+}
+
+.one-half.column.two {
   margin-left: 40px;
 }
 
