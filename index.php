@@ -17,30 +17,30 @@
       </div>
   </div>
 
-  <div class="row interior-pages contact">
-      <div class="one-third column">
+  <div class="row interior-pages resource">
+      <div class="one-third column resource">
           <?php dynamic_sidebar('resource-left-topic'); ?>
       </div>
 
-      <div class="one-third column">
+      <div class="one-third column resource">
           <?php dynamic_sidebar('resource-middle-topic'); ?>
       </div>
 
-      <div class="one-third column">
+      <div class="one-third column resource">
           <?php dynamic_sidebar('resource-right-topic'); ?>
       </div>
   </div>
 
-  <div class="row interior-pages contact">
-      <div class="one-third column contact">
+  <div class="row interior-pages resource">
+      <div class="one-third column resource">
           <?php dynamic_sidebar('resource-left-topic-two'); ?>
       </div>
 
-      <div class="one-third column contact">
+      <div class="one-third column resource">
           <?php dynamic_sidebar('resource-middle-topic-two'); ?>
       </div>
 
-      <div class="one-third column contact">
+      <div class="one-third column resource">
           <?php dynamic_sidebar('resource-right-topic-two'); ?>
       </div>
   </div>
