@@ -759,47 +759,7 @@ h3.additional-resources-two {
   padding-bottom: 75px;
 }
 
-.top-left-topic-resource {
-  margin: auto;
-  text-align: center;
-  color: #FFFFFF;
-  width: 250px;
-  height: 250px;
-}
-
-.top-middle-topic-resource {
-  margin: auto;
-  text-align: center;
-  color: #FFFFFF;
-  width: 250px;
-  height: 250px;
-}
-
-.top-right-topic-resource {
-  margin: auto;
-  text-align: center;
-  color: #FFFFFF;
-  width: 250px;
-  height: 250px;
-}
-
-.bottom-left-topic-resource {
-  margin: auto;
-  text-align: center;
-  color: #FFFFFF;
-  width: 250px;
-  height: 250px;
-}
-
-.bottom-middle-topic-resource {
-  margin: auto;
-  text-align: center;
-  color: #FFFFFF;
-  width: 250px;
-  height: 250px;
-}
-
-.bottom-right-topic-resource {
+.top-left-topic-resource, .top-middle-topic-resource, .top-right-topic-resource, .bottom-left-topic-resource, .bottom-middle-topic-resource, .bottom-right-topic-resource {
   margin: auto;
   text-align: center;
   color: #FFFFFF;
@@ -823,7 +783,7 @@ h3.additional-resources-two {
     background-color: #1D3557;
 }
 
-.featured-posts-container {
+.row.blog-topics-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
