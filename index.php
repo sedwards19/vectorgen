@@ -45,7 +45,7 @@
       </div>
   </div>
 
-<div class="container-topics">
+<div class="container topics">
 <!-- Featured Posts -->
     <div class="row topics">
           <div class="one-half column">
