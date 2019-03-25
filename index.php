@@ -45,7 +45,6 @@
       </div>
   </div>
 
-<div class="container topics">
 <!-- Featured Posts -->
     <div class="row topics">
           <div class="one-half column">
@@ -56,7 +55,7 @@
               <?php dynamic_sidebar('featured-post-two'); ?>
           </div>
     </div>
-  </div>
+
 </div>
 
 <?php get_footer(); ?>
