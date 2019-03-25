@@ -745,17 +745,13 @@ h3.additional-resources {
   padding: 60px;
 }
 
-h3.additional-resources-two {
+/*h3.additional-resources-two {
     text-align: center;
     color: #D83A34;
     margin-top: 60px;
-}
+} */
 
 .row.resource-topics {
-  padding-bottom: 75px;
-}
-
-.row.resource-topics-two {
   padding-bottom: 75px;
 }
 
@@ -767,9 +763,9 @@ h3.additional-resources-two {
   height: 250px;
 }
 
-.top-left-topic-resource h3, .top-middle-topic-resource h3, .top-right-topic-resource h3, .bottom-left-topic-resource h3, .bottom-middle-topic-resource h3, .bottom-right-topic-resource h3 {
+/* .top-left-topic-resource h3, .top-middle-topic-resource h3, .top-right-topic-resource h3, .bottom-left-topic-resource h3, .bottom-middle-topic-resource h3, .bottom-right-topic-resource h3 {
     padding: 30px 25px 0px 25px;
-}
+} */
 
 /*.top-left-topic-resource p, .top-middle-topic-resource p, .top-right-topic-resource p, .bottom-left-topic-resource p, .bottom-middle-topic-resource p, .bottom-right-topic-resource p {
     padding: 10px 25px 0px 25px;
@@ -791,7 +787,7 @@ h3.additional-resources-two {
 
 /* Single Blog Page Styling */
 
-h3.blog-title {
+/*h3.blog-title {
     text-align: left;
     color: #D83A34;
     margin-top: 60px;
@@ -810,7 +806,7 @@ h3.blog-title {
 
 .featured-post-two {
   padding-right: 25px;
-}
+} */
 
 /*
 .blog-square {
