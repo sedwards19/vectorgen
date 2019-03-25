@@ -794,13 +794,18 @@ h3.additional-resources-two  {
     background-color: #1D3557;
 }
 
-.featured-post-one {
-    padding-right: 25px;
+.one-half.column.featured-post-one {
+    padding: 55px 60px 15px 60px;
 }
 
-.featured-post-two {
-    padding-right: 25px;
+.one-half.column.featured-post-two {
+    padding: 55px 60px 15px 60px;
 }
+
+.row-topics {
+    display: flex;
+}
+
 /* Single Blog Page Styling */
 
 .blog-title h3 {
