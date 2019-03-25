@@ -47,11 +47,11 @@
 
 <!-- Featured Posts -->
     <div class="row topics">
-          <div class="one-half column">
+          <div class="one-half column one">
               <?php dynamic_sidebar('featured-post-one'); ?>
           </div>
 
-          <div class="one-half column">
+          <div class="one-half column two">
               <?php dynamic_sidebar('featured-post-two'); ?>
           </div>
     </div>
