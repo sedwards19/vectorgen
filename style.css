@@ -807,7 +807,7 @@ h3.additional-resources-two  {
 
 .row-topics {
     display: flex;
-    padding-left: 10%; 
+    margin-left: 10%; 
 }
 
 /* Single Blog Page Styling */
