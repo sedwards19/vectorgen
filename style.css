@@ -797,17 +797,17 @@ h3.additional-resources-two  {
     background-color: #1D3557;
 }
 
-.one-half.column.featured-post-one {
-    padding: 55px 60px 15px 60px;
+/*.one-half.column.featured-post-one {
+
 }
 
 .one-half.column.featured-post-two {
     padding: 55px 60px 15px 60px;
 }
-
+*/
 .row-topics {
     display: flex;
-    margin-left: 40px;
+    padding: 55px 60px 15px 60px;
 }
 
 /* Single Blog Page Styling */
