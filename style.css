@@ -745,11 +745,11 @@ h3.additional-resources {
   padding: 60px;
 }
 
-/*h3.additional-resources-two {
+h3.additional-resources-two {
     text-align: center;
     color: #D83A34;
     margin-top: 60px;
-} */
+}
 
 .row.resource-topics {
   padding-bottom: 75px;
@@ -763,16 +763,16 @@ h3.additional-resources {
   height: 250px;
 }
 
-/* .top-left-topic-resource h3, .top-middle-topic-resource h3, .top-right-topic-resource h3, .bottom-left-topic-resource h3, .bottom-middle-topic-resource h3, .bottom-right-topic-resource h3 {
+.top-left-topic-resource h3, .top-middle-topic-resource h3, .top-right-topic-resource h3, .bottom-left-topic-resource h3, .bottom-middle-topic-resource h3, .bottom-right-topic-resource h3 {
     padding: 30px 25px 0px 25px;
-} */
+}
 
 /*.top-left-topic-resource p, .top-middle-topic-resource p, .top-right-topic-resource p, .bottom-left-topic-resource p, .bottom-middle-topic-resource p, .bottom-right-topic-resource p {
     padding: 10px 25px 0px 25px;
 } */
 
 .top-left-topic-resource, .top-right-topic-resource, .bottom-middle-topic-resource {
-    background-color: #D83A34;
+    background-color: #677485;
 }
 
 .top-middle-topic-resource, .bottom-left-topic-resource, .bottom-right-topic-resource {
