@@ -790,9 +790,9 @@ h3.additional-resources-two {
     padding: 30px 25px 0px 25px;
 }
 
-.top-left-topic-resource p, .top-middle-topic-resource p, .top-right-topic-resource p, .bottom-left-topic-resource p, .bottom-middle-topic-resource p, .bottom-right-topic-resource p {
+/*.top-left-topic-resource p, .top-middle-topic-resource p, .top-right-topic-resource p, .bottom-left-topic-resource p, .bottom-middle-topic-resource p, .bottom-right-topic-resource p {
     padding: 10px 25px 0px 25px;
-}
+} */
 
 .top-left-topic-resource, .top-right-topic-resource, .bottom-middle-topic-resource {
     background-color: #D83A34;
@@ -816,27 +816,6 @@ h3.additional-resources-two {
   flex-wrap: wrap;
   justify-content: center;
 }
-
-/*.post-square {
-  position: relative;
-  flex-basis: calc(33% - 10px);
-  margin: 10px;
-  box-sizing: border-box;
-}
-
-.post-square::before {
-  content: '';
-  display: block;
-  padding-top: 100%;
-}
-
-.post-square .post-content {
-  position: absolute;
-  top: 0; left: 0;
-  height: 100%;
-  width: 100%;
-} */
-
 
 /* Blog Page Styling */
 
