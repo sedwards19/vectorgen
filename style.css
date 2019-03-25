@@ -763,6 +763,34 @@ h3.additional-resources-two  {
     margin-top: 60px;
 }
 
+.resource-left-topic, .resource-middle-topic, .resource-right-topic, .resource-left-topic-two, .resource-middle-topic-two, .resource-right-topic-two {
+    margin: auto;
+    text-align: center;
+    color: #FFFFFF;
+    width: 250px;
+    height: 250px;
+}
+
+.resource-left-topic h3, .resource-left-topic-two h3, .resource-middle-topic h3, .resource-middle-topic-two h3, .resource-right-topic h3, .resource-right-topic-two h3 {
+    padding: 30px 25px 0px 25px;
+}
+
+.resource-left-topic p, .resource-left-topic-two p, .resource-middle-topic p, .resource-middle-topic-two p, .resource-right-topic p, .resource-right-topic-two p {
+    padding: 10px 25px 0px 25px;
+}
+
+.resource-left-topic, .resource-left-topic-two {
+    background-color: #D83A34;
+}
+
+.resource-middle-topic, .resource-middle-topic-two {
+    background-color: #1D3557;
+}
+
+.resource-right-topic, .resource-right-topic-two {
+    background-color: #677485;
+}
+
 .featured-post-one {
   padding-right: 25px;
 }
