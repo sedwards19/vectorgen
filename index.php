@@ -47,15 +47,16 @@
 
 
 <!-- Featured Posts -->
-    <div class="row blog-topics-container">
-          <div class="one-half column resource">
+    <div class="row topics">
+          <div class="one-half column">
               <?php dynamic_sidebar('featured-post-one'); ?>
           </div>
 
-          <div class="one-half column resource">
+          <div class="one-half column">
               <?php dynamic_sidebar('featured-post-two'); ?>
           </div>
     </div>
+
 </div>
 
 <?php get_footer(); ?>
