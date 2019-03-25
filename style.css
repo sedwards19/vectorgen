@@ -779,16 +779,16 @@ h3.additional-resources-two  {
     padding: 10px 25px 0px 25px;
 }
 
-.resource-left-topic, .resource-left-topic-two {
+.resource-left-topic, .resource-right-topic, .resource-middle-topic-two {
     background-color: #D83A34;
 }
 
-.resource-middle-topic, .resource-middle-topic-two {
+.resource-middle-topic, .resource-left-topic-two, .resource-right-topic-two {
     background-color: #1D3557;
 }
 
-.resource-right-topic, .resource-right-topic-two {
-    background-color: #677485;
+.row.interior-pages.resource {
+    padding-bottom: 75px;
 }
 
 .featured-post-one {
