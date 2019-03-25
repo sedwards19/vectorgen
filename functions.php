@@ -718,7 +718,7 @@ function blank_widgets_init(){
 
   //RESOURCE PAGE FEATURED POST WIDGET ONE
     register_sidebar( array(
-      'name'          => ('featured-post-one'),
+      'name'          => ('Featured Post One'),
       'id'            => 'featured-post-one',
       'description'   => 'Featured post widget area in the blog page',
       'before_widget' => '<div class="featured-post-one">',
@@ -729,7 +729,7 @@ function blank_widgets_init(){
 
 //RESOURCE PAGE FEATURED POST WIDGET TWO
     register_sidebar( array(
-      'name'          => ('featured-post-two'),
+      'name'          => ('Featured Post Two'),
       'id'            => 'featured-post-two',
       'description'   => 'Featured post widget area in the blog page',
       'before_widget' => '<div class="featured-post-two">',
@@ -740,30 +740,10 @@ function blank_widgets_init(){
 
   //Single Post Blog Page-Bottom Right Topic Widget
   register_sidebar( array(
-    'name'          => ('Blog Left Topic'),
-    'id'            => 'blog-left-topic',
-    'description'   => 'Left Topic Widget Area On The Example Blog Page',
-    'before_widget' => '<div class="blog-left-topic">',
-    'after_widget'  => '</div>',
-    'before_title'  => '<h3 class="widget-title">',
-    'after_title'   => '</h3>'
-  ));
-
-  register_sidebar( array(
-    'name'          => ('Blog Middle Topic'),
-    'id'            => 'blog-middle-topic',
-    'description'   => 'Middle Topic Widget Area On The Example Blog Page',
-    'before_widget' => '<div class="blog-middle-topic">',
-    'after_widget'  => '</div>',
-    'before_title'  => '<h3 class="widget-title">',
-    'after_title'   => '</h3>'
-  ));
-
-  register_sidebar( array(
-    'name'          => ('Blog Right Topic'),
-    'id'            => 'blog-right-topic',
-    'description'   => 'Right Topic Widget Area On The Example Blog Page',
-    'before_widget' => '<div class="blog-right-topic">',
+    'name'          => ('Blog Text'),
+    'id'            => 'blog-text',
+    'description'   => 'Text widget area on the single blog page',
+    'before_widget' => '<div class="blog-text">',
     'after_widget'  => '</div>',
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
