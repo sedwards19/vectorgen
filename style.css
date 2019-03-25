@@ -803,6 +803,15 @@ h3.blog-title {
   justify-content: center;
   margin-left: 10%;
 }
+
+.featured-post-one {
+  padding-right: 25px;
+}
+
+.featured-post-two {
+  padding-right: 25px;
+}
+
 /*
 .blog-square {
   position: relative;
