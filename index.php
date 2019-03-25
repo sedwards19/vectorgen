@@ -18,42 +18,40 @@
   </div>
   <!--Topics Section-->
       <div class="row resource-topics">
-            <div class="one-third column">
+            <div class="one-third column resource">
               <?php dynamic_sidebar('top-left-topic-resource'); ?>
             </div>
 
-            <div class="one-third column">
+            <div class="one-third column resource">
               <?php dynamic_sidebar('top-middle-topic-resource'); ?>
             </div>
 
-            <div class="one-third column">
+            <div class="one-third column resource">
               <?php dynamic_sidebar('top-right-topic-resource'); ?>
             </div>
       </div>
 
       <div class="row resource-topics-two">
-            <div class="one-third column">
+            <div class="one-third column resource">
               <?php dynamic_sidebar('bottom-left-topic-resource'); ?>
             </div>
 
-            <div class="one-third column">
+            <div class="one-third column resource">
               <?php dynamic_sidebar('bottom-middle-topic-resource'); ?>
             </div>
 
-            <div class="one-third column">
+            <div class="one-third column resource">
               <?php dynamic_sidebar('bottom-right-topic-resource'); ?>
             </div>
       </div>
 
 <!-- Featured Posts -->
       <div class="row blog-topics-container">
-        <div class="one-half column">
-        <!--  <div class="blog-square"> -->
+        <div class="one-half column resource">
               <?php dynamic_sidebar('featured-post-one'); ?>
           </div>
 
-          <div class="one-half column">
-      <!--      <div class="post-content"> -->
+          <div class="one-half column resource">
               <?php dynamic_sidebar('featured-post-two'); ?>
           </div>
       </div>
