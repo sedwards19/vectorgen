@@ -813,6 +813,10 @@ h3.additional-resources-two  {
     margin-top: 60px;
 }
 
+.two-thirds.column.single, .one-third.column.sidebar.single {
+  padding: 50px;
+}
+
 /* 404 Styling */
 
 .twelve.columns.not-found {
