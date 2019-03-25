@@ -743,7 +743,7 @@ h3.additional-resources {
 .resource-hero-image h1 {
     color: #FFFFFF;
     padding-left: 100px;
-    padding-top: 80px;
+    padding-top: 40px;
 }
 
 .resource-hero-image p {
@@ -795,11 +795,11 @@ h3.additional-resources-two  {
 }
 
 .featured-post-one {
-  padding-right: 25px;
+    padding-right: 25px;
 }
 
 .featured-post-two {
-  padding-right: 25px;
+    padding-right: 25px;
 }
 /* Single Blog Page Styling */
 
@@ -810,10 +810,10 @@ h3.additional-resources-two  {
 }
 
 .row.blog-topics {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  margin-left: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 10%;
 }
 
 .blog-left-topic, .blog-middle-topic, .blog-right-topic {
