@@ -15,15 +15,14 @@ get_header(); ?>
     </div>
 </div>
 
-  <!--Blog Topics Section-->
-<!--  <div class="row">
+  <!--RECOMMENDED FOR YOU-->
+  <div class="row">
       <div class="twelve columns">
           <h3 class="blog-title">RECOMMENDED FOR YOU</h3>
       </div>
-  </div> -->
+  </div>
 
   <div class="row interior-pages resource">
-      <h3 class="blog-title">RECOMMENDED FOR YOU</h3>
       <div class="one-third column resource">
           <?php dynamic_sidebar('resource-left-topic'); ?>
       </div>
