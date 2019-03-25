@@ -798,11 +798,13 @@ h3.additional-resources-two  {
 }
 
 .one-half.column.one {
-  margin-left: 40px;
+    margin: auto;
+    text-align: left;
 }
 
 .one-half.column.two {
-  margin-left: 40px;
+    margin: auto;
+    text-align: left;
 }
 
 /*.row-topics {
