@@ -751,7 +751,7 @@ h3.additional-resources-two {
     margin-top: 60px;
 }
 
-.resource-topics-container, .resource-topics-container-two {
+/*.resource-topics-container, .resource-topics-container-two {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -776,24 +776,48 @@ h3.additional-resources-two {
   top: 0; left: 0;
   height: 100%;
   width: 100%;
-}
+} */
 
 .top-left-topic-resource, .top-middle-topic-resource, .top-right-topic-resource, .bottom-left-topic-resource, .bottom-middle-topic-resource, .bottom-right-topic-resource {
-    text-align: center;
-    background-color: #677485;
-    color: #FFFFFF;
-    margin-top: 20px;
-    margin-bottom: 60px;
-    margin-left: 10px;
-    margin-right: 10px;
+  margin: auto;
+  text-align: center;
+  color: #FFFFFF;
+  width: 250px;
+  height: 250px;
 }
+
+.contact-left-topic h3, .contact-middle-topic h3, .contact-right-topic h3 {
+    padding: 30px 25px 0px 25px;
+}
+
+.contact-left-topic p, .contact-middle-topic p, .contact-right-topic p {
+    padding: 10px 25px 0px 25px;
+}
+
+.top-left-topic-resource, .top-right-topic-resource, .bottom-middle-topic-resource {
+    background-color: #D83A34;
+}
+
+.top-middle-topic-resource, .bottom-left-topic-resource, .bottom-right-topic-resource {
+    background-color: #1D3557;
+}
+
+.contact-right-topic {
+    background-color: #677485;
+}
+
+.row.resource-topics{
+    padding-bottom: 75px;
+}
+
+
 .featured-posts-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 
-.post-square {
+/*.post-square {
   position: relative;
   flex-basis: calc(33% - 10px);
   margin: 10px;
@@ -811,7 +835,7 @@ h3.additional-resources-two {
   top: 0; left: 0;
   height: 100%;
   width: 100%;
-}
+} */
 
 
 /* Blog Page Styling */
