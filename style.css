@@ -746,12 +746,12 @@ h3.additional-resources {
     height: 250px;
 }
 
-.contact-left-topic h3, .contact-middle-topic h3, .contact-right-topic h3 {
-    padding: 30px 25px 0px 25px;
-}
-
-.contact-left-topic p, .contact-middle-topic p, .contact-right-topic p {
-    padding: 10px 25px 0px 25px;
+.contact-left-topic a, .contact-middle-topic a, .contact-right-topic a {
+  color: #FFFFFF;
+  text-decoration: none;
+  padding: 80px 10px 0px 10px;
+  display: flex;
+  justify-content: center;
 }
 
 .contact-left-topic {
@@ -1057,7 +1057,7 @@ div.featured-publications {
         padding-bottom: 75px;
     }
 
-.resource-left-topic, .resource-middle-topic, .resource-right-topic {
+    .resource-left-topic, .resource-middle-topic, .resource-right-topic {
         margin-bottom: 40px;
     }
 
