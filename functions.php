@@ -587,6 +587,16 @@ function blank_widgets_init(){
     'after_title'   => '</h1>'
   ));
 
+  register_sidebar( array(
+    'name'          => ('Featured Publications'),
+    'id'            => 'featured-publications',
+    'description'   => 'Featured publications text widget',
+    'before_widget' => '<div class="featured-publications">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
   //CONTACT WIDGETS
   //Contact Hero Image Widget
   register_sidebar( array(
