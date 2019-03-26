@@ -4,11 +4,11 @@ get_header(); ?>
 <div class="container">
 
 <!-- Blog Text Block Section -->
+    <div class="row">
+        <div class="two-thirds column single">
+            <?php dynamic_sidebar('blog-text'); ?>
+        </div>
         <div class="one-third column sidebar single">
-          <div class="row">
-              <div class="two-thirds column single">
-                  <?php dynamic_sidebar('blog-text'); ?>
-              </div>
           <!-- sidebar -->
             <?php get_sidebar(); ?>
             <?php
