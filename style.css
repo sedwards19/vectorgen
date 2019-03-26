@@ -865,7 +865,9 @@ h3.additional-resources-two  {
     padding-right: 100px;
 }
 
-
+.row-featured {
+  background-color: #f4f5f5; 
+}
 
 /* MEDIA QUERIES - MAX WIDTH */
 @media (max-width: 550px) {
