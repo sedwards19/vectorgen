@@ -867,6 +867,14 @@ h3.additional-resources-two  {
 
 .row.featured {
   background-color: #f4f5f5;
+  padding-bottom: 75px;
+  padding-top: 10px;
+  margin-top: 75px;
+}
+
+.div.featured-publications {
+  padding-left: 50px;
+  padding-right: 50px; 
 }
 
 /* MEDIA QUERIES - MAX WIDTH */
