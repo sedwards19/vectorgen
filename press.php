@@ -11,6 +11,13 @@
     </div>
   </div>
 
+
+  <div class="row">
+      <div class="twelve columns">
+          <h3 class="additional-resources-two">RECENT UPDATES</h3>
+      </div>
+  </div>
+
   <div class="container">
       <div class="row topics">
       <?php
