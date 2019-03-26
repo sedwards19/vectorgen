@@ -775,7 +775,7 @@ h3.additional-resources-two  {
 
 .resource-left-topic, .resource-middle-topic, .resource-right-topic, .resource-left-topic-two, .resource-middle-topic-two, .resource-right-topic-two {
     margin: auto;
-    text-align: center;
+    text-align: left;
     color: #FFFFFF;
     width: 250px;
     height: 250px;
@@ -874,7 +874,7 @@ h3.additional-resources-two  {
 
 div.featured-publications {
   padding-left: 50px;
-  padding-right: 50px; 
+  padding-right: 50px;
 }
 
 /* MEDIA QUERIES - MAX WIDTH */
