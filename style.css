@@ -817,6 +817,15 @@ h3.blog-title {
   padding: 50px;
 }
 
+.blog-text {
+  background-color: #f4f5f5;
+}
+
+.image.wp-image-30 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
 /* 404 Styling */
 
 .twelve.columns.not-found {
