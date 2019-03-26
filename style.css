@@ -246,6 +246,7 @@ div.hero-image-widget {
   display: flex;
   align-items: center;
   justify-content: center;
+  text-align: center; 
 }
 
 .row.interior-pages.logos-home {
