@@ -40,7 +40,7 @@ get_header(); ?>
   <!--RECOMMENDED FOR YOU-->
   <div class="row">
       <div class="twelve columns">
-          <h3 class="additional-resources-three">RECOMMENDED FOR YOU</h3>
+          <h3 class="additional-resources-two">RECOMMENDED FOR YOU</h3>
       </div>
   </div>
 
