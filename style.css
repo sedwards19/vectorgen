@@ -238,16 +238,10 @@ p {
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
-    justify-content: left;
+    justify-content: center;
     align-items: center;
     height: 500px;
     color: white;
-}
-
-div.textwidget {
-  display: flex;
-  justify-content: left;
-  align-items: center;
 }
 
 .row.interior-pages.logos-home {
