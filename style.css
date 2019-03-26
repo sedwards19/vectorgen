@@ -816,6 +816,7 @@ h3.blog-title {
     text-align: center;
     color: #D83A34;
     padding: 50px;
+    justify-content: center;
 }
 
 .two-thirds.column.single {
