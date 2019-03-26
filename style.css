@@ -808,7 +808,7 @@ h3.additional-resources-two  {
 /* Single Blog Page Styling */
 
 .blog-text h3 p {
-  width: 100%;
+  background-size: cover;
   background-color: #f4f5f5;
 }
 
