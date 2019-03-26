@@ -39,7 +39,7 @@ get_header(); ?>
 
   <!--RECOMMENDED FOR YOU-->
   <div class="row">
-      <div class="twelve columns">
+      <div class="one-third column">
           <h3 class="blog-title">RECOMMENDED FOR YOU</h3>
       </div>
   </div>
