@@ -749,7 +749,7 @@ h3.additional-resources {
 .contact-left-topic a, .contact-middle-topic a, .contact-right-topic a {
   color: #FFFFFF;
   text-decoration: none;
-  padding: 80px 10px 0px 10px;
+  padding: 100px 10px 0px 10px;
   display: flex;
   justify-content: center;
 }
