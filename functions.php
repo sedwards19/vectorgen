@@ -577,7 +577,15 @@ function blank_widgets_init(){
 
 
   //PRESS WIDGETS INSERT HERE
-
+  register_sidebar( array(
+    'name'          => ('Press Hero Image'),
+    'id'            => 'press-hero-image',
+    'description'   => 'Hero image on press page',
+    'before_widget' => '<div class="press-hero-image">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h1 class="widget-title">',
+    'after_title'   => '</h1>'
+  ));
 
   //CONTACT WIDGETS
   //Contact Hero Image Widget
