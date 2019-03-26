@@ -50,7 +50,7 @@
       </div>
   </div>
 
-  <div class="row featured">
+  <div class="row publications">
       <div class="twelve columns">
           <h3 class="additional-resources-two">FEATURED PUBLICATIONS</h3>
           <?php dynamic_sidebar('featured-publications'); ?>
