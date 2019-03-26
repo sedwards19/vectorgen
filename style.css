@@ -296,6 +296,8 @@ ul#menu-header-menu li {
 
 #menu-header-menu li:hover ul.sub-menu li {
   display: block;
+  left: -35px;
+  top: 20px;
 }
 
 ul#menu-header-menu a {
