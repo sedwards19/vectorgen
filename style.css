@@ -818,16 +818,12 @@ h3.blog-title {
 }
 
 .one-third.column.sidebar.single {
-  padding: 75px; 
+  padding: 75px;
 }
 
 .image.wp-image-30.attachment-large.size-large {
   padding-top: 20px;
   padding-bottom: 20px;
-}
-
-.one-third.column.sidebar.single {
-  padding-top: 155px;
 }
 
 .row.featured.one {
