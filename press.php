@@ -55,8 +55,8 @@
 
   <div class="row">
       <div class="twelve columns">
-          <?php dynamic_sidebar('featured-publications'); ?>
           <h3 class="additional-resources-two">FEATURED PUBLICATIONS</h3>
+          <?php dynamic_sidebar('featured-publications'); ?>
       </div>
   </div>
 
