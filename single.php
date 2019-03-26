@@ -39,8 +39,8 @@ get_header(); ?>
 
   <!--RECOMMENDED FOR YOU-->
   <div class="row">
-      <div class="one-third column">
-          <h3 class="blog-title">RECOMMENDED FOR YOU</h3>
+      <div class="twelve columns">
+          <h3 class="additional-resources-three">RECOMMENDED FOR YOU</h3>
       </div>
   </div>
 
