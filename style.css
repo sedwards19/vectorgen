@@ -807,8 +807,13 @@ h3.additional-resources-two  {
 
 /* Single Blog Page Styling */
 
+/*.blog-text h3 p {
+  background-size: cover;
+  background-color: #f4f5f5;
+} */
+
 h3.blog-title {
-    text-align: left;
+    text-align: center;
     color: #D83A34;
     padding: 50px;
 }
