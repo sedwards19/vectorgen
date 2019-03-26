@@ -805,7 +805,7 @@ h3.additional-resources-two  {
     padding-left: 15%;
 }
 
-/* Single Blog Page Styling */
+/* SINGLE BLOG PAGE STYLING */
 
 /*.blog-text h3 p {
   background-size: cover;
@@ -836,6 +836,35 @@ h3.additional-resources-two  {
     padding: 80px;
     background-color: #f4f5f5;
 }
+
+/*PRESS PAGE*/
+.press-hero-image {
+    background-image: url(http://www.harvestknight.com/VectorGen/wp-content/uploads/2019/02/blood-1813410_1920.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 250px;
+}
+
+.press-hero-image h1 {
+    color: #FFFFFF;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 40px;
+    text-align: center;
+}
+
+.press-hero-image p {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.press-hero-image .textwidget {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
 
 
 /* MEDIA QUERIES - MAX WIDTH */
