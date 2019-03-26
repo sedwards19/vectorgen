@@ -13,7 +13,7 @@
 
   <div class="row">
       <div class="twelve columns">
-          <h3 class="additional-resources-two">PRESS AND PUBLICATIONS</h3>
+          <h3 class="additional-resources-two">ADDITIONAL RESOURCES</h3>
       </div>
   </div>
 
