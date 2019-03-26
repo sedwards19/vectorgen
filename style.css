@@ -754,6 +754,10 @@ h3.additional-resources {
   justify-content: center;
 }
 
+.contact-left-topic a:hover, .contact-middle-topic a:hover, .contact-right-topic a:hover {
+    color: #1EAEDB;
+}
+
 .contact-left-topic {
     background-color: #D83A34;
 }
