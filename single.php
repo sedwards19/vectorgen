@@ -15,7 +15,7 @@ get_header(); ?>
                 if(have_posts()){
                     while(have_posts()){
                         the_post();?>
-                        <div class="one-half column one">
+                        <div class="row">
                             <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
                             <?php the_post_thumbnail('thumb'); ?>
                             <?php the_excerpt(); ?>
@@ -23,7 +23,7 @@ get_header(); ?>
                            <p><?php echo "Article written by: " . get_the_author(); ?></p>
                         </div>
 
-                        <div class="one-half column two">
+                        <div class="row">
                             <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
                             <?php the_post_thumbnail('thumb'); ?>
                             <?php the_excerpt(); ?>
