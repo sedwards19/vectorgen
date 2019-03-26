@@ -20,7 +20,6 @@ get_header(); ?>
                             <?php the_post_thumbnail('thumb'); ?>
                             <?php the_excerpt(); ?>
                            <p><?php echo "Published: " . get_the_date(); ?></p>
-                           <p><?php echo "Article written by: " . get_the_author(); ?></p>
                         </div>
 
                         <div class="row featured two">
@@ -28,7 +27,6 @@ get_header(); ?>
                             <?php the_post_thumbnail('thumb'); ?>
                             <?php the_excerpt(); ?>
                            <p><?php echo "Published: " . get_the_date(); ?></p>
-                           <p><?php echo "Article written by: " . get_the_author(); ?></p>
                         </div>
         <?php        }// this ends the while loop
                 }// this ends the if statement
