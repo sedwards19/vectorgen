@@ -811,17 +811,14 @@ h3.blog-title {
     text-align: left;
     color: #D83A34;
     padding: 50px;
+    background-color: #f4f5f5;
 }
 
 .two-thirds.column.single, .one-third.column.sidebar.single {
   padding: 50px;
 }
 
-.blog-text {
-  background-color: #f4f5f5;
-}
-
-.image.wp-image-30 {
+.image.wp-image-30.attachment-large.size-large {
   padding-top: 20px;
   padding-bottom: 20px;
 }
