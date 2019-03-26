@@ -807,6 +807,11 @@ h3.additional-resources-two  {
 
 /* Single Blog Page Styling */
 
+.blog-text {
+  width: 100%;
+  background-color: #f4f5f5;
+}
+
 h3.blog-title {
     text-align: left;
     color: #D83A34;
