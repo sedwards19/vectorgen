@@ -866,10 +866,10 @@ h3.additional-resources-two  {
   padding-bottom: 20px;
 }
 
-/*div.row.featured.one {
+div.row.featured.one {
   padding-bottom: 75px;
   margin-top: 0px;
-} */
+}
 
 /* 404 Styling */
 
@@ -906,7 +906,7 @@ h3.additional-resources-two  {
     padding-right: 100px;
 }
 
-.row.featured {
+.row.publications {
   background-color: #f4f5f5;
   padding-bottom: 75px;
   padding-top: 10px;
