@@ -299,7 +299,7 @@ ul.sub-menu li {
 }
 
 ul#menu-header-menu a {
-  text-decoration: none;
+  text-decoration: none !important;
   font-size: 1.7rem;
   padding: 5px 15px;
 }
