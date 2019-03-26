@@ -262,7 +262,7 @@ p {
     color: white;
 }
 
-/*Original Header Styling*/
+/*Original Header Styling Before Efren's help!*/
 /*.menu-header-menu-container {
   text-align: center;
 }
@@ -282,6 +282,7 @@ ul#menu-header-menu a {
 /*Header Styling*/
 .menu-header-menu-container {
   text-align: center;
+  padding-top: 40px;
 }
 ul#menu-header-menu li {
   position: relative;
