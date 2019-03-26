@@ -288,14 +288,14 @@ ul#menu-header-menu li {
   display: inline-block;
 }
 
+li:hover .sub-menu li {
+	display: block;
+}
+
 ul.sub-menu li {
   Display: none;
   Position: absolute;
   Padding: 12px 16px;
-}
-
-ul#menu-header-menu li:hover .sub-menu li {
-	display: block;
 }
 
 ul#menu-header-menu a {
