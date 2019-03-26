@@ -814,7 +814,7 @@ h3.blog-title {
 }
 
 .two-thirds.column.single, .one-third.column.sidebar.single {
-  padding: 75px;
+  padding-left: 75px;
 }
 
 .image.wp-image-30.attachment-large.size-large {
@@ -823,7 +823,7 @@ h3.blog-title {
 }
 
 .one-third.column.sidebar.single {
-  padding-top: 150px;
+  padding-top: 155px;
 }
 
 .row.featured.one {
