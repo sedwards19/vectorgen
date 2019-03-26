@@ -242,6 +242,11 @@ p {
     color: white;
 }
 
+.hero-image-widget.textwidget {
+  align-items: center;
+  justify-content: center;
+}
+
 .row.interior-pages.logos-home {
     padding: 20px 0 20px 0;
 }
