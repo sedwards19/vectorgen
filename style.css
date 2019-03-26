@@ -242,7 +242,8 @@ p {
     color: white;
 }
 
-.hero-image-widget.textwidget {
+.hero-image-widget {
+  display: flex; 
   align-items: center;
   justify-content: center;
 }
