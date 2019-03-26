@@ -29,7 +29,6 @@
                       <?php the_post_thumbnail('thumb'); ?>
                       <?php the_excerpt(); ?>
                      <p><?php echo "Published: " . get_the_date(); ?></p>
-                     <p><?php echo "Article written by: " . get_the_author(); ?></p>
                   </div>
 
                   <div class="one-third column two">
@@ -37,7 +36,6 @@
                       <?php the_post_thumbnail('thumb'); ?>
                       <?php the_excerpt(); ?>
                      <p><?php echo "Published: " . get_the_date(); ?></p>
-                     <p><?php echo "Article written by: " . get_the_author(); ?></p>
                   </div>
 
                   <div class="one-third column three">
@@ -45,7 +43,6 @@
                       <?php the_post_thumbnail('thumb'); ?>
                       <?php the_excerpt(); ?>
                      <p><?php echo "Published: " . get_the_date(); ?></p>
-                     <p><?php echo "Article written by: " . get_the_author(); ?></p>
                   </div>
   <?php        }// this ends the while loop
           }// this ends the if statement
