@@ -242,8 +242,8 @@ p {
     color: white;
 }
 
-.hero-image-widget {
-  display: flex; 
+div.hero-image-widget {
+  display: flex;
   align-items: center;
   justify-content: center;
 }
