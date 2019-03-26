@@ -11,40 +11,6 @@
     </div>
   </div>
 
-  <div class="row">
-      <div class="twelve columns">
-          <h3 class="additional-resources-two">ADDITIONAL RESOURCES</h3>
-      </div>
-  </div>
-
-  <div class="row interior-pages resource">
-      <div class="one-third column resource">
-          <?php dynamic_sidebar('resource-left-topic'); ?>
-      </div>
-
-      <div class="one-third column resource">
-          <?php dynamic_sidebar('resource-middle-topic'); ?>
-      </div>
-
-      <div class="one-third column resource">
-          <?php dynamic_sidebar('resource-right-topic'); ?>
-      </div>
-  </div>
-
-  <div class="row interior-pages resource-two">
-      <div class="one-third column resource-two">
-          <?php dynamic_sidebar('resource-left-topic-two'); ?>
-      </div>
-
-      <div class="one-third column resource-two">
-          <?php dynamic_sidebar('resource-middle-topic-two'); ?>
-      </div>
-
-      <div class="one-third column resource-two">
-          <?php dynamic_sidebar('resource-right-topic-two'); ?>
-      </div>
-  </div>
-
   <div class="container">
       <div class="row topics">
       <?php
@@ -77,6 +43,40 @@
   <?php        }// this ends the while loop
           }// this ends the if statement
       ?>
+      </div>
+  </div>
+
+  <div class="row">
+      <div class="twelve columns">
+          <h3 class="additional-resources-two">ADDITIONAL RESOURCES</h3>
+      </div>
+  </div>
+
+  <div class="row interior-pages resource">
+      <div class="one-third column resource">
+          <?php dynamic_sidebar('resource-left-topic'); ?>
+      </div>
+
+      <div class="one-third column resource">
+          <?php dynamic_sidebar('resource-middle-topic'); ?>
+      </div>
+
+      <div class="one-third column resource">
+          <?php dynamic_sidebar('resource-right-topic'); ?>
+      </div>
+  </div>
+
+  <div class="row interior-pages resource-two">
+      <div class="one-third column resource-two">
+          <?php dynamic_sidebar('resource-left-topic-two'); ?>
+      </div>
+
+      <div class="one-third column resource-two">
+          <?php dynamic_sidebar('resource-middle-topic-two'); ?>
+      </div>
+
+      <div class="one-third column resource-two">
+          <?php dynamic_sidebar('resource-right-topic-two'); ?>
       </div>
   </div>
 
