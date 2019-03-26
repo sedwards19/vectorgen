@@ -237,7 +237,9 @@ p {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
+    display: flex;
+    justify-content: left;
+    align-items: center;
     height: 500px;
     color: white;
 }
@@ -829,7 +831,7 @@ h3.additional-resources-two  {
 div.row.featured.one {
   padding-bottom: 75px;
   margin-top: 0px;
-  background-color: none; 
+  background-color: none;
 }
 
 /* 404 Styling */
