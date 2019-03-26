@@ -826,8 +826,10 @@ h3.additional-resources-two  {
   padding-bottom: 20px;
 }
 
-.row.featured.one {
+div.row.featured.one {
   padding-bottom: 75px;
+  margin-top: 0px;
+  background-color: none; 
 }
 
 /* 404 Styling */
