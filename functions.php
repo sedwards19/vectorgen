@@ -817,6 +817,26 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
+  register_sidebar( array(
+    'name'          => ('Button Blog'),
+    'id'            => 'button-blog',
+    'description'   => 'Button widget for single blog page',
+    'before_widget' => '<div class="button-blog">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  register_sidebar( array(
+    'name'          => ('Button Blog Two'),
+    'id'            => 'button-blog-two',
+    'description'   => 'Button widget two for single blog page',
+    'before_widget' => '<div class="button-blog-two">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
   //SIDEBAR
   register_sidebar( array(
     'name'          => ('Sidebar'),
