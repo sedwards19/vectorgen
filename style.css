@@ -804,11 +804,10 @@ button#wpforms-submit-157:hover {
 }
 
 .wpforms-confirmation-container-full {
-    color: #307FE2;
-    font-weight: 500;
+    color: #307FE2 !important;
     margin: 0 0 24px 0;
-    background: #FFFFFF;
-    border: 1px solid #307FE2;
+    background: #FFFFFF !important;
+    border: 1px solid #307FE2 !important;
     padding: 15px 15px;
 }
 
