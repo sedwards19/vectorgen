@@ -1124,7 +1124,34 @@ div.featured-publications {
 
 }
 
-@media (max-width: 850px) {
+@media (max-width: 1000px) {
+
+    /* Research Page */
+  .global-crisis p {
+        text-align: center;
+        padding-right: 25px;
+        padding-left: 25px;
+  }
+
+    /* Invest Page */
+    .invest-vector-gen-approach p {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+    .row.interior-pages.resource {
+        display: block;
+        padding-bottom: 75px;
+    }
+
+    .row.interior-pages.resource-two {
+        display: block;
+        padding-bottom: 75px;
+    }
+
+}
+
+@media (max-width: 1075px) {
     /* Contact Page */
     .one-half.column.contact, .one-half.column.image {
         width: 100%;
@@ -1157,7 +1184,6 @@ div.featured-publications {
 
     .row.interior-pages.resource-two {
         display: block;
-        padding-bottom: 75px;
     }
 
     .resource-left-topic, .resource-middle-topic, .resource-right-topic {
@@ -1166,33 +1192,6 @@ div.featured-publications {
 
     .resource-left-topic-two, .resource-middle-topic-two, .resource-right-topic-two {
         margin-bottom: 40px;
-    }
-
-}
-
-@media (max-width: 1000px) {
-
-    /* Research Page */
-  .global-crisis p {
-        text-align: center;
-        padding-right: 25px;
-        padding-left: 25px;
-  }
-
-    /* Invest Page */
-    .invest-vector-gen-approach p {
-        padding-left: 25px;
-        padding-right: 25px;
-    }
-
-    .row.interior-pages.resource {
-        display: block;
-        padding-bottom: 75px;
-    }
-
-    .row.interior-pages.resource-two {
-        display: block;
-        padding-bottom: 75px;
     }
 
 }
