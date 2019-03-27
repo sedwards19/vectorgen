@@ -262,6 +262,13 @@ div.hero-image-widget {
     height: 300px;
     color: white;
 }
+h3.widget-title-vector-gen-approach {
+    padding-top: 75px;
+}
+p.vector-gen-approach {
+  padding-left: 30px;
+  padding-right: 30px;
+}
 
 /*Original Header Styling Before Efren's help!*/
 /*.menu-header-menu-container {
