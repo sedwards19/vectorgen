@@ -936,7 +936,7 @@ img.attachment-thumb.size-thumb.wp-post-image {
   width: 350px;
 }
 
-div.row.topics {
+div.row.topics.one {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -1016,6 +1016,15 @@ div.row.featured.one {
 div.featured-publications {
     padding-left: 50px;
     padding-right: 50px;
+}
+
+div.row.topics {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    text-align: left;
 }
 
 /* MEDIA QUERIES - MAX WIDTH */
