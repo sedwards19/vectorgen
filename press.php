@@ -14,7 +14,7 @@
 
   <div class="row">
       <div class="twelve columns">
-          <h3 class="additional-resources-two">RECENT UPDATES</h3>
+          <h2 class="additional-resources-two">RECENT UPDATES</h2>
       </div>
   </div>
 
@@ -52,14 +52,14 @@
 
   <div class="row publications">
       <div class="twelve columns">
-          <h3 class="additional-resources-two">FEATURED PUBLICATIONS</h3>
+          <h2 class="additional-resources-two">FEATURED PUBLICATIONS</h2>
           <?php dynamic_sidebar('featured-publications'); ?>
       </div>
   </div>
 
   <div class="row">
       <div class="twelve columns">
-          <h3 class="additional-resources-two">ADDITIONAL RESOURCES</h3>
+          <h2 class="additional-resources-two">ADDITIONAL RESOURCES</h2>
       </div>
   </div>
 
