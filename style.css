@@ -908,6 +908,10 @@ h3.additional-resources-two  {
     justify-content: center;
 }
 
+.resource-left-topic a:hover, .resource-middle-topic a:hover, .resource-right-topic a:hover, .resource-left-topic-two a:hover, .resource-middle-topic-two a:hover, .resource-right-topic-two a:hover {
+    color: #D83A34;
+  }
+
 /*.resource-left-topic p, .resource-left-topic-two p, .resource-middle-topic p, .resource-middle-topic-two p, .resource-right-topic p, .resource-right-topic-two p {
     padding: 10px 25px 0px 25px;
 } */
