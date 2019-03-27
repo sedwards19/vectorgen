@@ -846,6 +846,14 @@ h3.additional-resources {
 }
 
 /*RESOURCE PAGE STYLING*/
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+}
+
 .resource-hero-image {
     background-image: url(http://www.harvestknight.com/VectorGen/wp-content/uploads/2019/03/binoculars-blue.jpg);
     background-position: center;
