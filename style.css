@@ -890,7 +890,7 @@ h3.additional-resources-two  {
     margin: 50px;
 } */
 
-.resource-left-topic, .resource-middle-topic, .resource-right-topic, .resource-left-topic-two, .resource-middle-topic-two, .resource-right-topic-two {
+div.resource-left-topic, .resource-middle-topic, .resource-right-topic, .resource-left-topic-two, .resource-middle-topic-two, .resource-right-topic-two {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
