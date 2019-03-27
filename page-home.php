@@ -62,19 +62,19 @@
 
   <!--Logos-->
   <div class="row interior-pages logos-home">
-    <div class="three columns">
+    <div class="three columns logos">
       <?php dynamic_sidebar('far-left-logo'); ?>
     </div>
 
-    <div class="three columns">
+    <div class="three columns logos">
       <?php dynamic_sidebar('left-logo'); ?>
     </div>
 
-    <div class="three columns">
+    <div class="three columns logos">
       <?php dynamic_sidebar('right-logo'); ?>
     </div>
 
-    <div class="three columns">
+    <div class="three columns logos">
       <?php dynamic_sidebar('far-right-logo'); ?>
     </div>
   </div>
