@@ -29,6 +29,7 @@
                       <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
                       <?php the_excerpt(); ?>
                      <p><?php echo "Published: " . get_the_date(); ?></p>
+                     <?php dynamic_sidebar('button-widget'); ?>
                   </div>
 
                   <div class="one-third column two">
@@ -36,6 +37,7 @@
                       <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
                       <?php the_excerpt(); ?>
                      <p><?php echo "Published: " . get_the_date(); ?></p>
+                     <?php dynamic_sidebar('button-widget'); ?>
                   </div>
 
                   <div class="one-third column three">
@@ -43,6 +45,7 @@
                       <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
                       <?php the_excerpt(); ?>
                      <p><?php echo "Published: " . get_the_date(); ?></p>
+                     <?php dynamic_sidebar('button-widget'); ?>
                   </div>
   <?php        }// this ends the while loop
           }// this ends the if statement
