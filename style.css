@@ -1044,6 +1044,10 @@ div.featured-publications {
     .row.interior-pages.resource {
         padding-bottom: 0px;
     }
+    /*Footer page*/
+    .widget-footer.widget-left,.widget-footer.widget-middle {
+      text-align: center;
+    }
 
 }
 
