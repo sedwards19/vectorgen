@@ -1007,6 +1007,11 @@ div.featured-publications {
   padding-right: 50px;
 }
 
+img.attachment-thumb.size-thumb.wp-post-image {
+  height: 200px;
+  width: 300px;
+}
+
 /* MEDIA QUERIES - MAX WIDTH */
 @media (max-width: 550px) {
 
