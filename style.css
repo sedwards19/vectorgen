@@ -275,6 +275,9 @@ h3.widget-title-vector-gen-approach {
     text-align: center;
 }
 .left-topic-home, .middle-topic-home, .right-topic-home {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     margin: auto;
     text-align: center;
     color: #FFFFFF;
@@ -287,6 +290,7 @@ h3.widget-title-vector-gen-approach {
   text-decoration: none;
   padding: 100px 10px 0px 10px;
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
 }
 
