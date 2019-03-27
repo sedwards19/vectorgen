@@ -29,7 +29,7 @@
       </div>
     </div>
 
-    <div class="row interior-pages">
+    <div class="row interior-pages team bios">
       <div class="one-third column">
         <?php dynamic_sidebar('left-bio'); ?>
       </div>
