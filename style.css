@@ -940,8 +940,9 @@ div.row.topics {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
     margin: auto;
-    text-align: center;
+    text-align: left;
 }
 
 /* SINGLE BLOG PAGE STYLING */
