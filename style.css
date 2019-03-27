@@ -278,6 +278,8 @@ h3.widget-title-vector-gen-approach {
     margin: auto;
     text-align: center;
     color: #FFFFFF;
+    height: auto;
+    width: auto;
     max-width: 450px;
     max-height: 450px;
 }
