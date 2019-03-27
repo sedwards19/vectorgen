@@ -16,15 +16,15 @@ get_header(); ?>
                     while(have_posts()){
                         the_post();?>
                         <div class="row featured one">
-                            <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
                             <?php the_post_thumbnail('thumb'); ?>
+                            <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
                             <?php the_excerpt(); ?>
                            <p><?php echo "Published: " . get_the_date(); ?></p>
                         </div>
 
                         <div class="row featured two">
-                            <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
                             <?php the_post_thumbnail('thumb'); ?>
+                            <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
                             <?php the_excerpt(); ?>
                            <p><?php echo "Published: " . get_the_date(); ?></p>
                         </div>
@@ -38,7 +38,7 @@ get_header(); ?>
   <!--RECOMMENDED FOR YOU-->
   <div class="row">
       <div class="twelve columns">
-          <h3 class="additional-resources-two">RECOMMENDED FOR YOU</h3>
+          <h2 class="additional-resources-two">RECOMMENDED FOR YOU</h2>
       </div>
   </div>
 
