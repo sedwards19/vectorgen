@@ -402,6 +402,9 @@ footer p {
 .our-mission h3, .our-mission p {
   color: white;
 }
+.our-mission h3 {
+  padding-top: 30px;
+}
 .our-values {
   color: white;
   text-align: center;
