@@ -298,14 +298,16 @@ h3.widget-title-vector-gen-approach {
     background-color: #1D3557;
 }
 
-.contact-middle-topic {
+.middle-topic-home {
     background-color: #677485;
 }
 
-.contact-right-topic {
+.right-topic-home {
     background-color: #1D3557;
 }
-
+.row.interior-pages.topics {
+    margin: 50px;
+}
 
 /*Original Header Styling Before Efren's help!*/
 /*.menu-header-menu-container {
