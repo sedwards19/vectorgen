@@ -274,6 +274,37 @@ h3.widget-title-vector-gen-approach {
 .far-left-logo, .left-logo, .far-right-logo, .right-logo {
     text-align: center;
 }
+.left-topic-home, .middle-topic-home, .right-topic-home {
+    margin: auto;
+    text-align: center;
+    color: #FFFFFF;
+    max-width: 450px;
+    max-height: 450px;
+}
+
+.left-topic-home a, .middle-topic-home a, .right-topic-home a {
+  color: #FFFFFF;
+  text-decoration: none;
+  padding: 100px 10px 0px 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.left-topic-home a:hover, .middle-topic-home a:hover, .right-topic-home a:hover {
+    color: #D83A34;
+}
+
+.left-topic-home {
+    background-color: #1D3557;
+}
+
+.contact-middle-topic {
+    background-color: #677485;
+}
+
+.contact-right-topic {
+    background-color: #1D3557;
+}
 
 
 /*Original Header Styling Before Efren's help!*/
