@@ -880,7 +880,7 @@ h3.additional-resources-two  {
     padding: 60px;
 }
 
-.row.interior-pages.resource {
+/*.row.interior-pages.resource {
     padding-bottom: 75px;
     margin: 50px;
 }
@@ -888,7 +888,7 @@ h3.additional-resources-two  {
 .row.interior-pages.resource-two {
     padding-bottom: 75px;
     margin: 50px;
-}
+} */
 
 .resource-left-topic, .resource-middle-topic, .resource-right-topic, .resource-left-topic-two, .resource-middle-topic-two, .resource-right-topic-two {
     display: flex;
