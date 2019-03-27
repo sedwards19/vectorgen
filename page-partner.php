@@ -46,7 +46,9 @@
       <div class="twelve columns">
           <h3 class="partner-h3">OUR PARTNERS</h3>
       </div>
+    </div>
 
+    <div class="row interior-pages">
       <div class="one-half column">
         <?php dynamic_sidebar('left-partner-bio'); ?>
       </div>
@@ -55,6 +57,7 @@
         <?php dynamic_sidebar('right-partner-bio'); ?>
       </div>
     </div>
+  
 
 <!--Ready To Join Section-->
       <div class="row">
