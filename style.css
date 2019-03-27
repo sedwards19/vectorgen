@@ -936,14 +936,6 @@ img.attachment-thumb.size-thumb.wp-post-image {
   width: 350px;
 }
 
-.row.topics.one {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin: auto;
-    text-align: left;
-}
-
 /* SINGLE BLOG PAGE STYLING */
 
 /*.blog-text h3 p {
