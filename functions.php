@@ -588,6 +588,16 @@ function blank_widgets_init(){
   ));
 
   register_sidebar( array(
+    'name'          => ('Press Button'),
+    'id'            => 'button-widget',
+    'description'   => 'Button widget',
+    'before_widget' => '<div class="button-widget">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  register_sidebar( array(
     'name'          => ('Featured Publications'),
     'id'            => 'featured-publications',
     'description'   => 'Featured publications text widget',
