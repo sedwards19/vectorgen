@@ -251,6 +251,8 @@ div.hero-image-widget {
 
 .row.interior-pages.logos-home {
     padding: 20px 0 20px 0;
+    display: flex;
+    flex-wrap: wrap;
 }
 .vector-gen-approach {
     text-align: center;
@@ -269,6 +271,10 @@ h3.widget-title-vector-gen-approach {
   padding-left: 30px;
   padding-right: 30px;
 }
+.far-left-logo, .left-logo, .far-right-logo, .right-logo {
+    text-align: center;
+}
+
 
 /*Original Header Styling Before Efren's help!*/
 /*.menu-header-menu-container {
