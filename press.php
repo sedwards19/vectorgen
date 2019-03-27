@@ -25,22 +25,22 @@
               while(have_posts()){
                   the_post();?>
                   <div class="one-third column one">
-                      <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
                       <?php the_post_thumbnail('thumb'); ?>
+                      <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
                       <?php the_excerpt(); ?>
                      <p><?php echo "Published: " . get_the_date(); ?></p>
                   </div>
 
                   <div class="one-third column two">
-                      <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
                       <?php the_post_thumbnail('thumb'); ?>
+                      <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
                       <?php the_excerpt(); ?>
                      <p><?php echo "Published: " . get_the_date(); ?></p>
                   </div>
 
                   <div class="one-third column three">
-                      <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
                       <?php the_post_thumbnail('thumb'); ?>
+                      <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
                       <?php the_excerpt(); ?>
                      <p><?php echo "Published: " . get_the_date(); ?></p>
                   </div>
