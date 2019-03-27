@@ -325,6 +325,9 @@ ul#menu-header-menu a {
   display: flex;
   justify-content: center;
 }
+.three.columns.header.logo {
+  padding-left: 45px;
+}
 
 /*Footer Styling*/
 footer {
@@ -990,7 +993,7 @@ div.featured-publications {
         width: 50%;
         padding: 20px;
     }
-    
+
     .six.columns.combating-hiv, .six.columns.large-image-one, .six.columns.large-image-two, .six.columns.research-approach {
         width: 100%;
     }
