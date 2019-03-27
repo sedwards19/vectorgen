@@ -81,7 +81,7 @@ function blank_widgets_init(){
     'description'   => 'Widget Area for Vector Gen Approach Section',
     'before_widget' => '<div class="vector-gen-approach">',
     'after_widget'  => '</div>',
-    'before_title'  => '<h3 class="widget-title">',
+    'before_title'  => '<h3 class="widget-title-vector-gen-approach">',
     'after_title'   => '</h3>'
   ));
 
