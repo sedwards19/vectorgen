@@ -878,7 +878,7 @@ h2.additional-resources-two {
     text-align: center;
     color: #D83A34;
     padding-top: 60px;
-    padding-bottom: 0px; 
+    padding-bottom: 0px;
 }
 
 .row.interior-pages.resource {
@@ -937,8 +937,12 @@ img.attachment-thumb.size-thumb.wp-post-image {
 }
 
 .row.topics {
-    padding-left: 15%;
-    padding-bottom: 75px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+    color: #FFFFFF;
 }
 
 /* SINGLE BLOG PAGE STYLING */
