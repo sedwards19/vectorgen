@@ -10,22 +10,22 @@
   </div>
 
 <!--Icon Section-->
-  <div class="row interior-pages icons-home">
-    <div class="three columns">
-      <?php dynamic_sidebar('far-left-icon'); ?>
-    </div>
+    <div class="row research-icons">
+        <div class="three columns icon">
+            <?php dynamic_sidebar('research-icon-one'); ?>
+        </div>
 
-    <div class="three columns">
-      <?php dynamic_sidebar('left-icon'); ?>
-    </div>
+        <div class="three columns icon">
+            <?php dynamic_sidebar('research-icon-two'); ?>
+        </div>
 
-    <div class="three columns">
-      <?php dynamic_sidebar('right-icon'); ?>
-    </div>
+        <div class="three columns icon">
+            <?php dynamic_sidebar('research-icon-three'); ?>
+        </div>
 
-    <div class="three columns">
-      <?php dynamic_sidebar('far-right-icon'); ?>
-    </div>
+        <div class="three columns icon">
+            <?php dynamic_sidebar('research-icon-four'); ?>
+        </div>
   </div>
 
 
