@@ -671,12 +671,16 @@ div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
     padding: 50px 50px;
     background-color: #f4f5f5;
 }
+.row.interior-pages.partner-bios {
+    padding-top: 30px;
+}
 .right-partner-bio, .left-partner-bio {
     padding: 0px 30px;
     text-align: center;
 }
 .right-partner-bio h3, .left-partner-bio h3 {
     color: #D83A34;
+
 }
 .twelve.columns.ready-to-join {
     text-align: center;
