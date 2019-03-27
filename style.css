@@ -402,11 +402,14 @@ footer p {
 .our-mission h3, .our-mission p {
   color: white;
 }
-.our-mission h3 {
+.our-mission h3, .exec-h3 {
   padding-top: 30px;
 }
 .our-mission p {
   padding-bottom: 30px;
+}
+.exec-h3 {
+  color: #1D3557;
 }
 .our-values {
   color: white;
