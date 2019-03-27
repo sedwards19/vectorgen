@@ -18,7 +18,7 @@
   <header>
     <div class="container">
      <div class="row">
-       <div class="three columns">
+       <div class="three columns header logo">
          <?php if(get_header_image() == ''){?>
           <h1><a href="<?php $url = home_url('/'); echo $url; ?>"><?php bloginfo('name'); ?></a></h1><?php
         } else{?>
