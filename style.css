@@ -936,7 +936,7 @@ img.attachment-thumb.size-thumb.wp-post-image {
   width: 350px;
 }
 
-div.row.topics.one {
+.row.topics.one {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -1017,7 +1017,7 @@ div.featured-publications {
     padding-right: 50px;
 }
 
-div.row.topics {
+.row.topics {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
