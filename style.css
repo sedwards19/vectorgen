@@ -674,8 +674,6 @@ div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
 .right-partner-bio, .left-partner-bio {
     padding: 0px 30px;
     text-align: center;
-    display: flex;
-    flex-wrap: wrap;
 }
 .twelve.columns.ready-to-join {
     text-align: center;
