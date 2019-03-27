@@ -986,11 +986,11 @@ div.featured-publications {
         padding-bottom: 30px;
     }
 
-    .three.columns.icon {
+    .three.columns.icon, .three.columns.logos {
         width: 50%;
         padding: 20px;
     }
-
+    
     .six.columns.combating-hiv, .six.columns.large-image-one, .six.columns.large-image-two, .six.columns.research-approach {
         width: 100%;
     }
