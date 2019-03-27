@@ -936,13 +936,12 @@ img.attachment-thumb.size-thumb.wp-post-image {
   width: 350px;
 }
 
-.row.topics {
+div.row.topics {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     margin: auto;
     text-align: center;
-    color: #FFFFFF;
 }
 
 /* SINGLE BLOG PAGE STYLING */
