@@ -813,8 +813,8 @@ h3.additional-resources {
     margin: auto;
     text-align: center;
     color: #FFFFFF;
-    width: 250px;
-    height: 250px;
+    width: 300px;
+    height: 300px;
 }
 
 .contact-left-topic a, .contact-middle-topic a, .contact-right-topic a {
@@ -843,6 +843,7 @@ h3.additional-resources {
 
 .row.interior-pages.contact {
     padding-bottom: 75px;
+    margin: 50px;
 }
 
 /*RESOURCE PAGE STYLING*/
