@@ -313,7 +313,7 @@ h3.widget-title-vector-gen-approach {
     margin: 50px;
 }
 
-/*Header Styling*/
+/*HEADER STYLING*/
 .menu-header-menu-container {
   text-align: center;
   padding-top: 40px;
@@ -880,12 +880,12 @@ h3.additional-resources-two  {
     padding: 60px;
 }
 
-/*.row.interior-pages.resource {
+.row.interior-pages.resource {
     padding-bottom: 75px;
-    margin: 50px;
+    margin: 50px
 }
 
-.row.interior-pages.resource-two {
+/*.row.interior-pages.resource-two {
     padding-bottom: 75px;
     margin: 50px;
 } */
@@ -902,7 +902,12 @@ h3.additional-resources-two  {
 }
 
 .resource-left-topic h3, .resource-left-topic-two h3, .resource-middle-topic h3, .resource-middle-topic-two h3, .resource-right-topic h3, .resource-right-topic-two h3 {
-    padding: 30px 25px 0px 25px;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 100px 10px 0px 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 /*.resource-left-topic p, .resource-left-topic-two p, .resource-middle-topic p, .resource-middle-topic-two p, .resource-right-topic p, .resource-right-topic-two p {
