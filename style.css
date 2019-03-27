@@ -412,6 +412,9 @@ footer p {
   color: #1D3557;
   text-align: center;
 }
+.row.interior-pages.team.bios {
+    flex-wrap: wrap;
+}
 .our-values {
   color: white;
   text-align: center;
