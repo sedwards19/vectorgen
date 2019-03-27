@@ -46,7 +46,7 @@
   </div>
 
   <div class="container">
-      <div class="row topics one">
+      <div class="row topics">
       <?php
           if(have_posts()){
               while(have_posts()){
