@@ -889,7 +889,7 @@ h3.additional-resources-two  {
     padding-bottom: 75px;
 }
 
-div.resource-left-topic, .resource-middle-topic, .resource-right-topic, .resource-left-topic-two, .resource-middle-topic-two, .resource-right-topic-two {
+div.one-third.column.resource {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -899,6 +899,17 @@ div.resource-left-topic, .resource-middle-topic, .resource-right-topic, .resourc
     height: 300px;
     width: 300px;
 }
+
+/*div.resource-left-topic, .resource-middle-topic, .resource-right-topic, .resource-left-topic-two, .resource-middle-topic-two, .resource-right-topic-two {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+    color: #FFFFFF;
+    height: 300px;
+    width: 300px;
+} */
 
 .resource-left-topic h3, .resource-left-topic-two h3, .resource-middle-topic h3, .resource-middle-topic-two h3, .resource-right-topic h3, .resource-right-topic-two h3 {
     color: #FFFFFF;
