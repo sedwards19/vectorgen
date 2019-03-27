@@ -930,8 +930,14 @@ h2.additional-resources-two {
     text-align: left;
 }
 
+img.attachment-thumb.size-thumb.wp-post-image {
+  height: 200px;
+  width: 300px;
+}
+
 .row.topics {
     padding-left: 15%;
+    padding-bottom: 75px;
 }
 
 /* SINGLE BLOG PAGE STYLING */
@@ -1005,11 +1011,6 @@ div.row.featured.one {
 div.featured-publications {
   padding-left: 50px;
   padding-right: 50px;
-}
-
-img.attachment-thumb.size-thumb.wp-post-image {
-  height: 200px;
-  width: 300px;
 }
 
 /* MEDIA QUERIES - MAX WIDTH */
