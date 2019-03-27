@@ -23,8 +23,13 @@
     </div>
 
 <!--Our Executive Team Section-->
-    <div class="row interior-pages logos-home">
+    <div class="row interior-pages exec-home">
+      <div class="twelve columns">
+          <h3 class="exec-h3">OUR EXECUTIVE TEAM</h3>
+      </div>
+    </div>
 
+    <div class="row interior-pages">
       <div class="one-third column">
         <?php dynamic_sidebar('left-bio'); ?>
       </div>
