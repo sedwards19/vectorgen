@@ -394,7 +394,7 @@ footer p {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  width: 100%;
+  width: auto;
   height: 150px;
   padding: 30px;
   text-align: center;
