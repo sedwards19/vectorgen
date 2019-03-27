@@ -38,7 +38,7 @@
 
 
 <!--Topics Section-->
-  <div class="row interior-pages topics">
+  <div class="row interior-pages topics1">
     <div class="one-third column home topic">
       <?php dynamic_sidebar('left-topic-home'); ?>
     </div>
