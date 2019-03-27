@@ -20,6 +20,7 @@ get_header(); ?>
                             <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
                             <?php the_excerpt(); ?>
                            <p><?php echo "Published: " . get_the_date(); ?></p>
+                           <?php dynamic_sidebar('button-blog'); ?>
                         </div>
 
                         <div class="row featured two">
@@ -27,6 +28,7 @@ get_header(); ?>
                             <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
                             <?php the_excerpt(); ?>
                            <p><?php echo "Published: " . get_the_date(); ?></p>
+                           <?php dynamic_sidebar('button-blog-two'); ?>
                         </div>
         <?php        }// this ends the while loop
                 }// this ends the if statement
