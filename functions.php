@@ -588,10 +588,30 @@ function blank_widgets_init(){
   ));
 
   register_sidebar( array(
-    'name'          => ('Press Button'),
-    'id'            => 'button-widget',
-    'description'   => 'Button widget',
-    'before_widget' => '<div class="button-widget">',
+    'name'          => ('Press Button One'),
+    'id'            => 'press-button-one',
+    'description'   => 'Button widget for press page area one',
+    'before_widget' => '<div class="press-button-one">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  register_sidebar( array(
+    'name'          => ('Press Button Two'),
+    'id'            => 'press-button-two',
+    'description'   => 'Button widget for press page area two',
+    'before_widget' => '<div class="press-button-two">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  register_sidebar( array(
+    'name'          => ('Press Button Three'),
+    'id'            => 'press-button-three',
+    'description'   => 'Button widget for press page area three',
+    'before_widget' => '<div class="press-button-three">',
     'after_widget'  => '</div>',
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
@@ -739,6 +759,26 @@ function blank_widgets_init(){
     'id'            => 'resource-right-topic-two',
     'description'   => 'Second Widget Area In The Right Topic Resource Page',
     'before_widget' => '<div class="resource-right-topic-two">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  register_sidebar( array(
+    'name'          => ('Button Widget One'),
+    'id'            => 'button-widget-one',
+    'description'   => 'Button widget one',
+    'before_widget' => '<div class="button-widget-one">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  register_sidebar( array(
+    'name'          => ('Button Widget Two'),
+    'id'            => 'button-widget-two',
+    'description'   => 'Button widget two',
+    'before_widget' => '<div class="button-widget-two">',
     'after_widget'  => '</div>',
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
