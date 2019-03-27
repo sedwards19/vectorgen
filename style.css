@@ -777,6 +777,12 @@ input#wpforms-157-field_1 {
     text-align: center;
 }
 
+.wpforms-confirmation-container-full {
+    color: #307FE2 !important;
+    background: #FFFFFF !important;
+    border: 1px solid #307FE2 !important;
+}
+
 .newsletter-sign-up {
     background-image: url(http://www.harvestknight.com/VectorGen/wp-content/uploads/2019/03/blue-overlay.jpg);
     background-position: center;
@@ -792,6 +798,10 @@ input#wpforms-157-field_1 {
     text-align: center;
 }
 
+div#wpforms-confirmation-157 p {
+    color: #307FE2;
+}
+
 button#wpforms-submit-157 {
     background-color: #D83A34;
     color: #FFFFFF;
@@ -801,12 +811,6 @@ button#wpforms-submit-157:hover {
     background-color: #FFFFFF;
     color: #D83A34;
     border: #D83A34 solid 2px;
-}
-
-.wpforms-confirmation-container-full {
-    color: #307FE2 !important;
-    background: #FFFFFF !important;
-    border: 1px solid #307FE2 !important;
 }
 
 h3.additional-resources {
