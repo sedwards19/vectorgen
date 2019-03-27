@@ -899,7 +899,7 @@ h3.additional-resources-two  {
     width: 300px;
 }
 
-.resource-left-topic h3, .resource-left-topic-two h3, .resource-middle-topic h3, .resource-middle-topic-two h3, .resource-right-topic h3, .resource-right-topic-two h3 {
+.resource-left-topic a, .resource-left-topic-two a, .resource-middle-topic a, .resource-middle-topic-two a, .resource-right-topic a, .resource-right-topic-two a {
     color: #FFFFFF;
     text-decoration: none;
     padding: 100px 10px 0px 10px;
