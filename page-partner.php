@@ -43,6 +43,9 @@
 
 <!--Our Partner Bios Section-->
     <div class="row interior-pages partner-bios">
+      <div class="twelve columns">
+          <h3 class="partner-h3">OUR PARTNERS</h3>
+      </div>
 
       <div class="one-half column">
         <?php dynamic_sidebar('left-partner-bio'); ?>
