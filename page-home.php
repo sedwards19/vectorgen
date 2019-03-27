@@ -38,16 +38,16 @@
 
 
 <!--Topics Section-->
-  <div class="row interior-pages">
-    <div class="one-third column">
+  <div class="row interior-pages topics">
+    <div class="one-third column home topic">
       <?php dynamic_sidebar('left-topic-home'); ?>
     </div>
 
-    <div class="one-third column">
+    <div class="one-third column home topic">
       <?php dynamic_sidebar('middle-topic-home'); ?>
     </div>
 
-    <div class="one-third column">
+    <div class="one-third column home topic">
       <?php dynamic_sidebar('right-topic-home'); ?>
     </div>
 
