@@ -265,7 +265,7 @@ div.hero-image-widget {
 h3.widget-title-vector-gen-approach {
     padding-top: 75px;
 }
-p.vector-gen-approach {
+.vector-gen-approach p {
   padding-left: 30px;
   padding-right: 30px;
 }
