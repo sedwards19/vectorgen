@@ -313,23 +313,6 @@ h3.widget-title-vector-gen-approach {
     margin: 50px;
 }
 
-/*Original Header Styling Before Efren's help!*/
-/*.menu-header-menu-container {
-  text-align: center;
-}
-ul#menu-header-menu li {
-  display: inline;
-}
-ul#menu-header-menu a {
-  text-decoration: none;
-  font-size: 1.7rem;
-  padding: 5px 15px;
-}
-.interior-pages {
-  display: flex;
-  justify-content: center;
-} */
-
 /*Header Styling*/
 .menu-header-menu-container {
   text-align: center;
@@ -899,18 +882,28 @@ h3.additional-resources-two  {
 
 .row.interior-pages.resource {
     padding-bottom: 75px;
+    margin: 50px;
 }
 
 .row.interior-pages.resource-two {
     padding-bottom: 75px;
+    margin: 50px;
 }
 
 .resource-left-topic, .resource-middle-topic, .resource-right-topic, .resource-left-topic-two, .resource-middle-topic-two, .resource-right-topic-two {
-    margin: auto;
+    /*margin: auto;
     text-align: left;
     color: #FFFFFF;
     width: 250px;
-    height: 250px;
+    height: 250px; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+    color: #FFFFFF;
+    height: 300px;
+    width: 300px;
 }
 
 .resource-left-topic h3, .resource-left-topic-two h3, .resource-middle-topic h3, .resource-middle-topic-two h3, .resource-right-topic h3, .resource-right-topic-two h3 {
