@@ -807,6 +807,13 @@ button#wpforms-submit-157 {
     color: #FFFFFF;
 }
 
+div.wpforms-container-full .wpforms-form .wpforms-submit-container {
+    padding: 10px 0 0 0;
+    clear: both;
+    position: relative;
+    text-align: center;
+}
+
 button#wpforms-submit-157:hover {
     background-color: #FFFFFF;
     color: #D83A34;
