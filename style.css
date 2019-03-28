@@ -1177,11 +1177,12 @@ div.featured-publications {
         padding-bottom: 75px;
     }
 
-
+@media (min-width: 750px) {
     /* Contact Page */
     .newsletter-sign-up {
         height: 270px;
     }
+}
 
 @media (max-width: 1075px) {
     /* Contact Page */
