@@ -1038,13 +1038,13 @@ div.featured-publications {
     padding-right: 50px;
 }
 
-.row.topics {
+/*.row.topics {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     margin: auto;
     text-align: left;
-}
+} */
 
 .row.topics .one-half.column {
   width: auto;
