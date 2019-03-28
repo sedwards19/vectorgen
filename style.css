@@ -1038,32 +1038,33 @@ div.featured-publications {
     padding-right: 50px;
 }
 
-/*.row.topics {
+.row.topics {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     margin: auto;
     text-align: left;
-} */
+    align-items: center;
+}
 
 .row.topics .one-half.column {
-  width: auto;
-  margin: 0 100px;
+    width: auto;
+    margin: 0 100px;
 }
 
 .row.topics .one-third.column.one {
-  width: auto;
-  margin: 0 100px;
+    width: auto;
+    margin: 0 100px;
 }
 
 .row.topics .one-third.column.two {
-  width: auto;
-  margin: 0 100px;
+    width: auto;
+    margin: 0 100px;
 }
 
 .row.topics .one-third.column.three {
-  width: auto;
-  margin: 0 100px;
+    width: auto;
+    margin: 0 100px;
 }
 
 /* MEDIA QUERIES - MAX WIDTH */
