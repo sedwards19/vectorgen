@@ -805,6 +805,17 @@ div#wpforms-confirmation-157 p {
 button#wpforms-submit-157 {
     background-color: #D83A34;
     color: #FFFFFF;
+    background-color: #D83A34;
+    font-size: 15px;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    padding-top: 13px;
+    padding-right: 20px;
+    padding-bottom: 13px;
+    padding-left: 20px;
+    line-height: 1em;
+    box-sizing: border-box;
 }
 
 div.wpforms-container-full .wpforms-form .wpforms-submit-container {
