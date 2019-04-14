@@ -1216,7 +1216,7 @@ div.featured-publications {
     }
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 1075px) {
     /* Contact Page */
     .contact-left-topic, .contact-middle-topic, .contact-right-topic {
         width: 300px;
