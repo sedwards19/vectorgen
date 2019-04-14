@@ -1071,6 +1071,26 @@ div.featured-publications {
 /* MEDIA QUERIES */
 @media (max-width: 400px) {
 
+  /* Invest Page  */
+  .invest-hero-image {
+      height: 650px;
+  }
+
+  .invest-hero-image h1 {
+      padding-top: 80px;
+      padding-left: 60px;
+  }
+
+  .invest-hero-image .textwidget {
+      padding-left: 60px;
+  }
+
+  .invest-vector-gen-approach p {
+      padding-left: 0px;
+      padding-right: 0px;
+  }
+
+
   /* Contact Page  */
   input#wpforms-154-field_1, input#wpforms-154-field_1-last, input#wpforms-157-field_1 {
       font-size: 10px;
