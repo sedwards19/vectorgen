@@ -39,7 +39,7 @@
         </div>
     </div>
 
-<!--Budget & Timeline Section + Returns & Projections Section-->
+<!--Budget + Timeline Section-->
     <div class="row budget returns">
         <div class="six columns budget">
             <?php dynamic_sidebar('budget-timelime'); ?>
