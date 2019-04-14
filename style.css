@@ -735,8 +735,13 @@ div.wpforms-container-full {
     margin-bottom: 34px;
 }
 
-#wpforms-154-field_1, #wpforms-154-field_1-last, #wpforms-154-field_2, #wpforms-154-field_3, #wpforms-154-field_4 {
+#wpforms-154-field_1, #wpforms-154-field_1-last, #wpforms-154-field_2, #wpforms-154-field_3, #wpforms-154-field_4, select#wpforms-154-field_6 {
     background-color: #B9E0F7;
+}
+
+div.wpforms-container-full .wpforms-form *, select#wpforms-154-field_6 {
+    font-family: proxima-nova, sans-serif;
+    color: #677485;
 }
 
 button#wpforms-submit-154 {
