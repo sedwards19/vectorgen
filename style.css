@@ -1068,7 +1068,24 @@ div.featured-publications {
     margin: 0 100px;
 }
 
-/* MEDIA QUERIES - MAX WIDTH */
+/* MEDIA QUERIES */
+@media (max-width: 400px) {
+
+  /* Contact Page  */
+  input#wpforms-154-field_1, input#wpforms-154-field_1-last, input#wpforms-157-field_1 {
+      font-size: 10px;
+  }
+
+  .newsletter-sign-up {
+      height: 360px;
+  }
+
+  .row.interior-pages.contact {
+      margin: 0px;
+  }
+
+}
+
 @media (max-width: 550px) {
 
   /* Research Page  */
