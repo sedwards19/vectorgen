@@ -1071,6 +1071,36 @@ div.featured-publications {
 /* MEDIA QUERIES */
 @media (max-width: 400px) {
 
+  /* Research Page  */
+  .research-hero-image {
+      height: 650px;
+  }
+
+  .research-hero-image h1 {
+      padding-left: 30px;
+      padding-top: 60px;
+  }
+
+  .research-hero-image .textwidget {
+      padding-left: 30px;
+  }
+
+  .global-crisis p {
+      padding-left: 0px !important;
+      padding-right: 0px !important;
+  }
+
+  .three.columns.icon {
+      padding-right: 5px;
+      padding-left: 5px;
+  }
+
+  .twelve.columns.carousel {
+      padding-right: 20px;
+      padding-left: 20px;
+  }
+
+
   /* Invest Page  */
   .invest-hero-image {
       height: 650px;
