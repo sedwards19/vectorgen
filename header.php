@@ -4,6 +4,7 @@
     <meta charset="utf-8" />
 
     <meta name="keywords" content="HIV, HIV virus, HIV disease, AIDS, viral load, HIV cure, antiretrovirals, highly active anti-retrovirals, combination therapy, passive immunotherapy, gene therapy, live vector vaccine, long-term non-progressors, white blood cells, T-cells, B-cells, lymphocytes, sexually transmitted disease, CCR5, CKR5, CXCR4, HIV antibodies, seroconversion, seroreconversion, CD4, CD8, therapeutic HIV vaccine, horizontal transmission, vertical transmission, pediatric HIV infection, nucleoside reverse transcriptase inhibitors, non-nucleoside reverse transcriptase inhibitors, protease inhibitors, integrase inhibitors, fusion inhibitors, chemokine receptor antagonists, entry inhibitors">
+
     <title><?php bloginfo('name'); ?></title>
 
     <!-- Link to our style.css file here-->

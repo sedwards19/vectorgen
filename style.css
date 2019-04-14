@@ -1102,6 +1102,13 @@ div.featured-publications {
     .row.interior-pages.resource {
         padding-bottom: 0px;
     }
+
+    /*Contact page*/
+    .contact-left-topic, .contact-middle-topic, .contact-right-topic {
+        width: 400px;
+        height: 400px;
+    }
+
     /*Footer page*/
     .widget-footer.widget-left,.widget-footer.widget-middle {
         text-align: center;
@@ -1173,6 +1180,11 @@ div.featured-publications {
         display: block;
     }
 
+    .contact-left-topic, .contact-middle-topic, .contact-right-topic {
+        width: 500px;
+        height: 500px;
+    }
+
 }
 
 @media (max-width: 1000px) {
@@ -1198,6 +1210,12 @@ div.featured-publications {
     .row.interior-pages.resource-two {
         display: block;
         padding-bottom: 75px;
+    }
+
+    /* Contact Page  */
+    .contact-left-topic, .contact-middle-topic, .contact-right-topic {
+        width: 300px;
+        height: 300px;
     }
 
 @media (max-width: 1075px) {
