@@ -1080,6 +1080,11 @@ div.featured-publications {
       height: 360px;
   }
 
+  .contact-left-topic, .contact-middle-topic, .contact-right-topic {
+      width: 250px;
+      height: 250px;
+  }
+
   .row.interior-pages.contact {
       margin: 0px;
   }
