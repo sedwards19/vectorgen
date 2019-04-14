@@ -1268,3 +1268,27 @@ div.featured-publications {
     }
 
 }
+
+@media (min-width: 1200px) {
+    /* Contact Page */
+    .row.interior-pages.contact {
+        padding-right: 60px;
+        padding-left: 60px;
+    }
+}
+
+@media (min-width: 1350px) {
+    /* Contact Page */
+    .row.interior-pages.contact {
+        padding-right: 90px;
+        padding-left: 90px;
+    }
+}
+
+@media (min-width: 1600px) {
+    /* Contact Page */
+    .row.interior-pages.contact {
+        padding-right: 140px;
+        padding-left: 140px;
+    }
+}
