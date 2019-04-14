@@ -430,9 +430,9 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
-  //Invest - Budget & Timeline Text Block Widget
+  //Invest - Budget Text Block Widget
   register_sidebar( array(
-    'name'          => ('Invest Budget and Timeline Text Block'),
+    'name'          => ('Invest Budget Text Block'),
     'id'            => 'budget-timelime',
     'description'   => 'Widget Area for Budget and Timeline Section on Invest Page',
     'before_widget' => '<div class="budget-timelime">',
@@ -441,9 +441,9 @@ function blank_widgets_init(){
     'after_title'   => '</h3>'
   ));
 
-  //Invest - Returns & Projections Text Block Widget
+  //Invest - Timeline Text Block Widget
   register_sidebar( array(
-    'name'          => ('Invest Returns and Projections Text Block'),
+    'name'          => ('Invest Timeline Text Block'),
     'id'            => 'returns-projections',
     'description'   => 'Widget Area for Returns and Projections Section on Invest Page',
     'before_widget' => '<div class="returns-projections">',
