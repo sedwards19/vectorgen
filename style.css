@@ -247,7 +247,10 @@ div.hero-image-widget {
   align-items: center;
   justify-content: center;
   text-align: center;
-  color: white; 
+}
+
+div.text-widget h4 {
+  color: white;
 }
 
 .row.interior-pages.logos-home {
