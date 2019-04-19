@@ -964,10 +964,7 @@ h2.additional-resources-two {
 }
 
 .one-half.column.one, .one-half.column.two {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
+    text-align: left;
 }
 
 img.attachment-thumb.size-thumb.wp-post-image {
