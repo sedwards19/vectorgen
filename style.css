@@ -888,8 +888,7 @@ h3.additional-resources {
     position: relative;
     height: 300px;
 }
-
-.resource-hero-image h1 {
+/*.resource-hero-image h1 {
     color: #FFFFFF;
     padding-left: 100px;
     padding-right: 100px;
@@ -900,13 +899,14 @@ h3.additional-resources {
 .resource-hero-image p {
     color: #FFFFFF;
     text-align: center;
-}
+} */
 
-.resource-hero-image .textwidget {
+div.textwidget {
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
+    color: #FFFFFF;
 }
 
 
