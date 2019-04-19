@@ -17,6 +17,33 @@
       </div>
   </div>
 
+  <div class="container">
+      <div class="row topics">
+      <?php
+          if(have_posts()){
+              while(have_posts()){
+                  the_post();?>
+                  <div class="one-half column one">
+                      <?php the_post_thumbnail('thumb'); ?>
+                      <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
+                      <?php the_excerpt(); ?>
+                     <p><?php echo "Published: " . get_the_date(); ?></p>
+                     <?php dynamic_sidebar('button-widget-one'); ?>
+                  </div>
+
+                  <div class="one-half column two">
+                      <?php the_post_thumbnail('thumb'); ?>
+                      <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
+                      <?php the_excerpt(); ?>
+                     <p><?php echo "Published: " . get_the_date(); ?></p>
+                     <?php dynamic_sidebar('button-widget-two'); ?>
+                  </div>
+  <?php        }// this ends the while loop
+          }// this ends the if statement
+      ?>
+      </div>
+  </div>
+
   <div class="row interior-pages resource">
       <div class="one-third column resource">
           <?php dynamic_sidebar('resource-left-topic'); ?>
@@ -42,33 +69,6 @@
 
       <div class="one-third column resource-two">
           <?php dynamic_sidebar('resource-right-topic-two'); ?>
-      </div>
-  </div>
-
-  <div class="container">
-      <div class="row topics">
-      <?php
-          if(have_posts()){
-              while(have_posts()){
-                  the_post();?>
-                  <div class="one-half column one">
-                      <?php the_post_thumbnail('thumb'); ?>
-                      <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
-                      <?php the_excerpt(); ?>
-                     <p><?php echo "Published: " . get_the_date(); ?></p>
-                     <?php dynamic_sidebar('button-widget-one'); ?>
-                  </div>
-
-                  <div class="one-half column two">
-                      <?php the_post_thumbnail('thumb'); ?>
-                      <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
-                      <?php the_excerpt(); ?>
-                     <p><?php echo "Published: " . get_the_date(); ?></p>
-                     <?php dynamic_sidebar('button-widget-two'); ?>
-                  </div>
-  <?php        }// this ends the while loop
-          }// this ends the if statement
-      ?>
       </div>
   </div>
 
