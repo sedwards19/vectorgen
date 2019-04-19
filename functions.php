@@ -588,6 +588,16 @@ function blank_widgets_init(){
   ));
 
   register_sidebar( array(
+    'name'          => ('Press Inquiry Content'),
+    'id'            => 'press-inquiry-content',
+    'description'   => 'Press Inquiry Content',
+    'before_widget' => '<div class="press-inquiry-content">',
+    'after_widget'  => '</div>',
+    'before_title'  => '<h3 class="widget-title">',
+    'after_title'   => '</h3>'
+  ));
+
+  register_sidebar( array(
     'name'          => ('Press Button One'),
     'id'            => 'press-button-one',
     'description'   => 'Button widget for press page area one',
