@@ -20,36 +20,6 @@
 
   <div class="container">
       <div class="row topics">
-      <?php
-          if(have_posts()){
-              while(have_posts()){
-                  the_post();?>
-                  <div class="one-third column one">
-                      <?php the_post_thumbnail('thumb'); ?>
-                      <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
-                      <?php the_excerpt(); ?>
-                     <p><?php echo "Published: " . get_the_date(); ?></p>
-                     <?php dynamic_sidebar('press-button-one'); ?>
-                  </div>
-
-                  <div class="one-third column two">
-                      <?php the_post_thumbnail('thumb'); ?>
-                      <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
-                      <?php the_excerpt(); ?>
-                     <p><?php echo "Published: " . get_the_date(); ?></p>
-                     <?php dynamic_sidebar('press-button-two'); ?>
-                  </div>
-
-                  <div class="one-third column three">
-                      <?php the_post_thumbnail('thumb'); ?>
-                      <h3><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h3>
-                      <?php the_excerpt(); ?>
-                     <p><?php echo "Published: " . get_the_date(); ?></p>
-                     <?php dynamic_sidebar('press-button-three'); ?>
-                  </div>
-  <?php        }// this ends the while loop
-          }// this ends the if statement
-      ?>
       </div>
   </div>
 
