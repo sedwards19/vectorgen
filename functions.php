@@ -590,38 +590,8 @@ function blank_widgets_init(){
   register_sidebar( array(
     'name'          => ('Press Inquiry Content'),
     'id'            => 'press-inquiry-content',
-    'description'   => 'Press Inquiry Content',
+    'description'   => 'Press inquiry content',
     'before_widget' => '<div class="press-inquiry-content">',
-    'after_widget'  => '</div>',
-    'before_title'  => '<h3 class="widget-title">',
-    'after_title'   => '</h3>'
-  ));
-
-  register_sidebar( array(
-    'name'          => ('Press Button One'),
-    'id'            => 'press-button-one',
-    'description'   => 'Button widget for press page area one',
-    'before_widget' => '<div class="press-button-one">',
-    'after_widget'  => '</div>',
-    'before_title'  => '<h3 class="widget-title">',
-    'after_title'   => '</h3>'
-  ));
-
-  register_sidebar( array(
-    'name'          => ('Press Button Two'),
-    'id'            => 'press-button-two',
-    'description'   => 'Button widget for press page area two',
-    'before_widget' => '<div class="press-button-two">',
-    'after_widget'  => '</div>',
-    'before_title'  => '<h3 class="widget-title">',
-    'after_title'   => '</h3>'
-  ));
-
-  register_sidebar( array(
-    'name'          => ('Press Button Three'),
-    'id'            => 'press-button-three',
-    'description'   => 'Button widget for press page area three',
-    'before_widget' => '<div class="press-button-three">',
     'after_widget'  => '</div>',
     'before_title'  => '<h3 class="widget-title">',
     'after_title'   => '</h3>'
