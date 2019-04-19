@@ -903,8 +903,10 @@ h3.additional-resources {
 }
 
 .resource-hero-image .textwidget {
-    padding-left: 100px;
-    padding-right: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 
