@@ -14,7 +14,7 @@
 
   <div class="row">
       <div class="twelve columns">
-          <h2 class="additional-resources-two">RECENT UPDATES</h2>
+          <h2 class="additional-resources-two">PRESS INQUIRIES</h2>
       </div>
   </div>
 
