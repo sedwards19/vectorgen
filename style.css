@@ -963,10 +963,6 @@ h2.additional-resources-two {
     background-color: #1D3557;
 }
 
-.one-half.column.one {
-  padding-bottom: 60px; 
-}
-
 .one-half.column.one, .one-half.column.two {
   display: flex;
   align-items: center;
