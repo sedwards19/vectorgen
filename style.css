@@ -1181,6 +1181,15 @@ div.featured-publications {
     }
 
     /*Resource page*/
+    .row.topics {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      margin: auto;
+      text-align: left;
+      align-items: center;
+    }
+
     .one-half.column.two {
         padding-bottom: 75px;
     }
