@@ -1032,6 +1032,11 @@ div.row.featured.one {
     padding-right: 100px;
 }
 
+div.press-inquiry-content {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
 .row.publications {
     background-color: #f4f5f5;
     padding-bottom: 75px;
