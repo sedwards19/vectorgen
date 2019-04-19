@@ -901,7 +901,7 @@ h3.additional-resources {
     text-align: center;
 } */
 
-div.textwidget {
+.resource-hero-image.textwidget {
     display: flex;
     align-items: center;
     justify-content: center;
