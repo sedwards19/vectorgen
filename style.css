@@ -1063,12 +1063,8 @@ div.featured-publications {
 }
 
 .row.topics .one-half.column {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin: auto;
-    text-align: left;
-    align-items: center;
+    width: auto;
+    margin: 0 100px;
 }
 
 .row.topics .one-third.column.one {
@@ -1182,7 +1178,7 @@ div.featured-publications {
 
     /*Resource page*/
     .row.topics {
-        padding-left: 10%;
+        padding-left: 20%;
     }
 
     .one-half.column.two {
