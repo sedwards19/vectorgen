@@ -914,6 +914,7 @@ h2.additional-resources-two {
     text-align: center;
     color: #D83A34;
     padding-top: 60px;
+    padding-bottom: 60px;
 }
 
 .row.interior-pages.resource {
@@ -922,7 +923,7 @@ h2.additional-resources-two {
 }
 
 .row.interior-pages.resource-two {
-    padding-bottom: 100px;
+    padding-bottom: 75px;
     margin: 50px;
 }
 
