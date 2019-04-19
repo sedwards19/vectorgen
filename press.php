@@ -15,6 +15,7 @@
   <div class="row">
       <div class="twelve columns">
           <h2 class="additional-resources-two">PRESS INQUIRIES</h2>
+          <?php dynamic_sidebar('press-inquiry-content'); ?>
       </div>
   </div>
 
