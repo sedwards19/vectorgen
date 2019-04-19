@@ -16,7 +16,7 @@
           <h2 class="additional-resources-two">DATA & INFORMATION</h2>
       </div>
   </div>
-
+<!-- Blog posts -->
   <div class="container">
       <div class="row topics">
       <?php
@@ -44,6 +44,7 @@
       </div>
   </div>
 
+<!--Resource Blocks -->
   <div class="row interior-pages resource">
       <div class="one-third column resource">
           <?php dynamic_sidebar('resource-left-topic'); ?>
@@ -73,5 +74,5 @@
   </div>
 
 </div>
-
+<!--Footer widget -->
 <?php get_footer(); ?>
