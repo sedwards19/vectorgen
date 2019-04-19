@@ -7,6 +7,8 @@
 
     <title><?php bloginfo('name'); ?></title>
 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <!-- Link to our style.css file here-->
     <link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_url'); ?>" />
     <!-- Skolar Latin Font -->
