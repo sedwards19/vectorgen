@@ -1063,8 +1063,12 @@ div.featured-publications {
 }
 
 .row.topics .one-half.column {
-    width: auto;
-    margin: 0 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+    text-align: left;
+    align-items: center;
 }
 
 .row.topics .one-third.column.one {
