@@ -357,9 +357,6 @@ footer {
   color: white;
   padding: 50px 0 50px 0;
 }
-.widget-footer.widget-left {
-    margin-left: 50px;
-}
 .widget-footer.widget-middle {
     display: inline-block;
     padding: 0 10px 0 10px;
@@ -1281,6 +1278,10 @@ div.featured-publications {
     /* Contact Page  */
     .row.contact.form {
         display: block;
+    }
+    /*Footer Page*/
+    .widget-footer.widget-left {
+        margin-left: 50px;
     }
 }
 
