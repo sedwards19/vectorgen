@@ -281,11 +281,10 @@ h3.widget-title-vector-gen-approach {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin: auto;
     text-align: center;
     color: #FFFFFF;
-    height: 300px;
-    width: 300px;
+    height: 200px;
+    width: 200px;
 }
 
 .left-topic-home a, .middle-topic-home a, .right-topic-home a {
