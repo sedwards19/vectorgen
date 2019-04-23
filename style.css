@@ -1283,6 +1283,10 @@ div.featured-publications {
         height: 500px;
     }
 
+    /*Footer Page*/
+    .widget-footer.widget-left {
+        margin-left: 50px;
+    }
 
 }
 
@@ -1309,11 +1313,6 @@ div.featured-publications {
     .row.interior-pages.resource-two {
         display: block;
         padding-bottom: 75px;
-    }
-
-    /*Footer Page*/
-    .widget-footer.widget-left {
-        margin-left: 50px;
     }
 }
 
