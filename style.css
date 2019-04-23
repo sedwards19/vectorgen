@@ -1201,11 +1201,6 @@ div.featured-publications {
         padding-bottom: 0px;
     }
 
-    /*Footer page*/
-    .widget-footer.widget-left,.widget-footer.widget-middle {
-        text-align: center;
-    }
-
 }
 
 @media (min-width: 550px) {
@@ -1279,10 +1274,7 @@ div.featured-publications {
     .row.contact.form {
         display: block;
     }
-    /*Footer Page*/
-    .widget-footer.widget-left {
-        margin-left: 50px;
-    }
+
 }
 
 @media (min-width: 750px) {
@@ -1317,6 +1309,11 @@ div.featured-publications {
     .row.interior-pages.resource-two {
         display: block;
         padding-bottom: 75px;
+    }
+
+    /*Footer Page*/
+    .widget-footer.widget-left {
+        margin-left: 50px;
     }
 }
 
