@@ -1159,6 +1159,12 @@ div.featured-publications {
 
 @media (max-width: 550px) {
 
+  /*Home Page */
+  .row.interior-pages.topics1 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
   /* Research Page  */
   .research-hero-image .textwidget, .research-hero-image h1 {
         padding-right: 40px;
