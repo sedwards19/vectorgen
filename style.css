@@ -364,6 +364,9 @@ footer {
 footer p {
     line-height: 1;
 }
+.container.footer {
+    text-align: center;
+}
 /* About Page Styling */
 .one-half.column.about-text {
   background-color: #b9e0e7;
