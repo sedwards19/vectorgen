@@ -1161,8 +1161,7 @@ div.featured-publications {
 
   /*Home Page */
   .row.interior-pages.topics1 {
-    display: flex;
-    flex-wrap: wrap;
+    width: 100%;
 }
 
   /* Research Page  */
