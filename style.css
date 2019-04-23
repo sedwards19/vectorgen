@@ -274,6 +274,9 @@ h3.widget-title-vector-gen-approach {
 .far-left-logo, .left-logo, .far-right-logo, .right-logo {
     text-align: center;
 }
+.one-third.column.home.topic {
+    padding: 10px;
+}
 .left-topic-home, .middle-topic-home, .right-topic-home {
     display: flex;
     flex-wrap: wrap;
@@ -1277,6 +1280,8 @@ div.featured-publications {
         width: 500px;
         height: 500px;
     }
+
+
 }
 
 @media (max-width: 1000px) {
