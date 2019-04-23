@@ -310,9 +310,8 @@ h3.widget-title-vector-gen-approach {
     background-color: #1D3557;
 }
 .row.interior-pages.topics1 {
-    margin: 50px;
-    display: flex;
-    flex-wrap: wrap;
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
 
 /*HEADER STYLING*/
