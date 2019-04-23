@@ -398,6 +398,7 @@ footer p {
   text-align: center;
 }
 .row.interior-pages.team.bios {
+    display: flex;
     flex-wrap: wrap;
 }
 .our-values {
