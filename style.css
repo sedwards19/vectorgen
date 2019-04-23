@@ -694,6 +694,13 @@ div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
     text-align: center;
     padding: 50px;
     background-color:#d83a34;
+    background-image: url(http://www.harvestknight.com/VectorGen/wp-content/uploads/2019/03/red-tile_with-overlay.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 250px;
+  }
 }
 .our-research h3, .partner-h3 {
   color: #1d3557;
