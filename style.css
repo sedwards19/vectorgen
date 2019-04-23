@@ -310,6 +310,10 @@ h3.widget-title-vector-gen-approach {
 .right-topic-home {
     background-color: #1D3557;
 }
+.row.interior-pages.topics1 {
+    display: flex;
+    flex-wrap: wrap;
+}
 
 /*HEADER STYLING*/
 .menu-header-menu-container {
