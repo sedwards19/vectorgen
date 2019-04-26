@@ -1166,6 +1166,11 @@ div.featured-publications {
       height: 300px;
   }
 
+  .row.topics {
+    justify-content: center;
+    align-items: center;
+  }
+
  /* Press Page  */
   .press-hero-image {
       height: 300px;
@@ -1200,9 +1205,10 @@ div.featured-publications {
     }
 
     /*Resource page*/
-  /*  .row.topics {
-        padding-left: 20%;
-    } */
+    .row.topics {
+      justify-content: center;
+      align-items: center;
+    }
 
     .one-half.column.two {
         padding-bottom: 75px;
