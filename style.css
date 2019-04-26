@@ -711,7 +711,6 @@ div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
   color: white;
 }
 
-/* Press Page Styling */
 
 /* Contact Page Styling */
 .contact-hero-image {
@@ -907,6 +906,8 @@ h3.additional-resources {
 .resource-hero-image p {
     color: #FFFFFF;
     text-align: center;
+    padding-left: 35px;
+    padding-right: 35px;
 }
 
 /*.resource-hero-image .textwidget {
@@ -1032,6 +1033,8 @@ div.row.featured.one {
 .press-hero-image p {
     color: #FFFFFF;
     text-align: center;
+    padding-left: 35px;
+    padding-right: 35px;
 }
 
 /*div.press-hero-image {
