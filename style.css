@@ -1163,6 +1163,36 @@ div.featured-publications {
       margin: 0px;
   }
 
+  /* Resource Page  */
+  .resource-hero-image {
+      height: 300px;
+  }
+
+  .resource-hero-image h1 {
+      padding-top: 60px;
+      padding-left: 30px;
+  }
+
+  .resource-hero-image .textwidget {
+      padding-left: 30px;
+  }
+
+
+ /* Press Page  */
+  .press-hero-image {
+      height: 300px;
+  }
+
+  .press-hero-image h1 {
+      padding-top: 60px;
+      padding-left: 30px;
+  }
+
+  .press-hero-image p {
+      padding-top: 60px;
+      padding-left: 30px;
+  }
+
 }
 
 @media (max-width: 550px) {
