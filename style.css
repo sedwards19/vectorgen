@@ -909,13 +909,12 @@ h3.additional-resources {
     text-align: center;
 }
 
-.resource-hero-image .textwidget {
+/*.resource-hero-image .textwidget {
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
-}
-
+} */
 
 h2.additional-resources-two {
     text-align: center;
