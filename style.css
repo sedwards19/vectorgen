@@ -689,6 +689,7 @@ div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
 }
 .row.partner.image {
     display: flex;
+    flex-wrap: wrap;
 }
 .partner-image {
     height: 100%;
