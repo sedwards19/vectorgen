@@ -381,11 +381,13 @@ footer p {
   height: 100%;
 }
 .about-image img {
-  /* height: 100% !important; */
   width: 100% !important;
   height: 100% !important;
   object-fit: cover !important;
 }
+
+
+
 
 .our-mission {
   background-image: url(http://www.harvestknight.com/VectorGen/wp-content/uploads/2019/02/blood-1813410_1920.jpg);
