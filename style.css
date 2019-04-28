@@ -379,7 +379,7 @@ footer p {
 .one-half.column.about-image {
   height: 100%;
 }
-.about-image {
+.about-image img {
   /* height: 100% !important; */
   width: 100% !important;
   height: 100% !important;
