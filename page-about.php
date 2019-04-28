@@ -5,7 +5,7 @@
 <div class="container">
 
 <!-- Image + About Info Section-->
-    <div class="row" about section>
+    <div class="row about section" >
         <div class="one-half column about-image">
             <?php dynamic_sidebar('about-image'); ?>
         </div>
