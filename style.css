@@ -376,7 +376,7 @@ footer p {
 .row.about.section {
     display: flex;
 }
-.one-half.column.about-image {
+.about-image {
   height: 100%;
 }
 .about-image img {
@@ -686,6 +686,17 @@ div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
     background-color: #b9e0e7;
     padding: 30px;
     color: #2D333A;
+}
+.row.partner.image {
+    display: flex;
+}
+.partner-image {
+    height: 100%;
+}
+.partner-image img {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
 }
 .twelve.columns.research-text {
     text-align: center;
