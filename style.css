@@ -692,6 +692,7 @@ div.invest-left-icon, div.invest-middle-icon, div.invest-right-icon {
 }
 .partner-image {
     height: 100%;
+    max-height: 700px;
 }
 .partner-image img {
     width: 100% !important;
