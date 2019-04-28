@@ -375,6 +375,7 @@ footer p {
 }
 .row.about.section {
     display: flex;
+    flex-wrap: wrap;
 }
 .about-image {
   height: 100%;
