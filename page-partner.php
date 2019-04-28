@@ -5,7 +5,7 @@
 <div class="container">
 
 <!-- Image + Partner Info Section-->
-    <div class="row">
+    <div class="row partner image">
         <div class="one-half column">
             <?php dynamic_sidebar('partner-image'); ?>
         </div>
@@ -57,7 +57,7 @@
         <?php dynamic_sidebar('right-partner-bio'); ?>
       </div>
     </div>
-  
+
 
 <!--Ready To Join Section-->
       <div class="row">
