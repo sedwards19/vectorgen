@@ -376,17 +376,21 @@ footer p {
 .row.about.section {
     display: flex;
     flex-wrap: wrap;
+    align-content: stretch;
 }
 .about-image {
-  height: 100%;
   line-height: 0;
+}
+.one-half.column.about-image {
+  float: none;
+  display: flex;
+  align-items: stretch;
 }
 .about-image img {
   width: 100% !important;
   height: 100% !important;
   object-fit: cover !important;
 }
-
 .our-mission {
   background-image: url(http://www.harvestknight.com/VectorGen/wp-content/uploads/2019/02/blood-1813410_1920.jpg);
   background-position: center;
